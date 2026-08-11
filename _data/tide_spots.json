@@ -1968,8 +1968,8 @@
       "val": "886"
      },
      {
-      "type": "low",
-      "typeLabel": "간조",
+      "type": "high",
+      "typeLabel": "만조",
       "time": "11:27",
       "val": "93"
      },
@@ -1980,8 +1980,8 @@
       "val": "803"
      },
      {
-      "type": "low",
-      "typeLabel": "간조",
+      "type": "high",
+      "typeLabel": "만조",
       "time": "23:29",
       "val": "-10"
      }
