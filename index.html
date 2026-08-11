@@ -29,43 +29,36 @@ layout: default
     <div class="section-title">🔥 지금 많이 찾는 물때표</div>
     <div class="section-desc">실제 국립해양조사원 예보 데이터를 기반으로 한 물때표입니다</div>
     <div class="spot-grid">
-      <a href="/spot/여수/" class="spot-card">
-        <div class="s-region">전라남도 여수시</div>
-        <div class="s-name">🌊 여수 물때표</div>
-        <div class="s-next"><span>오늘 조차</span><b>299cm</b></div>
+      {% assign featured_slugs = "여수,부산,인천,통영,제주,속초,목포,울산" | split: ',' %}
+      {% for fs in featured_slugs %}
+      {% assign s = site.data.tide_spots | where: 'slug', fs | first %}
+      {% if s %}
+      {% assign today = s.tideDays | where: 'isToday', true | first %}
+      {% assign vals = today.events | map: 'val' | sort %}
+      <a href="/spot/{{ s.slug }}/" class="spot-card">
+        <div class="s-region">{{ s.region }} {{ s.city }}</div>
+        <div class="s-name">🌊 {{ s.spotName }} 물때표</div>
+        <div class="s-next"><span>오늘 조차</span><b>{{ vals.last | minus: vals.first }}cm</b></div>
       </a>
-      <div class="spot-card" style="opacity:.5;pointer-events:none;">
-        <div class="s-region">준비 중</div>
-        <div class="s-name">🌊 부산 물때표</div>
-        <div class="s-next"><span>공개 예정</span><b>-</b></div>
-      </div>
-      <div class="spot-card" style="opacity:.5;pointer-events:none;">
-        <div class="s-region">준비 중</div>
-        <div class="s-name">🌊 인천 물때표</div>
-        <div class="s-next"><span>공개 예정</span><b>-</b></div>
-      </div>
-      <div class="spot-card" style="opacity:.5;pointer-events:none;">
-        <div class="s-region">준비 중</div>
-        <div class="s-name">🌊 통영 물때표</div>
-        <div class="s-next"><span>공개 예정</span><b>-</b></div>
-      </div>
+      {% endif %}
+      {% endfor %}
     </div>
   </div>
 
   <div class="section" style="padding-top:0;">
     <div class="section-title">🗺️ 지역별 물때표</div>
-    <div class="section-desc">전국 800여개 지점의 물때표를 지역별로 찾아보세요</div>
+    <div class="section-desc">전국 {{ site.data.tide_spots.size }}개 지점의 물때표를 지역별로 찾아보세요</div>
     <div class="region-grid">
-      <a href="/region/incheon/" class="region-card"><span class="r-icon">🏝️</span><span class="r-name">인천·경기</span><span class="r-count">준비중</span></a>
-      <a href="/region/chungnam/" class="region-card"><span class="r-icon">🌊</span><span class="r-name">충남</span><span class="r-count">준비중</span></a>
-      <a href="/region/jeonbuk/" class="region-card"><span class="r-icon">🌊</span><span class="r-name">전북</span><span class="r-count">준비중</span></a>
-      <a href="/region/jeonnam/" class="region-card"><span class="r-icon">🐟</span><span class="r-name">전남</span><span class="r-count">여수 외</span></a>
-      <a href="/region/busan/" class="region-card"><span class="r-icon">⛵</span><span class="r-name">부산</span><span class="r-count">준비중</span></a>
-      <a href="/region/gyeongnam/" class="region-card"><span class="r-icon">🏝️</span><span class="r-name">경남</span><span class="r-count">준비중</span></a>
-      <a href="/region/gyeongbuk/" class="region-card"><span class="r-icon">🌊</span><span class="r-name">경북</span><span class="r-count">준비중</span></a>
-      <a href="/region/gangwon/" class="region-card"><span class="r-icon">🌊</span><span class="r-name">강원</span><span class="r-count">준비중</span></a>
-      <a href="/region/jeju/" class="region-card"><span class="r-icon">🌺</span><span class="r-name">제주</span><span class="r-count">준비중</span></a>
-      <a href="/region/ulleung/" class="region-card"><span class="r-icon">🏔️</span><span class="r-name">울릉도·독도</span><span class="r-count">준비중</span></a>
+      {% assign region_groups = site.data.tide_spots | group_by: 'regionSlug' | sort: 'name' %}
+      {% assign region_icons = "incheon:🏝️,gyeonggi:🌊,jeonnam:🐟,jeju:🌺,busan:⛵,gyeongnam:🏝️,gyeongbuk:🌊,gangwon:🌊,chungnam:🌊,jeonbuk:🌊,ulsan:⛵" | split: ',' %}
+      {% for g in region_groups %}
+      {% assign icon = "🌊" %}
+      {% for ri in region_icons %}
+        {% assign parts = ri | split: ':' %}
+        {% if parts[0] == g.name %}{% assign icon = parts[1] %}{% endif %}
+      {% endfor %}
+      <a href="/region/{{ g.name }}/" class="region-card"><span class="r-icon">{{ icon }}</span><span class="r-name">{{ g.items.first.region }}</span><span class="r-count">{{ g.items.size }}곳</span></a>
+      {% endfor %}
     </div>
   </div>
 

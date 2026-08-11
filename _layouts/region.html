@@ -1,0 +1,51 @@
+---
+layout: default
+---
+
+<nav class="breadcrumb">
+  <a href="/">홈</a>
+  <span>›</span>
+  <span>{{ page.region }} 물때표</span>
+</nav>
+
+<div class="tide-layout">
+<div class="tide-page">
+
+  <div class="section" style="padding:16px 0 0;">
+    <div class="section-title">🗺️ {{ page.region }} 물때표</div>
+    <div class="section-desc">총 {{ page.spots.size }}개 지점</div>
+  </div>
+
+  <div class="ad-slot">{% include ad.html %}</div>
+
+  <div class="spot-grid" style="margin-top:16px;">
+    {% for s in page.spots %}
+    <a href="/spot/{{ s.slug }}/" class="spot-card">
+      <div class="s-region">{{ s.city }}</div>
+      <div class="s-name">🌊 {{ s.spotName }} 물때표</div>
+      <div class="s-next"><span>기준항</span><b>{{ s.baseName }}</b></div>
+    </a>
+    {% endfor %}
+  </div>
+
+  <div class="card" style="margin-top:24px;">
+    <h2>🗺️ 다른 지역 물때표</h2>
+    <div class="related-grid">
+      {% assign all_regions = site.data.tide_spots | map: 'regionSlug' | uniq %}
+      {% for rs in all_regions %}
+      {% if rs != page.regionSlug %}
+      {% assign r_spot = site.data.tide_spots | where: 'regionSlug', rs | first %}
+      <a href="/region/{{ rs }}/" class="related-card">
+        <span class="related-icon">🌊</span>
+        <span class="related-name">{{ r_spot.region }}</span>
+      </a>
+      {% endif %}
+      {% endfor %}
+    </div>
+  </div>
+
+</div>
+<aside class="tide-sidebar">
+  <div class="ad-card">{% include ad.html slot="6255378195" label="사이드바" %}</div>
+</aside>
+</div>

@@ -28,12 +28,12 @@ layout: default
         <div class="nt-value">{{ page.todayMulddae }}</div>
       </div>
       <div class="now-tide-item">
-        <div class="nt-label">음력</div>
-        <div class="nt-value">{{ page.lunarDate }}</div>
-      </div>
-      <div class="now-tide-item">
         <div class="nt-label">오늘 조차</div>
         <div class="nt-value">{{ page.todayRange }}cm</div>
+      </div>
+      <div class="now-tide-item">
+        <div class="nt-label">좌표</div>
+        <div class="nt-value" style="font-size:.95rem;">{{ page.lot }}, {{ page.lat }}</div>
       </div>
     </div>
   </div>
@@ -42,7 +42,7 @@ layout: default
   <div class="today-tide-cards">
     {% for t in page.todayTides %}
     <div class="tt-card {{ t.type }}">
-      <div class="tt-label">{{ t.label }}</div>
+      <div class="tt-label">{{ t.typeLabel }}</div>
       <div class="tt-time">{{ t.time }}</div>
       <div class="tt-val">{{ t.val }}cm</div>
     </div>
