@@ -17,9 +17,17 @@ layout: default
     <div class="spot-header-top">
       <div>
         <div class="spot-title">🌊 {{ page.spotName }} 물때표</div>
+        {% if page.isInterpolated %}
+        <div class="spot-subtitle">{{ page.region }} {{ page.city }} · 가장 가까운 기준항 {{ page.baseName }}으로부터 보간 계산</div>
+        {% else %}
         <div class="spot-subtitle">{{ page.region }} {{ page.city }} · 기준항: {{ page.baseName }}</div>
+        {% endif %}
       </div>
+      {% if page.isInterpolated %}
+      <div class="spot-updated">보간 추정치</div>
+      {% else %}
       <div class="spot-updated">국립해양조사원 공식 예보 기반</div>
+      {% endif %}
     </div>
 
     <div class="now-tide-strip">
@@ -64,6 +72,22 @@ layout: default
     </div>
   </div>
 
+  {% if page.isInterpolated %}
+  <!-- 확장지점: 8일 표/역대기록 대신 기준항 안내 -->
+  <div class="card">
+    <h2>ℹ️ 더 자세한 기록이 필요하신가요?</h2>
+    <p style="color:var(--text-muted);font-size:.9rem;line-height:1.8;">
+      {{ page.spotName }}은(는) 가장 가까운 공식 관측 기준항인 <strong>{{ page.baseName }}</strong>의 데이터를 보간(위치·시간 보정)하여 계산한 추정치입니다.
+      {% if page.baseSlug %}8일치 상세 물때표와 역대 최고·최저 기록은 기준항 페이지에서 공식 데이터로 확인할 수 있어요.{% endif %}
+    </p>
+    {% if page.baseSlug %}
+    <a href="/spot/{{ page.baseSlug }}/" class="map-link-btn" style="margin-top:12px;">📅 {{ page.nearestOfficialName }} 공식 물때표 보기 →</a>
+    {% endif %}
+  </div>
+
+  <!-- 광고 -->
+  <div class="ad-slot">{% include ad.html label="역대 기록 위" %}</div>
+  {% else %}
   <!-- 8일 물때표 -->
   <div class="card">
     <h2>📅 {{ page.spotName }} 8일 물때표</h2>
@@ -115,6 +139,7 @@ layout: default
       </div>
     </div>
   </div>
+  {% endif %}
 
   <!-- 위치 -->
   <div class="card">
@@ -160,7 +185,11 @@ layout: default
     <h2>자주 묻는 질문</h2>
     <details>
       <summary>이 물때표는 얼마나 정확한가요?</summary>
+      {% if page.isInterpolated %}
+      <p>{{ page.spotName }}은(는) 공식 관측 기준항이 아니라, 가장 가까운 기준항({{ page.baseName }})의 데이터를 좌표·시간 보정하여 계산한 추정치입니다. 실제와 다소 차이가 있을 수 있으며, 정밀한 수치가 필요하면 {{ page.baseName }} 공식 페이지를 참고하세요.</p>
+      {% else %}
       <p>국립해양조사원의 공식 조석예보 API 데이터를 그대로 사용합니다. 다만 기상 상황(태풍, 이상 저기압 등)에 따라 실제 조위는 예보와 다를 수 있습니다.</p>
+      {% endif %}
     </details>
     <details>
       <summary>물때(1물~15물)는 무엇을 의미하나요?</summary>
@@ -177,7 +206,11 @@ layout: default
     "@context": "https://schema.org",
     "@type": "FAQPage",
     "mainEntity": [
+      {% if page.isInterpolated %}
+      {"@type": "Question", "name": "이 물때표는 얼마나 정확한가요?", "acceptedAnswer": {"@type": "Answer", "text": "{{ page.spotName }}은(는) 공식 관측 기준항이 아니라 가장 가까운 기준항({{ page.baseName }})의 데이터를 보정하여 계산한 추정치입니다."}},
+      {% else %}
       {"@type": "Question", "name": "이 물때표는 얼마나 정확한가요?", "acceptedAnswer": {"@type": "Answer", "text": "국립해양조사원의 공식 조석예보 API 데이터를 그대로 사용합니다. 다만 기상 상황(태풍, 이상 저기압 등)에 따라 실제 조위는 예보와 다를 수 있습니다."}},
+      {% endif %}
       {"@type": "Question", "name": "물때(1물~15물)는 무엇을 의미하나요?", "acceptedAnswer": {"@type": "Answer", "text": "음력 날짜를 기준으로 한 조수 간만의 차 주기를 나타내는 전통적인 표현입니다. 8~9물 전후(사리)에 조차가 가장 크고, 조금(약 8일 후)에 가장 작습니다."}},
       {"@type": "Question", "name": "이 페이지 정보가 서버에 저장되나요?", "acceptedAnswer": {"@type": "Answer", "text": "아니요. 이 페이지는 국립해양조사원 공공데이터를 주기적으로 수집해 정적으로 생성한 정보이며, 방문자의 개인정보는 수집하지 않습니다."}}
     ]

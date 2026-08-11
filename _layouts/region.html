@@ -21,7 +21,7 @@ layout: default
   <div class="spot-grid" style="margin-top:16px;">
     {% for s in page.spots %}
     <a href="/spot/{{ s.slug }}/" class="spot-card">
-      <div class="s-region">{{ s.city }}</div>
+      <div class="s-region">{{ s.city }}{% if s.isInterpolated %} · 추정치{% endif %}</div>
       <div class="s-name">🌊 {{ s.spotName }} 물때표</div>
       <div class="s-next"><span>기준항</span><b>{{ s.baseName }}</b></div>
     </a>

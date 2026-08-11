@@ -47,9 +47,10 @@ layout: default
 
   <div class="section" style="padding-top:0;">
     <div class="section-title">🗺️ 지역별 물때표</div>
-    <div class="section-desc">전국 {{ site.data.tide_spots.size }}개 지점의 물때표를 지역별로 찾아보세요</div>
+    {% assign all_spots = site.data.tide_spots | concat: site.data.extended_spots %}
+    <div class="section-desc">전국 {{ all_spots.size }}개 지점의 물때표를 지역별로 찾아보세요</div>
     <div class="region-grid">
-      {% assign region_groups = site.data.tide_spots | group_by: 'regionSlug' | sort: 'name' %}
+      {% assign region_groups = all_spots | group_by: 'regionSlug' | sort: 'name' %}
       {% assign region_icons = "incheon:🏝️,gyeonggi:🌊,jeonnam:🐟,jeju:🌺,busan:⛵,gyeongnam:🏝️,gyeongbuk:🌊,gangwon:🌊,chungnam:🌊,jeonbuk:🌊,ulsan:⛵" | split: ',' %}
       {% for g in region_groups %}
       {% assign icon = "🌊" %}
