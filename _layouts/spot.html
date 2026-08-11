@@ -145,7 +145,7 @@ layout: default
   <div class="card">
     <h2>📍 위치 정보</h2>
     <p style="color:var(--text-muted);font-size:.88rem;margin-bottom:14px;">기준항: {{ page.baseName }} (경도 {{ page.lot }}, 위도 {{ page.lat }})</p>
-    <a href="https://map.kakao.com/link/map/{{ page.spotName | url_encode }},{{ page.lat }},{{ page.lot }}" target="_blank" rel="noopener" class="map-link-btn">🗺️ 카카오맵으로 위치 보기</a>
+    <a href="https://map.kakao.com/link/map/{{ page.spotName | url_encode }},{{ page.lat }},{{ page.lot }}" class="map-link-btn">🗺️ 카카오맵으로 위치 보기</a>
   </div>
 
   <!-- 우아낚시 교차링크 -->
