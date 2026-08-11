@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wootide.wooahouse.com/sitemap.xml

@@ -1,0 +1,10 @@
+_site/
+.jekyll-cache/
+.sass-cache/
+.bundle/
+vendor/
+Gemfile.lock
+.env
+scripts/__pycache__/
+*.log
+_data/raw_*.json

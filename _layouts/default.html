@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{% if page.title %}{{ page.title }}{% else %}우아물때 - 전국 물때표·조석 정보{% endif %}</title>
+  <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+  <link rel="canonical" href="{{ page.url | absolute_url }}">
+
+  {% if page.layout == 'spot' %}
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="{{ page.title }}">
+  <meta property="og:description" content="{{ page.description }}">
+  {% else %}
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}우아물때 - 전국 물때표·조석 정보{% endif %}">
+  <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+  {% endif %}
+  <meta property="og:image" content="{{ '/assets/og-image.png' | absolute_url }}">
+  <meta property="og:url" content="{{ page.url | absolute_url }}">
+  <meta property="og:site_name" content="우아물때">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="google-site-verification" content="" />
+  <meta name="naver-site-verification" content="6d157c984707ecedcd1fdbb6d8f46352f7731572" />
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Pretendard:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+
+  <!-- Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-9ZGENFSXWC"></script>
+  <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-9ZGENFSXWC');</script>
+
+  <!-- AdSense -->
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6464921081676309" crossorigin="anonymous"></script>
+</head>
+<body>
+
+<header class="site-header">
+  <div class="header-inner">
+    <a href="{{ '/' | relative_url }}" class="site-logo">
+      <span class="logo-icon">🌊</span>
+      <span class="logo-text">우아물때</span>
+    </a>
+    <nav class="header-nav">
+      <a href="{{ '/region/' | relative_url }}">지역별 물때표</a>
+      <a href="https://wooafish.wooahouse.com" target="_blank" rel="noopener" class="ext">우아낚시 →</a>
+      <a href="https://wooahouse.com" target="_blank" rel="noopener" class="ext">WooaHouse →</a>
+    </nav>
+  </div>
+</header>
+
+<script src="{{ '/assets/js/wooa-sites-bar.js' | relative_url }}"></script>
+
+{% unless page.layout == 'spot' or page.url == '/' %}
+<div class="top-ad-bar">
+  <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6464921081676309" data-ad-slot="7080296704" data-ad-format="auto" data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+{% endunless %}
+
+<main class="site-main">
+  {{ content }}
+</main>
+<script src="{{ '/assets/js/wooa-sidebar.js' | relative_url }}"></script>
+
+<footer class="site-footer">
+  <div class="footer-inner">
+    <p class="footer-disclaimer">
+      본 정보는 해양수산부 국립해양조사원 공공데이터(조석예보)를 기반으로 자동 생성됩니다.<br>
+      법적 효력이 없는 참고용 정보이며, 실제 조업·안전 활동 시에는 반드시 공식 자료를 함께 확인하세요.
+    </p>
+    <p class="footer-links">
+      <a href="https://wooahouse.com" target="_blank">WooaHouse</a> ·
+      <a href="https://wooafish.wooahouse.com" target="_blank">우아낚시</a> ·
+      <a href="{{ '/privacy/' | relative_url }}">개인정보처리방침</a>
+    </p>
+    <p class="copyright">&copy; 2026 우아물때 · WooaHouse. All rights reserved.</p>
+  </div>
+</footer>
+
+</body>
+</html>

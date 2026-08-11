@@ -1,0 +1,194 @@
+---
+layout: default
+---
+
+<nav class="breadcrumb">
+  <a href="/">홈</a>
+  <span>›</span>
+  <a href="/region/{{ page.regionSlug }}/">{{ page.region }}</a>
+  <span>›</span>
+  <span>{{ page.spotName }} 물때표</span>
+</nav>
+
+<div class="tide-layout">
+<div class="tide-page">
+
+  <div class="spot-header">
+    <div class="spot-header-top">
+      <div>
+        <div class="spot-title">🌊 {{ page.spotName }} 물때표</div>
+        <div class="spot-subtitle">{{ page.region }} {{ page.city }} · 기준항: {{ page.baseName }}</div>
+      </div>
+      <div class="spot-updated">국립해양조사원 공식 예보 기반</div>
+    </div>
+
+    <div class="now-tide-strip">
+      <div class="now-tide-item">
+        <div class="nt-label">오늘 물때</div>
+        <div class="nt-value">{{ page.todayMulddae }}</div>
+      </div>
+      <div class="now-tide-item">
+        <div class="nt-label">음력</div>
+        <div class="nt-value">{{ page.lunarDate }}</div>
+      </div>
+      <div class="now-tide-item">
+        <div class="nt-label">오늘 조차</div>
+        <div class="nt-value">{{ page.todayRange }}cm</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- 오늘 만조/간조 4칸 -->
+  <div class="today-tide-cards">
+    {% for t in page.todayTides %}
+    <div class="tt-card {{ t.type }}">
+      <div class="tt-label">{{ t.label }}</div>
+      <div class="tt-time">{{ t.time }}</div>
+      <div class="tt-val">{{ t.val }}cm</div>
+    </div>
+    {% endfor %}
+  </div>
+
+  <!-- 광고 -->
+  <div class="ad-slot" style="margin-top:20px;">{% include ad.html %}</div>
+
+  <!-- 조위 그래프 -->
+  <div class="card">
+    <h2>📈 오늘의 조위 변화</h2>
+    <div class="chart-wrap">
+      {{ page.chartSvg }}
+    </div>
+    <div class="chart-legend">
+      <span><i class="dot" style="background:var(--high)"></i> 만조(고조)</span>
+      <span><i class="dot" style="background:var(--low)"></i> 간조(저조)</span>
+    </div>
+  </div>
+
+  <!-- 8일 물때표 -->
+  <div class="card">
+    <h2>📅 {{ page.spotName }} 8일 물때표</h2>
+    <div class="tide-table-wrap">
+      <table class="tide-table">
+        <thead>
+          <tr>
+            <th>날짜</th><th>물때</th><th>1차</th><th>2차</th><th>3차</th><th>4차</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for d in page.tideDays %}
+          <tr{% if d.isToday %} class="today"{% endif %}>
+            <td class="cell-date">{{ d.dateLabel }}<small>{{ d.dow }}</small></td>
+            <td>{{ d.mulddae }}물</td>
+            {% for e in d.events %}
+            <td>
+              <span class="pill {{ e.type }}">
+                <span class="p-time">{{ e.typeLabel }} {{ e.time }}</span>
+                <span class="p-val">{{ e.val }}cm</span>
+              </span>
+            </td>
+            {% endfor %}
+            {% assign missing = 4 | minus: d.events.size %}
+            {% for i in (1..missing) %}<td>—</td>{% endfor %}
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+  <!-- 역대 기록 -->
+  <div class="card">
+    <h2>🏆 최근 1년 역대 기록</h2>
+    <div class="record-grid">
+      <div class="record-item max">
+        <div class="rec-label">역대 최고 조위</div>
+        <div class="rec-val">{{ page.yrMax }}cm</div>
+        <div class="rec-dt">{{ page.yrMaxDt }}</div>
+      </div>
+      <div class="record-item min">
+        <div class="rec-label">역대 최저 조위</div>
+        <div class="rec-val">{{ page.yrMin }}cm</div>
+        <div class="rec-dt">{{ page.yrMinDt }}</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- 위치 -->
+  <div class="card">
+    <h2>📍 위치 정보</h2>
+    <p style="color:var(--text-muted);font-size:.88rem;margin-bottom:14px;">기준항: {{ page.baseName }} (경도 {{ page.lot }}, 위도 {{ page.lat }})</p>
+    <a href="https://map.kakao.com/link/map/{{ page.spotName | url_encode }},{{ page.lat }},{{ page.lot }}" target="_blank" rel="noopener" class="map-link-btn">🗺️ 카카오맵으로 위치 보기</a>
+  </div>
+
+  <!-- 우아낚시 교차링크 -->
+  <div class="crosslink-banner">
+    <span>🎣 {{ page.region }} 인근 낚시터·항구 정보가 궁금하다면?</span>
+    <a href="https://wooafish.wooahouse.com/region/{{ page.regionSlug }}/" target="_blank" rel="noopener">우아낚시에서 보기 →</a>
+  </div>
+
+  <!-- 같은 지역 다른 지점 -->
+  {% if page.same_region and page.same_region.size > 0 %}
+  <div class="card">
+    <h2>🗺️ {{ page.region }} 다른 지점 물때표</h2>
+    <div class="related-grid">
+      {% for s in page.same_region %}
+      <a href="/spot/{{ s.slug }}/" class="related-card">
+        <span class="related-icon">🌊</span>
+        <span class="related-name">{{ s.name }}</span>
+      </a>
+      {% endfor %}
+    </div>
+    <a href="/region/{{ page.regionSlug }}/" class="view-all-link">{{ page.region }} 전체 물때표 보기 →</a>
+  </div>
+  {% endif %}
+
+  <!-- Tips -->
+  <div class="card tips-panel">
+    <h2>💡 Tips</h2>
+    <ul>
+      <li>물때는 매일 약 50분씩 밀리므로, 전날 시각을 기준으로 다음날을 대략 가늠할 수 있어요.</li>
+      <li>조차(만조-간조 차이)가 클수록 물살이 빨라지니 바다낚시·갯벌체험 시 참고하세요.</li>
+      <li>사리(대조기)에는 물때 변화가 크고, 조금에는 변화가 작습니다.</li>
+    </ul>
+  </div>
+
+  <!-- FAQ -->
+  <div class="card faq-section">
+    <h2>자주 묻는 질문</h2>
+    <details>
+      <summary>이 물때표는 얼마나 정확한가요?</summary>
+      <p>국립해양조사원의 공식 조석예보 API 데이터를 그대로 사용합니다. 다만 기상 상황(태풍, 이상 저기압 등)에 따라 실제 조위는 예보와 다를 수 있습니다.</p>
+    </details>
+    <details>
+      <summary>물때(1물~15물)는 무엇을 의미하나요?</summary>
+      <p>음력 날짜를 기준으로 한 조수 간만의 차 주기를 나타내는 전통적인 표현입니다. 8~9물 전후(사리)에 조차가 가장 크고, 조금(약 8일 후)에 가장 작습니다.</p>
+    </details>
+    <details>
+      <summary>이 페이지 정보가 서버에 저장되나요?</summary>
+      <p>아니요. 이 페이지는 국립해양조사원 공공데이터를 주기적으로 수집해 정적으로 생성한 정보이며, 방문자의 개인정보는 수집하지 않습니다.</p>
+    </details>
+  </div>
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {"@type": "Question", "name": "이 물때표는 얼마나 정확한가요?", "acceptedAnswer": {"@type": "Answer", "text": "국립해양조사원의 공식 조석예보 API 데이터를 그대로 사용합니다. 다만 기상 상황(태풍, 이상 저기압 등)에 따라 실제 조위는 예보와 다를 수 있습니다."}},
+      {"@type": "Question", "name": "물때(1물~15물)는 무엇을 의미하나요?", "acceptedAnswer": {"@type": "Answer", "text": "음력 날짜를 기준으로 한 조수 간만의 차 주기를 나타내는 전통적인 표현입니다. 8~9물 전후(사리)에 조차가 가장 크고, 조금(약 8일 후)에 가장 작습니다."}},
+      {"@type": "Question", "name": "이 페이지 정보가 서버에 저장되나요?", "acceptedAnswer": {"@type": "Answer", "text": "아니요. 이 페이지는 국립해양조사원 공공데이터를 주기적으로 수집해 정적으로 생성한 정보이며, 방문자의 개인정보는 수집하지 않습니다."}}
+    ]
+  }
+  </script>
+
+</div>
+<aside class="tide-sidebar">
+  <div class="ad-card">{% include ad.html slot="6255378195" label="사이드바" %}</div>
+  <div class="sidebar-nav-card">
+    <h3>🌊 이런 지점은 어때요?</h3>
+    {% for s in page.nearby_suggestions %}
+    <a href="/spot/{{ s.slug }}/">{{ s.name }} 물때표</a>
+    {% endfor %}
+  </div>
+</aside>
+</div>

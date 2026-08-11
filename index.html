@@ -1,0 +1,101 @@
+---
+layout: default
+---
+
+<section class="hero">
+  <div class="hero-inner">
+    <div class="hero-badges">
+      <span class="hero-badge">🌊 국립해양조사원 공식 데이터</span>
+      <span class="hero-badge">📱 모바일 최적화</span>
+      <span class="hero-badge">🆓 완전 무료</span>
+    </div>
+    <h1>전국 물때표를 한눈에</h1>
+    <p>만조·간조 시각, 조위 그래프, 역대 최고·최저 기록까지 — 지금 내 지역 바다 상태를 확인하세요.</p>
+    <div class="search-box">
+      <input type="text" id="spotSearch" placeholder="지역명을 검색하세요 (예: 여수, 인천, 부산)" autocomplete="off">
+      <button type="button" aria-label="검색">🔍</button>
+    </div>
+  </div>
+</section>
+
+<div class="section">
+  <div class="section-title">🔥 지금 많이 찾는 물때표</div>
+  <div class="section-desc">실제 국립해양조사원 예보 데이터를 기반으로 한 물때표입니다</div>
+  <div class="spot-grid">
+    <a href="/spot/여수/" class="spot-card">
+      <div class="s-region">전라남도 여수시</div>
+      <div class="s-name">🌊 여수 물때표</div>
+      <div class="s-next"><span>오늘 조차</span><b>299cm</b></div>
+    </a>
+    <div class="spot-card" style="opacity:.5;pointer-events:none;">
+      <div class="s-region">준비 중</div>
+      <div class="s-name">🌊 부산 물때표</div>
+      <div class="s-next"><span>공개 예정</span><b>-</b></div>
+    </div>
+    <div class="spot-card" style="opacity:.5;pointer-events:none;">
+      <div class="s-region">준비 중</div>
+      <div class="s-name">🌊 인천 물때표</div>
+      <div class="s-next"><span>공개 예정</span><b>-</b></div>
+    </div>
+    <div class="spot-card" style="opacity:.5;pointer-events:none;">
+      <div class="s-region">준비 중</div>
+      <div class="s-name">🌊 통영 물때표</div>
+      <div class="s-next"><span>공개 예정</span><b>-</b></div>
+    </div>
+  </div>
+</div>
+
+<div class="section" style="padding-top:0;">
+  <div class="section-title">🗺️ 지역별 물때표</div>
+  <div class="section-desc">전국 800여개 지점의 물때표를 지역별로 찾아보세요</div>
+  <div class="region-grid">
+    <a href="/region/incheon/" class="region-card"><span class="r-icon">🏝️</span><span class="r-name">인천·경기</span><span class="r-count">준비중</span></a>
+    <a href="/region/chungnam/" class="region-card"><span class="r-icon">🌊</span><span class="r-name">충남</span><span class="r-count">준비중</span></a>
+    <a href="/region/jeonbuk/" class="region-card"><span class="r-icon">🌊</span><span class="r-name">전북</span><span class="r-count">준비중</span></a>
+    <a href="/region/jeonnam/" class="region-card"><span class="r-icon">🐟</span><span class="r-name">전남</span><span class="r-count">여수 외</span></a>
+    <a href="/region/busan/" class="region-card"><span class="r-icon">⛵</span><span class="r-name">부산</span><span class="r-count">준비중</span></a>
+    <a href="/region/gyeongnam/" class="region-card"><span class="r-icon">🏝️</span><span class="r-name">경남</span><span class="r-count">준비중</span></a>
+    <a href="/region/gyeongbuk/" class="region-card"><span class="r-icon">🌊</span><span class="r-name">경북</span><span class="r-count">준비중</span></a>
+    <a href="/region/gangwon/" class="region-card"><span class="r-icon">🌊</span><span class="r-name">강원</span><span class="r-count">준비중</span></a>
+    <a href="/region/jeju/" class="region-card"><span class="r-icon">🌺</span><span class="r-name">제주</span><span class="r-count">준비중</span></a>
+    <a href="/region/ulleung/" class="region-card"><span class="r-icon">🏔️</span><span class="r-name">울릉도·독도</span><span class="r-count">준비중</span></a>
+  </div>
+</div>
+
+<div class="section" style="padding-top:0;">
+  <div class="ad-slot">{% include ad.html label="메인 인콘텐츠" %}</div>
+</div>
+
+<div class="section" style="padding-top:0;">
+  <div class="section-title">🎣 낚시·갯벌체험 계획 중이신가요?</div>
+  <div class="crosslink-banner">
+    <span>전국 낚시터·항구·섬 정보는 자매 사이트 우아낚시에서 확인하세요</span>
+    <a href="https://wooafish.wooahouse.com" target="_blank" rel="noopener">우아낚시 바로가기 →</a>
+  </div>
+</div>
+
+<div class="section" style="padding-top:0;">
+  <div class="card faq-section">
+    <h2>자주 묻는 질문</h2>
+    <details>
+      <summary>물때표 데이터는 어디서 가져오나요?</summary>
+      <p>해양수산부 국립해양조사원의 공식 조석예보 오픈API 데이터를 기반으로 자동 생성합니다.</p>
+    </details>
+    <details>
+      <summary>얼마나 자주 업데이트되나요?</summary>
+      <p>물때는 천문학적으로 예측 가능한 값이라 미리 계산된 예보를 정기적으로 갱신합니다.</p>
+    </details>
+    <details>
+      <summary>이용 요금이 있나요?</summary>
+      <p>아니요, 완전 무료로 제공되며 회원가입도 필요 없습니다.</p>
+    </details>
+  </div>
+</div>
+
+<script>
+document.getElementById('spotSearch').addEventListener('keydown', function(e) {
+  if (e.key === 'Enter' && this.value.trim()) {
+    window.location.href = '/spot/' + encodeURIComponent(this.value.trim()) + '/';
+  }
+});
+</script>
