@@ -1,6 +1,6 @@
 title: 우아물때 - 전국 물때표·조석 정보
 description: 국립해양조사원 공식 데이터 기반 전국 물때표. 만조·간조 시각, 조위 그래프, 역대 최고·최저 기록까지 한 곳에서 확인하세요.
-url: "https://wootide.wooahouse.com"
+url: "https://wooatide.wooahouse.com"
 baseurl: ""
 lang: ko
 timezone: Asia/Seoul
