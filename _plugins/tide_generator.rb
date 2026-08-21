@@ -160,8 +160,13 @@ module Jekyll
 
       self.data['chartSvg'] = TideChart.build_svg(today['events'])
 
-      self.data['title'] = "#{spot['spotName']} 물때표 - 오늘 만조·간조 시각 | 우아물때"
-      self.data['description'] = "#{spot['spotName']}(#{spot['region']} #{spot['city']}) 오늘의 물때표. 만조·간조 시각과 조위를 국립해양조사원 공식 데이터로 확인하세요."
+      if spot['waterTemp'] && spot['waterTemp'] != ''
+        self.data['title'] = "#{spot['spotName']} 물때표·수온 - 오늘 만조·간조 시각 | 우아물때"
+        self.data['description'] = "#{spot['spotName']}(#{spot['region']} #{spot['city']}) 오늘의 물때표와 실시간 수온 #{spot['waterTemp']}℃. 만조·간조 시각과 조위를 국립해양조사원 공식 데이터로 확인하세요."
+      else
+        self.data['title'] = "#{spot['spotName']} 물때표 - 오늘 만조·간조 시각 | 우아물때"
+        self.data['description'] = "#{spot['spotName']}(#{spot['region']} #{spot['city']}) 오늘의 물때표. 만조·간조 시각과 조위를 국립해양조사원 공식 데이터로 확인하세요."
+      end
     end
   end
 
@@ -187,8 +192,13 @@ module Jekyll
 
       self.data['chartSvg'] = TideChart.build_svg_from_series(spot['todaySeries'])
 
-      self.data['title'] = "#{spot['spotName']} 물때표 - 오늘 만조·간조 추정 시각 | 우아물때"
-      self.data['description'] = "#{spot['spotName']}(#{spot['region']} #{spot['city']}) 오늘의 물때 추정치. 인근 기준항 #{spot['baseName']} 데이터를 보정하여 계산했습니다."
+      if spot['waterTemp'] && spot['waterTemp'] != ''
+        self.data['title'] = "#{spot['spotName']} 물때표·수온 - 오늘 만조·간조 추정 시각 | 우아물때"
+        self.data['description'] = "#{spot['spotName']}(#{spot['region']} #{spot['city']}) 오늘의 물때 추정치와 인근 관측소 수온 #{spot['waterTemp']}℃. 인근 기준항 #{spot['baseName']} 데이터를 보정하여 계산했습니다."
+      else
+        self.data['title'] = "#{spot['spotName']} 물때표 - 오늘 만조·간조 추정 시각 | 우아물때"
+        self.data['description'] = "#{spot['spotName']}(#{spot['region']} #{spot['city']}) 오늘의 물때 추정치. 인근 기준항 #{spot['baseName']} 데이터를 보정하여 계산했습니다."
+      end
     end
   end
 

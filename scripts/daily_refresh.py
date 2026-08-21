@@ -7,6 +7,7 @@ import urllib.request, urllib.parse, json, datetime, re, sys, time, os
 
 KEY = '9490b1d34e92aa9e25b32a4cff1438fc7b9c71e5d332413916a391e867f61e86'
 BASE = 'https://apis.data.go.kr/1192136'
+WTEM_BASE = 'https://apis.data.go.kr/1192136/surveyWaterTemp'
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 TODAY = datetime.date.today()
 TODAY_STR = TODAY.strftime('%Y-%m-%d')
@@ -113,6 +114,68 @@ def refresh_official():
     print(f'공식 지점: {ok}개 갱신, {fail}개 실패(유지)')
 
 
+def fetch_latest_water_temp(code):
+    """조위관측소 실측 수온 API에서 obsCode의 가장 최근 측정값 1건을 가져온다."""
+    xml0 = call(f'{WTEM_BASE}/GetSurveyWaterTempApiService',
+                {'serviceKey': KEY, 'numOfRows': '1', 'pageNo': '1', 'dataType': 'JSON', 'obsCode': code})
+    tc_m = re.search(r'<totalCount>(\d+)</totalCount>', xml0 or '')
+    total = int(tc_m.group(1)) if tc_m else 0
+    if total < 1:
+        return None
+    xml1 = call(f'{WTEM_BASE}/GetSurveyWaterTempApiService',
+                {'serviceKey': KEY, 'numOfRows': '1', 'pageNo': str(total), 'dataType': 'JSON', 'obsCode': code})
+    items = parse_items(xml1)
+    if not items:
+        return None
+    it = items[0]
+    return {'wtem': it.get('wtem', ''), 'obsrvnDt': it.get('obsrvnDt', '')}
+
+
+def refresh_water_temp():
+    """56개 공식 지점의 실측 수온을 갱신하고, 확장지점(nearestOfficialName)에도 전파한다."""
+    path = os.path.join(ROOT, '_data', 'tide_spots.json')
+    with open(path, encoding='utf-8') as f:
+        spots = json.load(f)
+
+    wtem_by_name = {}
+    ok, fail = 0, 0
+    for sp in spots:
+        try:
+            result = fetch_latest_water_temp(sp['obsCode'])
+            if not result or not result['wtem']:
+                raise ValueError('no water temp data')
+            sp['waterTemp'] = result['wtem']
+            sp['waterTempTime'] = result['obsrvnDt']
+            wtem_by_name[sp['spotName']] = (result['wtem'], result['obsrvnDt'])
+            ok += 1
+        except Exception as e:
+            fail += 1
+            print(f'  [수온/실패] {sp["spotName"]}: {e} (이전 데이터 유지)')
+            if sp.get('waterTemp'):
+                wtem_by_name[sp['spotName']] = (sp['waterTemp'], sp.get('waterTempTime', ''))
+        time.sleep(0.3)
+
+    with open(path, 'w', encoding='utf-8') as f:
+        json.dump(spots, f, ensure_ascii=False, indent=1)
+    print(f'수온(공식 지점): {ok}개 갱신, {fail}개 실패(유지)')
+
+    # 확장지점(nearestOfficialName)에 인근 관측소 수온 전파
+    ext_path = os.path.join(ROOT, '_data', 'extended_spots.json')
+    with open(ext_path, encoding='utf-8') as f:
+        ext_spots = json.load(f)
+
+    propagated = 0
+    for sp in ext_spots:
+        nearest = sp.get('nearestOfficialName', '')
+        if nearest in wtem_by_name:
+            sp['waterTemp'], sp['waterTempTime'] = wtem_by_name[nearest]
+            propagated += 1
+
+    with open(ext_path, 'w', encoding='utf-8') as f:
+        json.dump(ext_spots, f, ensure_ascii=False, indent=1)
+    print(f'수온(확장 지점 전파): {propagated}개')
+
+
 def refresh_extended():
     path = os.path.join(ROOT, '_data', 'extended_spots.json')
     with open(path, encoding='utf-8') as f:
@@ -161,4 +224,5 @@ if __name__ == '__main__':
     print(f'=== {TODAY_STR} 물때 데이터 갱신 시작 ===')
     refresh_official()
     refresh_extended()
+    refresh_water_temp()
     print('=== 완료 ===')

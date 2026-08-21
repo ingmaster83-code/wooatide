@@ -164,6 +164,8 @@ h1, h2, h3 { line-height: 1.35; }
 .now-tide-item .nt-label { font-size: .72rem; color: rgba(255,255,255,.7); }
 .now-tide-item .nt-value { font-size: 1.15rem; font-weight: 800; margin-top: 2px; }
 
+.water-temp-note { margin-top: 10px; font-size: .78rem; color: rgba(255,255,255,.75); }
+
 /* ===== 오늘의 물때 요약 4칸 ===== */
 .today-tide-cards { display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; margin-top: 22px; }
 @media (max-width: 640px) { .today-tide-cards { grid-template-columns: repeat(2, 1fr); } }

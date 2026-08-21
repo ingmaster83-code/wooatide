@@ -127,7 +127,9 @@
     "val": "288"
    }
   ],
-  "nearestOfficialName": "목포"
+  "nearestOfficialName": "목포",
+  "waterTemp": "26.2",
+  "waterTempTime": "2026-08-21 19:10:00"
  },
  {
   "slug": "암태도",
@@ -257,7 +259,9 @@
     "val": "260"
    }
   ],
-  "nearestOfficialName": "목포"
+  "nearestOfficialName": "목포",
+  "waterTemp": "26.2",
+  "waterTempTime": "2026-08-21 19:10:00"
  },
  {
   "slug": "평호리",
@@ -387,7 +391,9 @@
     "val": "199"
    }
   ],
-  "nearestOfficialName": "진도"
+  "nearestOfficialName": "진도",
+  "waterTemp": "26.7",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "원동항",
@@ -523,7 +529,9 @@
     "val": "211"
    }
   ],
-  "nearestOfficialName": "완도"
+  "nearestOfficialName": "완도",
+  "waterTemp": "27.0",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "사초항",
@@ -659,7 +667,9 @@
     "val": "214"
    }
   ],
-  "nearestOfficialName": "완도"
+  "nearestOfficialName": "완도",
+  "waterTemp": "27.0",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "안남리",
@@ -937,7 +947,9 @@
     "val": "125"
    }
   ],
-  "nearestOfficialName": "통영"
+  "nearestOfficialName": "통영",
+  "waterTemp": "26.1",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "독거도",
@@ -1067,7 +1079,9 @@
     "val": "187"
    }
   ],
-  "nearestOfficialName": "진도"
+  "nearestOfficialName": "진도",
+  "waterTemp": "26.7",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "평도",
@@ -1203,7 +1217,9 @@
     "val": "191"
    }
   ],
-  "nearestOfficialName": "고흥발포"
+  "nearestOfficialName": "고흥발포",
+  "waterTemp": "26.5",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "낙월도",
@@ -1475,7 +1491,9 @@
     "val": "426"
    }
   ],
-  "nearestOfficialName": "어청도"
+  "nearestOfficialName": "어청도",
+  "waterTemp": "26.0",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "상왕등도",
@@ -1747,7 +1765,9 @@
     "val": "197"
    }
   ],
-  "nearestOfficialName": "진도"
+  "nearestOfficialName": "진도",
+  "waterTemp": "26.7",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "어류정항",
@@ -2149,7 +2169,9 @@
     "val": "279"
    }
   ],
-  "nearestOfficialName": "목포"
+  "nearestOfficialName": "목포",
+  "waterTemp": "26.2",
+  "waterTempTime": "2026-08-21 19:10:00"
  },
  {
   "slug": "곰소항-SO_1012",
@@ -2829,7 +2851,9 @@
     "val": "631"
    }
   ],
-  "nearestOfficialName": "안산"
+  "nearestOfficialName": "안산",
+  "waterTemp": "27.6",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "제부도부근-T-3",
@@ -2965,7 +2989,9 @@
     "val": "626"
    }
   ],
-  "nearestOfficialName": "안산"
+  "nearestOfficialName": "안산",
+  "waterTemp": "27.6",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "제부도부근-T-4",
@@ -3101,7 +3127,9 @@
     "val": "639"
    }
   ],
-  "nearestOfficialName": "안산"
+  "nearestOfficialName": "안산",
+  "waterTemp": "27.6",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "제부도부근-T-5",
@@ -3237,7 +3265,9 @@
     "val": "640"
    }
   ],
-  "nearestOfficialName": "안산"
+  "nearestOfficialName": "안산",
+  "waterTemp": "27.6",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "제부도부근-T-6",
@@ -3373,7 +3403,9 @@
     "val": "667"
    }
   ],
-  "nearestOfficialName": "평택"
+  "nearestOfficialName": "평택",
+  "waterTemp": "27.3",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "남성항",
@@ -3503,7 +3535,9 @@
     "val": "205"
    }
   ],
-  "nearestOfficialName": "완도"
+  "nearestOfficialName": "완도",
+  "waterTemp": "27.0",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "청용리",
@@ -3645,7 +3679,9 @@
     "val": "215"
    }
   ],
-  "nearestOfficialName": "완도"
+  "nearestOfficialName": "완도",
+  "waterTemp": "27.0",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "죽청리",
@@ -3781,7 +3817,9 @@
     "val": "211"
    }
   ],
-  "nearestOfficialName": "완도"
+  "nearestOfficialName": "완도",
+  "waterTemp": "27.0",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "능포항-SO_1032",
@@ -3917,7 +3955,9 @@
     "val": "126"
    }
   ],
-  "nearestOfficialName": "거제도"
+  "nearestOfficialName": "거제도",
+  "waterTemp": "26.6",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "어청도북측",
@@ -4053,7 +4093,9 @@
     "val": "399"
    }
   ],
-  "nearestOfficialName": "어청도"
+  "nearestOfficialName": "어청도",
+  "waterTemp": "26.0",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "어청도남측",
@@ -4189,7 +4231,9 @@
     "val": "383"
    }
   ],
-  "nearestOfficialName": "어청도"
+  "nearestOfficialName": "어청도",
+  "waterTemp": "26.0",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "상왕등도북서측",
@@ -5277,7 +5321,9 @@
     "val": "574"
    }
   ],
-  "nearestOfficialName": "대산"
+  "nearestOfficialName": "대산",
+  "waterTemp": "25.1",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "서수도",
@@ -5549,7 +5595,9 @@
     "val": "458"
    }
   ],
-  "nearestOfficialName": "보령"
+  "nearestOfficialName": "보령",
+  "waterTemp": "27.6",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "연도서측",
@@ -5821,7 +5869,9 @@
     "val": "128"
    }
   ],
-  "nearestOfficialName": "거제도"
+  "nearestOfficialName": "거제도",
+  "waterTemp": "26.6",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "인천대교남측-Elipsoid",
@@ -5957,7 +6007,9 @@
     "val": "670"
    }
   ],
-  "nearestOfficialName": "인천"
+  "nearestOfficialName": "인천",
+  "waterTemp": "27.2",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "풍도북측-Elipsoid",
@@ -6229,7 +6281,9 @@
     "val": "501"
    }
   ],
-  "nearestOfficialName": "보령"
+  "nearestOfficialName": "보령",
+  "waterTemp": "27.6",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "압해도서측-Elipsoid",
@@ -6359,7 +6413,9 @@
     "val": "260"
    }
   ],
-  "nearestOfficialName": "목포"
+  "nearestOfficialName": "목포",
+  "waterTemp": "26.2",
+  "waterTempTime": "2026-08-21 19:10:00"
  },
  {
   "slug": "목포북항북측-Elipsoid",
@@ -6489,7 +6545,9 @@
     "val": "257"
    }
   ],
-  "nearestOfficialName": "목포"
+  "nearestOfficialName": "목포",
+  "waterTemp": "26.2",
+  "waterTempTime": "2026-08-21 19:10:00"
  },
  {
   "slug": "불무기도북측-Elipsoid",
@@ -6619,7 +6677,9 @@
     "val": "251"
    }
   ],
-  "nearestOfficialName": "목포"
+  "nearestOfficialName": "목포",
+  "waterTemp": "26.2",
+  "waterTempTime": "2026-08-21 19:10:00"
  },
  {
   "slug": "장산도동측-Elipsoid",
@@ -6755,7 +6815,9 @@
     "val": "228"
    }
   ],
-  "nearestOfficialName": "목포"
+  "nearestOfficialName": "목포",
+  "waterTemp": "26.2",
+  "waterTempTime": "2026-08-21 19:10:00"
  },
  {
   "slug": "광양항-Elipsoid",
@@ -7027,7 +7089,9 @@
     "val": "171"
    }
   ],
-  "nearestOfficialName": "통영"
+  "nearestOfficialName": "통영",
+  "waterTemp": "26.1",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "매물도북서측-Elipsoid",
@@ -7163,7 +7227,9 @@
     "val": "152"
    }
   ],
-  "nearestOfficialName": "통영"
+  "nearestOfficialName": "통영",
+  "waterTemp": "26.1",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "부도수도-Elipsoid",
@@ -7441,7 +7507,9 @@
     "val": "100"
    }
   ],
-  "nearestOfficialName": "가덕도"
+  "nearestOfficialName": "가덕도",
+  "waterTemp": "28.3",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "부산항입구-Elipsoid",
@@ -7577,7 +7645,9 @@
     "val": "84"
    }
   ],
-  "nearestOfficialName": "부산"
+  "nearestOfficialName": "부산",
+  "waterTemp": "27.4",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "울산신항동측-Elipsoid",
@@ -7707,7 +7777,9 @@
     "val": "46"
    }
   ],
-  "nearestOfficialName": "울산"
+  "nearestOfficialName": "울산",
+  "waterTemp": "24.4",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "난지도북측",
@@ -7849,7 +7921,9 @@
     "val": "593"
    }
   ],
-  "nearestOfficialName": "대산"
+  "nearestOfficialName": "대산",
+  "waterTemp": "25.1",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "와도서측",
@@ -7985,7 +8059,9 @@
     "val": "438"
    }
   ],
-  "nearestOfficialName": "안흥"
+  "nearestOfficialName": "안흥",
+  "waterTemp": "22.3",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "안좌도서측",
@@ -8121,7 +8197,9 @@
     "val": "248"
    }
   ],
-  "nearestOfficialName": "목포"
+  "nearestOfficialName": "목포",
+  "waterTemp": "26.2",
+  "waterTempTime": "2026-08-21 19:10:00"
  },
  {
   "slug": "비금수도",
@@ -8251,7 +8329,9 @@
     "val": "242"
    }
   ],
-  "nearestOfficialName": "목포"
+  "nearestOfficialName": "목포",
+  "waterTemp": "26.2",
+  "waterTempTime": "2026-08-21 19:10:00"
  },
  {
   "slug": "흑일도남측",
@@ -8381,7 +8461,9 @@
     "val": "198"
    }
   ],
-  "nearestOfficialName": "완도"
+  "nearestOfficialName": "완도",
+  "waterTemp": "27.0",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "여수해협-2",
@@ -8517,7 +8599,9 @@
     "val": "199"
    }
   ],
-  "nearestOfficialName": "여수"
+  "nearestOfficialName": "여수",
+  "waterTemp": "28.5",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "여수해만입구",
@@ -8653,7 +8737,9 @@
     "val": "186"
    }
   ],
-  "nearestOfficialName": "여수"
+  "nearestOfficialName": "여수",
+  "waterTemp": "28.5",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "두미도북측",
@@ -8789,7 +8875,9 @@
     "val": "170"
    }
   ],
-  "nearestOfficialName": "삼천포"
+  "nearestOfficialName": "삼천포",
+  "waterTemp": "27.9",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "아랫섬동측",
@@ -8925,7 +9013,9 @@
     "val": "169"
    }
   ],
-  "nearestOfficialName": "통영"
+  "nearestOfficialName": "통영",
+  "waterTemp": "26.1",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "가조도수도",
@@ -9061,7 +9151,9 @@
     "val": "124"
    }
   ],
-  "nearestOfficialName": "통영"
+  "nearestOfficialName": "통영",
+  "waterTemp": "26.1",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "진해만",
@@ -9339,7 +9431,9 @@
     "val": "110"
    }
   ],
-  "nearestOfficialName": "가덕도"
+  "nearestOfficialName": "가덕도",
+  "waterTemp": "28.3",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "해운대전면",
@@ -9475,7 +9569,9 @@
     "val": "75"
    }
   ],
-  "nearestOfficialName": "부산"
+  "nearestOfficialName": "부산",
+  "waterTemp": "27.4",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "대왕암남측",
@@ -9611,7 +9707,9 @@
     "val": "36"
    }
   ],
-  "nearestOfficialName": "울산"
+  "nearestOfficialName": "울산",
+  "waterTemp": "24.4",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "어불도서측",
@@ -9741,7 +9839,9 @@
     "val": "198"
    }
   ],
-  "nearestOfficialName": "진도"
+  "nearestOfficialName": "진도",
+  "waterTemp": "26.7",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "독거군도북측",
@@ -9871,7 +9971,9 @@
     "val": "191"
    }
   ],
-  "nearestOfficialName": "진도"
+  "nearestOfficialName": "진도",
+  "waterTemp": "26.7",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "외모군도남측",
@@ -10007,7 +10109,9 @@
     "val": "191"
    }
   ],
-  "nearestOfficialName": "추자도"
+  "nearestOfficialName": "추자도",
+  "waterTemp": "25.3",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "인천-제주항로-1",
@@ -10415,7 +10519,9 @@
     "val": "186"
    }
   ],
-  "nearestOfficialName": "고흥발포"
+  "nearestOfficialName": "고흥발포",
+  "waterTemp": "26.5",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "인천-제주항로-2",
@@ -10681,7 +10787,9 @@
     "val": "233"
    }
   ],
-  "nearestOfficialName": "흑산도"
+  "nearestOfficialName": "흑산도",
+  "waterTemp": "24.1",
+  "waterTempTime": "2026-08-21 19:10:00"
  },
  {
   "slug": "송이도북측",
@@ -11225,7 +11333,9 @@
     "val": "175"
    }
   ],
-  "nearestOfficialName": "삼천포"
+  "nearestOfficialName": "삼천포",
+  "waterTemp": "27.9",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "고군산군도서측",
@@ -11639,7 +11749,9 @@
     "val": "208"
    }
   ],
-  "nearestOfficialName": "고흥발포"
+  "nearestOfficialName": "고흥발포",
+  "waterTemp": "26.5",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "북격렬비열도-SO_1220",
@@ -11775,7 +11887,9 @@
     "val": "389"
    }
   ],
-  "nearestOfficialName": "안흥"
+  "nearestOfficialName": "안흥",
+  "waterTemp": "22.3",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "동율리",
@@ -11911,7 +12025,9 @@
     "val": "227"
    }
   ],
-  "nearestOfficialName": "고흥발포"
+  "nearestOfficialName": "고흥발포",
+  "waterTemp": "26.5",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "고흥금진항",
@@ -12047,7 +12163,9 @@
     "val": "211"
    }
   ],
-  "nearestOfficialName": "고흥발포"
+  "nearestOfficialName": "고흥발포",
+  "waterTemp": "26.5",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "우도",
@@ -12325,7 +12443,9 @@
     "val": "153"
    }
   ],
-  "nearestOfficialName": "통영"
+  "nearestOfficialName": "통영",
+  "waterTemp": "26.1",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "의항항",
@@ -12603,7 +12723,9 @@
     "val": "586"
    }
   ],
-  "nearestOfficialName": "대산"
+  "nearestOfficialName": "대산",
+  "waterTemp": "25.1",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "구도항",
@@ -12875,7 +12997,9 @@
     "val": "640"
    }
   ],
-  "nearestOfficialName": "안산"
+  "nearestOfficialName": "안산",
+  "waterTemp": "27.6",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "평택-LNG부두",
@@ -13011,7 +13135,9 @@
     "val": "681"
    }
   ],
-  "nearestOfficialName": "평택"
+  "nearestOfficialName": "평택",
+  "waterTemp": "27.3",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "천리포",
@@ -13147,7 +13273,9 @@
     "val": "504"
    }
   ],
-  "nearestOfficialName": "안흥"
+  "nearestOfficialName": "안흥",
+  "waterTemp": "22.3",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "어은돌",
@@ -13283,7 +13411,9 @@
     "val": "485"
    }
   ],
-  "nearestOfficialName": "안흥"
+  "nearestOfficialName": "안흥",
+  "waterTemp": "22.3",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "통개항",
@@ -13419,7 +13549,9 @@
     "val": "488"
    }
   ],
-  "nearestOfficialName": "안흥"
+  "nearestOfficialName": "안흥",
+  "waterTemp": "22.3",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "도황리-채석포",
@@ -13555,7 +13687,9 @@
     "val": "491"
    }
   ],
-  "nearestOfficialName": "안흥"
+  "nearestOfficialName": "안흥",
+  "waterTemp": "22.3",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "안면암",
@@ -13691,7 +13825,9 @@
     "val": "526"
    }
   ],
-  "nearestOfficialName": "보령"
+  "nearestOfficialName": "보령",
+  "waterTemp": "27.6",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "남당항",
@@ -13827,7 +13963,9 @@
     "val": "512"
    }
   ],
-  "nearestOfficialName": "보령"
+  "nearestOfficialName": "보령",
+  "waterTemp": "27.6",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "원산도-SO_0371",
@@ -13963,7 +14101,9 @@
     "val": "499"
    }
   ],
-  "nearestOfficialName": "보령"
+  "nearestOfficialName": "보령",
+  "waterTemp": "27.6",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "무창포-SO_0373",
@@ -14235,7 +14375,9 @@
     "val": "426"
    }
   ],
-  "nearestOfficialName": "어청도"
+  "nearestOfficialName": "어청도",
+  "waterTemp": "26.0",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "방축도",
@@ -14377,7 +14519,9 @@
     "val": "422"
    }
   ],
-  "nearestOfficialName": "군산"
+  "nearestOfficialName": "군산",
+  "waterTemp": "26.9",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "가력도",
@@ -14513,7 +14657,9 @@
     "val": "414"
    }
   ],
-  "nearestOfficialName": "군산"
+  "nearestOfficialName": "군산",
+  "waterTemp": "26.9",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "임자도-진리",
@@ -14643,7 +14789,9 @@
     "val": "303"
    }
   ],
-  "nearestOfficialName": "목포"
+  "nearestOfficialName": "목포",
+  "waterTemp": "26.2",
+  "waterTempTime": "2026-08-21 19:10:00"
  },
  {
   "slug": "용정리-함평만",
@@ -14779,7 +14927,9 @@
     "val": "365"
    }
   ],
-  "nearestOfficialName": "목포"
+  "nearestOfficialName": "목포",
+  "waterTemp": "26.2",
+  "waterTempTime": "2026-08-21 19:10:00"
  },
  {
   "slug": "거차수도",
@@ -14909,7 +15059,9 @@
     "val": "194"
    }
   ],
-  "nearestOfficialName": "흑산도"
+  "nearestOfficialName": "흑산도",
+  "waterTemp": "24.1",
+  "waterTempTime": "2026-08-21 19:10:00"
  },
  {
   "slug": "홍도",
@@ -15045,7 +15197,9 @@
     "val": "199"
    }
   ],
-  "nearestOfficialName": "흑산도"
+  "nearestOfficialName": "흑산도",
+  "waterTemp": "24.1",
+  "waterTempTime": "2026-08-21 19:10:00"
  },
  {
   "slug": "신양항",
@@ -15175,7 +15329,9 @@
     "val": "194"
    }
   ],
-  "nearestOfficialName": "추자도"
+  "nearestOfficialName": "추자도",
+  "waterTemp": "25.3",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "2014-15년-장기조석관측-우수영항-193일",
@@ -15305,7 +15461,9 @@
     "val": "194"
    }
   ],
-  "nearestOfficialName": "목포"
+  "nearestOfficialName": "목포",
+  "waterTemp": "26.2",
+  "waterTempTime": "2026-08-21 19:10:00"
  },
  {
   "slug": "GSCaltex",
@@ -15577,7 +15735,9 @@
     "val": "530"
    }
   ],
-  "nearestOfficialName": "안흥"
+  "nearestOfficialName": "안흥",
+  "waterTemp": "22.3",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "울산-SO_0425",
@@ -15707,7 +15867,9 @@
     "val": "39"
    }
   ],
-  "nearestOfficialName": "울산"
+  "nearestOfficialName": "울산",
+  "waterTemp": "24.4",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "사창리",
@@ -15979,7 +16141,9 @@
     "val": "176"
    }
   ],
-  "nearestOfficialName": "삼천포"
+  "nearestOfficialName": "삼천포",
+  "waterTemp": "27.9",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "야미도",
@@ -16121,7 +16285,9 @@
     "val": "424"
    }
   ],
-  "nearestOfficialName": "군산"
+  "nearestOfficialName": "군산",
+  "waterTemp": "26.9",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "팔미도",
@@ -16529,7 +16695,9 @@
     "val": "599"
    }
   ],
-  "nearestOfficialName": "대산"
+  "nearestOfficialName": "대산",
+  "waterTemp": "25.1",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "가의도",
@@ -16665,7 +16833,9 @@
     "val": "467"
    }
   ],
-  "nearestOfficialName": "안흥"
+  "nearestOfficialName": "안흥",
+  "waterTemp": "22.3",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "녹도",
@@ -16801,7 +16971,9 @@
     "val": "452"
    }
   ],
-  "nearestOfficialName": "보령"
+  "nearestOfficialName": "보령",
+  "waterTemp": "27.6",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "구시포",
@@ -18019,7 +18191,9 @@
     "val": "201"
    }
   ],
-  "nearestOfficialName": "서거차도"
+  "nearestOfficialName": "서거차도",
+  "waterTemp": "24.1",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "가파도",
@@ -18161,7 +18335,9 @@
     "val": "179"
    }
   ],
-  "nearestOfficialName": "모슬포"
+  "nearestOfficialName": "모슬포",
+  "waterTemp": "27.0",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "구룡포항",
@@ -18303,7 +18479,9 @@
     "val": "27"
    }
   ],
-  "nearestOfficialName": "포항"
+  "nearestOfficialName": "포항",
+  "waterTemp": "27.7",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "궁시도",
@@ -18439,7 +18617,9 @@
     "val": "444"
    }
   ],
-  "nearestOfficialName": "안흥"
+  "nearestOfficialName": "안흥",
+  "waterTemp": "22.3",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "달도리",
@@ -18575,7 +18755,9 @@
     "val": "211"
    }
   ],
-  "nearestOfficialName": "완도"
+  "nearestOfficialName": "완도",
+  "waterTemp": "27.0",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "달리도",
@@ -18705,7 +18887,9 @@
     "val": "252"
    }
   ],
-  "nearestOfficialName": "목포"
+  "nearestOfficialName": "목포",
+  "waterTemp": "26.2",
+  "waterTempTime": "2026-08-21 19:10:00"
  },
  {
   "slug": "대부도남서",
@@ -18977,7 +19161,9 @@
     "val": "507"
    }
   ],
-  "nearestOfficialName": "보령"
+  "nearestOfficialName": "보령",
+  "waterTemp": "27.6",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "도원리",
@@ -19107,7 +19293,9 @@
     "val": "270"
    }
   ],
-  "nearestOfficialName": "목포"
+  "nearestOfficialName": "목포",
+  "waterTemp": "26.2",
+  "waterTempTime": "2026-08-21 19:10:00"
  },
  {
   "slug": "마라도",
@@ -19243,7 +19431,9 @@
     "val": "181"
    }
   ],
-  "nearestOfficialName": "모슬포"
+  "nearestOfficialName": "모슬포",
+  "waterTemp": "27.0",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "맥전포",
@@ -19379,7 +19569,9 @@
     "val": "171"
    }
   ],
-  "nearestOfficialName": "삼천포"
+  "nearestOfficialName": "삼천포",
+  "waterTemp": "27.9",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "밀매도",
@@ -19509,7 +19701,9 @@
     "val": "189"
    }
   ],
-  "nearestOfficialName": "진도"
+  "nearestOfficialName": "진도",
+  "waterTemp": "26.7",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "사양도",
@@ -19645,7 +19839,9 @@
     "val": "206"
    }
   ],
-  "nearestOfficialName": "고흥발포"
+  "nearestOfficialName": "고흥발포",
+  "waterTemp": "26.5",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "서정리",
@@ -19781,7 +19977,9 @@
     "val": "155"
    }
   ],
-  "nearestOfficialName": "거제도"
+  "nearestOfficialName": "거제도",
+  "waterTemp": "26.6",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "세어도",
@@ -20195,7 +20393,9 @@
     "val": "236"
    }
   ],
-  "nearestOfficialName": "목포"
+  "nearestOfficialName": "목포",
+  "waterTemp": "26.2",
+  "waterTempTime": "2026-08-21 19:10:00"
  },
  {
   "slug": "월곶포구",
@@ -20603,7 +20803,9 @@
     "val": "210"
    }
   ],
-  "nearestOfficialName": "고흥발포"
+  "nearestOfficialName": "고흥발포",
+  "waterTemp": "26.5",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "하섬",
@@ -20881,7 +21083,9 @@
     "val": "162"
    }
   ],
-  "nearestOfficialName": "성산포"
+  "nearestOfficialName": "성산포",
+  "waterTemp": "25.6",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "회진항",
@@ -21017,7 +21221,9 @@
     "val": "215"
    }
   ],
-  "nearestOfficialName": "완도"
+  "nearestOfficialName": "완도",
+  "waterTemp": "27.0",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "울산항",
@@ -21159,7 +21365,9 @@
     "val": "34"
    }
   ],
-  "nearestOfficialName": "울산"
+  "nearestOfficialName": "울산",
+  "waterTemp": "24.4",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "원산도-SO_0916",
@@ -21295,7 +21503,9 @@
     "val": "499"
    }
   ],
-  "nearestOfficialName": "보령"
+  "nearestOfficialName": "보령",
+  "waterTemp": "27.6",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "죽도-SO_0917",
@@ -21431,7 +21641,9 @@
     "val": "464"
    }
   ],
-  "nearestOfficialName": "보령"
+  "nearestOfficialName": "보령",
+  "waterTemp": "27.6",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "홍원항",
@@ -21975,7 +22187,9 @@
     "val": "166"
    }
   ],
-  "nearestOfficialName": "삼천포"
+  "nearestOfficialName": "삼천포",
+  "waterTemp": "27.9",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "강정",
@@ -22111,7 +22325,9 @@
     "val": "196"
    }
   ],
-  "nearestOfficialName": "서귀포"
+  "nearestOfficialName": "서귀포",
+  "waterTemp": "26.8",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "신양",
@@ -22241,7 +22457,9 @@
     "val": "194"
    }
   ],
-  "nearestOfficialName": "추자도"
+  "nearestOfficialName": "추자도",
+  "waterTemp": "25.3",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "남해도-남측",
@@ -22377,7 +22595,9 @@
     "val": "178"
    }
   ],
-  "nearestOfficialName": "여수"
+  "nearestOfficialName": "여수",
+  "waterTemp": "28.5",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "갈도-남측",
@@ -22513,7 +22733,9 @@
     "val": "164"
    }
   ],
-  "nearestOfficialName": "통영"
+  "nearestOfficialName": "통영",
+  "waterTemp": "26.1",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "갈곶도-남동측",
@@ -22655,7 +22877,9 @@
     "val": "129"
    }
   ],
-  "nearestOfficialName": "거제도"
+  "nearestOfficialName": "거제도",
+  "waterTemp": "26.6",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "추도-남서측",
@@ -22791,7 +23015,9 @@
     "val": "118"
    }
   ],
-  "nearestOfficialName": "거제도"
+  "nearestOfficialName": "거제도",
+  "waterTemp": "26.6",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "율도",
@@ -22927,7 +23153,9 @@
     "val": "216"
    }
   ],
-  "nearestOfficialName": "진도"
+  "nearestOfficialName": "진도",
+  "waterTemp": "26.7",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "수우도-SO_0997",
@@ -23063,7 +23291,9 @@
     "val": "175"
    }
   ],
-  "nearestOfficialName": "삼천포"
+  "nearestOfficialName": "삼천포",
+  "waterTemp": "27.9",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "상노대도",
@@ -23199,7 +23429,9 @@
     "val": "166"
    }
   ],
-  "nearestOfficialName": "통영"
+  "nearestOfficialName": "통영",
+  "waterTemp": "26.1",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "신안중공업",
@@ -23329,7 +23561,9 @@
     "val": "302"
    }
   ],
-  "nearestOfficialName": "목포"
+  "nearestOfficialName": "목포",
+  "waterTemp": "26.2",
+  "waterTempTime": "2026-08-21 19:10:00"
  },
  {
   "slug": "자동리",
@@ -23459,7 +23693,9 @@
     "val": "294"
    }
   ],
-  "nearestOfficialName": "목포"
+  "nearestOfficialName": "목포",
+  "waterTemp": "26.2",
+  "waterTempTime": "2026-08-21 19:10:00"
  },
  {
   "slug": "병풍도북측",
@@ -23589,7 +23825,9 @@
     "val": "287"
    }
   ],
-  "nearestOfficialName": "목포"
+  "nearestOfficialName": "목포",
+  "waterTemp": "26.2",
+  "waterTempTime": "2026-08-21 19:10:00"
  },
  {
   "slug": "함평부근-톱머리",
@@ -23719,7 +23957,9 @@
     "val": "274"
    }
   ],
-  "nearestOfficialName": "목포"
+  "nearestOfficialName": "목포",
+  "waterTemp": "26.2",
+  "waterTempTime": "2026-08-21 19:10:00"
  },
  {
   "slug": "고군산군도북측",
@@ -23855,7 +24095,9 @@
     "val": "440"
    }
   ],
-  "nearestOfficialName": "군산"
+  "nearestOfficialName": "군산",
+  "waterTemp": "26.9",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "가사도동측",
@@ -23985,7 +24227,9 @@
     "val": "209"
    }
   ],
-  "nearestOfficialName": "진도"
+  "nearestOfficialName": "진도",
+  "waterTemp": "26.7",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "소안수도",
@@ -24121,7 +24365,9 @@
     "val": "199"
    }
   ],
-  "nearestOfficialName": "완도"
+  "nearestOfficialName": "완도",
+  "waterTemp": "27.0",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "소모도북측",
@@ -24257,7 +24503,9 @@
     "val": "205"
    }
   ],
-  "nearestOfficialName": "완도"
+  "nearestOfficialName": "완도",
+  "waterTemp": "27.0",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "봉도동측",
@@ -24393,7 +24641,9 @@
     "val": "164"
    }
   ],
-  "nearestOfficialName": "통영"
+  "nearestOfficialName": "통영",
+  "waterTemp": "26.1",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "선소항",
@@ -24529,7 +24779,9 @@
     "val": "213"
    }
   ],
-  "nearestOfficialName": "삼천포"
+  "nearestOfficialName": "삼천포",
+  "waterTemp": "27.9",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "동갈화항",
@@ -25079,7 +25331,9 @@
     "val": "215"
    }
   ],
-  "nearestOfficialName": "고흥발포"
+  "nearestOfficialName": "고흥발포",
+  "waterTemp": "26.5",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "월양항",
@@ -25215,7 +25469,9 @@
     "val": "208"
    }
   ],
-  "nearestOfficialName": "완도"
+  "nearestOfficialName": "완도",
+  "waterTemp": "27.0",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "넙도",
@@ -25351,7 +25607,9 @@
     "val": "197"
    }
   ],
-  "nearestOfficialName": "완도"
+  "nearestOfficialName": "완도",
+  "waterTemp": "27.0",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "자은도",
@@ -25487,7 +25745,9 @@
     "val": "278"
    }
   ],
-  "nearestOfficialName": "목포"
+  "nearestOfficialName": "목포",
+  "waterTemp": "26.2",
+  "waterTempTime": "2026-08-21 19:10:00"
  },
  {
   "slug": "팔금도",
@@ -25617,7 +25877,9 @@
     "val": "252"
    }
   ],
-  "nearestOfficialName": "목포"
+  "nearestOfficialName": "목포",
+  "waterTemp": "26.2",
+  "waterTempTime": "2026-08-21 19:10:00"
  },
  {
   "slug": "비금도가산",
@@ -25747,7 +26009,9 @@
     "val": "254"
    }
   ],
-  "nearestOfficialName": "목포"
+  "nearestOfficialName": "목포",
+  "waterTemp": "26.2",
+  "waterTempTime": "2026-08-21 19:10:00"
  },
  {
   "slug": "학가리",
@@ -25877,7 +26141,9 @@
     "val": "207"
    }
   ],
-  "nearestOfficialName": "진도"
+  "nearestOfficialName": "진도",
+  "waterTemp": "26.7",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "신안군부근-JGNR",
@@ -26007,7 +26273,9 @@
     "val": "282"
    }
   ],
-  "nearestOfficialName": "목포"
+  "nearestOfficialName": "목포",
+  "waterTemp": "26.2",
+  "waterTempTime": "2026-08-21 19:10:00"
  },
  {
   "slug": "신안군부근-SW",
@@ -26137,7 +26405,9 @@
     "val": "279"
    }
   ],
-  "nearestOfficialName": "목포"
+  "nearestOfficialName": "목포",
+  "waterTemp": "26.2",
+  "waterTempTime": "2026-08-21 19:10:00"
  },
  {
   "slug": "고흥부근-T-3",
@@ -26273,7 +26543,9 @@
     "val": "205"
    }
   ],
-  "nearestOfficialName": "고흥발포"
+  "nearestOfficialName": "고흥발포",
+  "waterTemp": "26.5",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "고흥부근-T-5",
@@ -26415,7 +26687,9 @@
     "val": "208"
    }
   ],
-  "nearestOfficialName": "고흥발포"
+  "nearestOfficialName": "고흥발포",
+  "waterTemp": "26.5",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "고흥부근-T-7",
@@ -26699,7 +26973,9 @@
     "val": "195"
    }
   ],
-  "nearestOfficialName": "여수"
+  "nearestOfficialName": "여수",
+  "waterTemp": "28.5",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "군산부근-비안도",
@@ -26971,7 +27247,9 @@
     "val": "461"
    }
   ],
-  "nearestOfficialName": "보령"
+  "nearestOfficialName": "보령",
+  "waterTemp": "27.6",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "동호항",
@@ -27509,7 +27787,9 @@
     "val": "246"
    }
   ],
-  "nearestOfficialName": "목포"
+  "nearestOfficialName": "목포",
+  "waterTemp": "26.2",
+  "waterTempTime": "2026-08-21 19:10:00"
  },
  {
   "slug": "영전리",
@@ -27645,7 +27925,9 @@
     "val": "205"
    }
   ],
-  "nearestOfficialName": "완도"
+  "nearestOfficialName": "완도",
+  "waterTemp": "27.0",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "다사항",
@@ -28059,7 +28341,9 @@
     "val": "411"
    }
   ],
-  "nearestOfficialName": "어청도"
+  "nearestOfficialName": "어청도",
+  "waterTemp": "26.0",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "곰소항-SO_1120",
@@ -28461,7 +28745,9 @@
     "val": "197"
    }
   ],
-  "nearestOfficialName": "서거차도"
+  "nearestOfficialName": "서거차도",
+  "waterTemp": "24.1",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "월내리",
@@ -28591,7 +28877,9 @@
     "val": "249"
    }
   ],
-  "nearestOfficialName": "목포"
+  "nearestOfficialName": "목포",
+  "waterTemp": "26.2",
+  "waterTempTime": "2026-08-21 19:10:00"
  },
  {
   "slug": "인천부근-월곶",
@@ -28999,7 +29287,9 @@
     "val": "634"
    }
   ],
-  "nearestOfficialName": "안산"
+  "nearestOfficialName": "안산",
+  "waterTemp": "27.6",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "함평부근-증도",
@@ -29129,7 +29419,9 @@
     "val": "290"
    }
   ],
-  "nearestOfficialName": "목포"
+  "nearestOfficialName": "목포",
+  "waterTemp": "26.2",
+  "waterTempTime": "2026-08-21 19:10:00"
  },
  {
   "slug": "함평부근-성내리",
@@ -29259,7 +29551,9 @@
     "val": "272"
    }
   ],
-  "nearestOfficialName": "목포"
+  "nearestOfficialName": "목포",
+  "waterTemp": "26.2",
+  "waterTempTime": "2026-08-21 19:10:00"
  },
  {
   "slug": "남해부근-율촌",
@@ -29531,7 +29825,9 @@
     "val": "184"
    }
   ],
-  "nearestOfficialName": "여수"
+  "nearestOfficialName": "여수",
+  "waterTemp": "28.5",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "평택부근-장고항",
@@ -29667,7 +29963,9 @@
     "val": "642"
    }
   ],
-  "nearestOfficialName": "안산"
+  "nearestOfficialName": "안산",
+  "waterTemp": "27.6",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "평택부근-고대관리부두",
@@ -29803,7 +30101,9 @@
     "val": "678"
    }
   ],
-  "nearestOfficialName": "평택"
+  "nearestOfficialName": "평택",
+  "waterTemp": "27.3",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "영종도-왕산",
@@ -30211,7 +30511,9 @@
     "val": "259"
    }
   ],
-  "nearestOfficialName": "목포"
+  "nearestOfficialName": "목포",
+  "waterTemp": "26.2",
+  "waterTempTime": "2026-08-21 19:10:00"
  },
  {
   "slug": "양포항-SO_0573",
@@ -30377,7 +30679,9 @@
     "val": "25"
    }
   ],
-  "nearestOfficialName": "포항"
+  "nearestOfficialName": "포항",
+  "waterTemp": "27.7",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "중항리1day",
@@ -30513,7 +30817,9 @@
     "val": "162"
    }
   ],
-  "nearestOfficialName": "통영"
+  "nearestOfficialName": "통영",
+  "waterTemp": "26.1",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "궁평항",
@@ -30649,7 +30955,9 @@
     "val": "635"
    }
   ],
-  "nearestOfficialName": "안산"
+  "nearestOfficialName": "안산",
+  "waterTemp": "27.6",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "북형제도",
@@ -30779,7 +31087,9 @@
     "val": "96"
    }
   ],
-  "nearestOfficialName": "부산"
+  "nearestOfficialName": "부산",
+  "waterTemp": "27.4",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "웅도",
@@ -30915,7 +31225,9 @@
     "val": "587"
    }
   ],
-  "nearestOfficialName": "대산"
+  "nearestOfficialName": "대산",
+  "waterTemp": "25.1",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "어청도서측",
@@ -31051,7 +31363,9 @@
     "val": "388"
    }
   ],
-  "nearestOfficialName": "어청도"
+  "nearestOfficialName": "어청도",
+  "waterTemp": "26.0",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "위도동측",
@@ -31317,7 +31631,9 @@
     "val": "188"
    }
   ],
-  "nearestOfficialName": "진도"
+  "nearestOfficialName": "진도",
+  "waterTemp": "26.7",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "왜목항",
@@ -31453,7 +31769,9 @@
     "val": "630"
    }
   ],
-  "nearestOfficialName": "대산"
+  "nearestOfficialName": "대산",
+  "waterTemp": "25.1",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "오지리",
@@ -31589,7 +31907,9 @@
     "val": "577"
    }
   ],
-  "nearestOfficialName": "대산"
+  "nearestOfficialName": "대산",
+  "waterTemp": "25.1",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "간월도항",
@@ -31725,7 +32045,9 @@
     "val": "526"
    }
   ],
-  "nearestOfficialName": "보령"
+  "nearestOfficialName": "보령",
+  "waterTemp": "27.6",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "계마항",
@@ -32003,7 +32325,9 @@
     "val": "506"
    }
   ],
-  "nearestOfficialName": "보령"
+  "nearestOfficialName": "보령",
+  "waterTemp": "27.6",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "가력도항",
@@ -32139,7 +32463,9 @@
     "val": "414"
    }
   ],
-  "nearestOfficialName": "군산"
+  "nearestOfficialName": "군산",
+  "waterTemp": "26.9",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "2014-15년-장기조석관측-쉬미항-193일",
@@ -32275,7 +32601,9 @@
     "val": "216"
    }
   ],
-  "nearestOfficialName": "진도"
+  "nearestOfficialName": "진도",
+  "waterTemp": "26.7",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "개야도",
@@ -32411,7 +32739,9 @@
     "val": "480"
    }
   ],
-  "nearestOfficialName": "안흥"
+  "nearestOfficialName": "안흥",
+  "waterTemp": "22.3",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "화당리-SO_0764",
@@ -32547,7 +32877,9 @@
     "val": "120"
    }
   ],
-  "nearestOfficialName": "통영"
+  "nearestOfficialName": "통영",
+  "waterTemp": "26.1",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "삽시도항",
@@ -32683,7 +33015,9 @@
     "val": "475"
    }
   ],
-  "nearestOfficialName": "보령"
+  "nearestOfficialName": "보령",
+  "waterTemp": "27.6",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "죽도-SO_0770",
@@ -32819,7 +33153,9 @@
     "val": "514"
    }
   ],
-  "nearestOfficialName": "보령"
+  "nearestOfficialName": "보령",
+  "waterTemp": "27.6",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "영목항-SO_0772",
@@ -32955,7 +33291,9 @@
     "val": "498"
    }
   ],
-  "nearestOfficialName": "보령"
+  "nearestOfficialName": "보령",
+  "waterTemp": "27.6",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "간월도",
@@ -33091,7 +33429,9 @@
     "val": "526"
    }
   ],
-  "nearestOfficialName": "보령"
+  "nearestOfficialName": "보령",
+  "waterTemp": "27.6",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "몽산포-SO_0775",
@@ -33227,7 +33567,9 @@
     "val": "475"
    }
   ],
-  "nearestOfficialName": "안흥"
+  "nearestOfficialName": "안흥",
+  "waterTemp": "22.3",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "금당수도",
@@ -33363,7 +33705,9 @@
     "val": "206"
    }
   ],
-  "nearestOfficialName": "고흥발포"
+  "nearestOfficialName": "고흥발포",
+  "waterTemp": "26.5",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "수룡항포구-SO_0776",
@@ -33499,7 +33843,9 @@
     "val": "518"
    }
   ],
-  "nearestOfficialName": "보령"
+  "nearestOfficialName": "보령",
+  "waterTemp": "27.6",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "외병도",
@@ -33629,7 +33975,9 @@
     "val": "201"
    }
   ],
-  "nearestOfficialName": "서거차도"
+  "nearestOfficialName": "서거차도",
+  "waterTemp": "24.1",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "상왕등도1day",
@@ -33895,7 +34243,9 @@
     "val": "217"
    }
   ],
-  "nearestOfficialName": "서거차도"
+  "nearestOfficialName": "서거차도",
+  "waterTemp": "24.1",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "대령도1day",
@@ -34031,7 +34381,9 @@
     "val": "335"
    }
   ],
-  "nearestOfficialName": "어청도"
+  "nearestOfficialName": "어청도",
+  "waterTemp": "26.0",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "홍도항",
@@ -34161,7 +34513,9 @@
     "val": "200"
    }
   ],
-  "nearestOfficialName": "흑산도"
+  "nearestOfficialName": "흑산도",
+  "waterTemp": "24.1",
+  "waterTempTime": "2026-08-21 19:10:00"
  },
  {
   "slug": "소안항",
@@ -34297,7 +34651,9 @@
     "val": "197"
    }
   ],
-  "nearestOfficialName": "완도"
+  "nearestOfficialName": "완도",
+  "waterTemp": "27.0",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "시산항",
@@ -34433,7 +34789,9 @@
     "val": "210"
    }
   ],
-  "nearestOfficialName": "고흥발포"
+  "nearestOfficialName": "고흥발포",
+  "waterTemp": "26.5",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "봉우항",
@@ -34569,7 +34927,9 @@
     "val": "203"
    }
   ],
-  "nearestOfficialName": "삼천포"
+  "nearestOfficialName": "삼천포",
+  "waterTemp": "27.9",
+  "waterTempTime": "2026-08-21 19:11:00"
  },
  {
   "slug": "백령도1day",
