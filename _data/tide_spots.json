@@ -11,41 +11,9 @@
   "lat": "37.45194",
   "tideDays": [
    {
-    "dateLabel": "09/04",
-    "dow": "금요일",
-    "isToday": true,
-    "mulddae": 7,
-    "events": [
-     {
-      "type": "low",
-      "typeLabel": "간조",
-      "time": "03:03",
-      "val": "234"
-     },
-     {
-      "type": "high",
-      "typeLabel": "만조",
-      "time": "08:47",
-      "val": "735"
-     },
-     {
-      "type": "low",
-      "typeLabel": "간조",
-      "time": "15:13",
-      "val": "163"
-     },
-     {
-      "type": "high",
-      "typeLabel": "만조",
-      "time": "21:38",
-      "val": "753"
-     }
-    ]
-   },
-   {
     "dateLabel": "09/05",
     "dow": "토요일",
-    "isToday": false,
+    "isToday": true,
     "mulddae": 4,
     "events": [
      {
@@ -259,14 +227,40 @@
       "val": "8"
      }
     ]
+   },
+   {
+    "dateLabel": "09/12",
+    "dow": "토요일",
+    "isToday": false,
+    "mulddae": 14,
+    "events": [
+     {
+      "type": "high",
+      "typeLabel": "만조",
+      "time": "05:28",
+      "val": "937"
+     },
+     {
+      "type": "low",
+      "typeLabel": "간조",
+      "time": "11:49",
+      "val": "39"
+     },
+     {
+      "type": "high",
+      "typeLabel": "만조",
+      "time": "17:45",
+      "val": "917"
+     }
+    ]
    }
   ],
   "yrMax": "986.0",
   "yrMaxDt": "2023-08-04 06:50",
   "yrMin": "-61.0",
   "yrMinDt": "2023-01-24 12:54",
-  "waterTemp": "27.2",
-  "waterTempTime": "2026-09-05 03:22:00"
+  "waterTemp": "26.9",
+  "waterTempTime": "2026-09-06 02:22:00"
  },
  {
   "slug": "평택",
@@ -280,41 +274,9 @@
   "lat": "36.96694",
   "tideDays": [
    {
-    "dateLabel": "09/04",
-    "dow": "금요일",
-    "isToday": true,
-    "mulddae": 7,
-    "events": [
-     {
-      "type": "low",
-      "typeLabel": "간조",
-      "time": "02:55",
-      "val": "244"
-     },
-     {
-      "type": "high",
-      "typeLabel": "만조",
-      "time": "08:32",
-      "val": "760"
-     },
-     {
-      "type": "low",
-      "typeLabel": "간조",
-      "time": "15:05",
-      "val": "178"
-     },
-     {
-      "type": "high",
-      "typeLabel": "만조",
-      "time": "21:24",
-      "val": "781"
-     }
-    ]
-   },
-   {
     "dateLabel": "09/05",
     "dow": "토요일",
-    "isToday": false,
+    "isToday": true,
     "mulddae": 5,
     "events": [
      {
@@ -528,14 +490,46 @@
       "val": "38"
      }
     ]
+   },
+   {
+    "dateLabel": "09/12",
+    "dow": "토요일",
+    "isToday": false,
+    "mulddae": 14,
+    "events": [
+     {
+      "type": "high",
+      "typeLabel": "만조",
+      "time": "05:16",
+      "val": "939"
+     },
+     {
+      "type": "low",
+      "typeLabel": "간조",
+      "time": "11:45",
+      "val": "55"
+     },
+     {
+      "type": "high",
+      "typeLabel": "만조",
+      "time": "17:34",
+      "val": "915"
+     },
+     {
+      "type": "low",
+      "typeLabel": "간조",
+      "time": "23:57",
+      "val": "40"
+     }
+    ]
    }
   ],
   "yrMax": "988.0",
   "yrMaxDt": "2020-10-18 17:29",
   "yrMin": "-21.0",
   "yrMinDt": "2020-03-11 12:14",
-  "waterTemp": "26.8",
-  "waterTempTime": "2026-09-05 03:22:00"
+  "waterTemp": "26.6",
+  "waterTempTime": "2026-09-06 02:22:00"
  },
  {
   "slug": "영광",
@@ -549,41 +543,9 @@
   "lat": "35.42611",
   "tideDays": [
    {
-    "dateLabel": "09/04",
-    "dow": "금요일",
-    "isToday": true,
-    "mulddae": 7,
-    "events": [
-     {
-      "type": "low",
-      "typeLabel": "간조",
-      "time": "01:11",
-      "val": "195"
-     },
-     {
-      "type": "high",
-      "typeLabel": "만조",
-      "time": "06:53",
-      "val": "534"
-     },
-     {
-      "type": "low",
-      "typeLabel": "간조",
-      "time": "13:18",
-      "val": "131"
-     },
-     {
-      "type": "high",
-      "typeLabel": "만조",
-      "time": "19:46",
-      "val": "567"
-     }
-    ]
-   },
-   {
     "dateLabel": "09/05",
     "dow": "토요일",
-    "isToday": false,
+    "isToday": true,
     "mulddae": 4,
     "events": [
      {
@@ -797,6 +759,38 @@
       "val": "39"
      }
     ]
+   },
+   {
+    "dateLabel": "09/12",
+    "dow": "토요일",
+    "isToday": false,
+    "mulddae": 14,
+    "events": [
+     {
+      "type": "high",
+      "typeLabel": "만조",
+      "time": "03:22",
+      "val": "679"
+     },
+     {
+      "type": "low",
+      "typeLabel": "간조",
+      "time": "09:51",
+      "val": "54"
+     },
+     {
+      "type": "high",
+      "typeLabel": "만조",
+      "time": "15:39",
+      "val": "658"
+     },
+     {
+      "type": "low",
+      "typeLabel": "간조",
+      "time": "22:04",
+      "val": "44"
+     }
+    ]
    }
   ],
   "yrMax": "728.0",
@@ -816,41 +810,9 @@
   "lat": "33.52750",
   "tideDays": [
    {
-    "dateLabel": "09/04",
-    "dow": "금요일",
-    "isToday": true,
-    "mulddae": 1,
-    "events": [
-     {
-      "type": "high",
-      "typeLabel": "만조",
-      "time": "02:20",
-      "val": "218"
-     },
-     {
-      "type": "low",
-      "typeLabel": "간조",
-      "time": "09:36",
-      "val": "99"
-     },
-     {
-      "type": "high",
-      "typeLabel": "만조",
-      "time": "16:40",
-      "val": "239"
-     },
-     {
-      "type": "low",
-      "typeLabel": "간조",
-      "time": "22:59",
-      "val": "166"
-     }
-    ]
-   },
-   {
     "dateLabel": "09/05",
     "dow": "토요일",
-    "isToday": false,
+    "isToday": true,
     "mulddae": 1,
     "events": [
      {
@@ -1064,14 +1026,46 @@
       "val": "288"
      }
     ]
+   },
+   {
+    "dateLabel": "09/12",
+    "dow": "토요일",
+    "isToday": false,
+    "mulddae": 11,
+    "events": [
+     {
+      "type": "low",
+      "typeLabel": "간조",
+      "time": "05:34",
+      "val": "80"
+     },
+     {
+      "type": "high",
+      "typeLabel": "만조",
+      "time": "11:15",
+      "val": "275"
+     },
+     {
+      "type": "low",
+      "typeLabel": "간조",
+      "time": "17:46",
+      "val": "67"
+     },
+     {
+      "type": "high",
+      "typeLabel": "만조",
+      "time": "23:32",
+      "val": "279"
+     }
+    ]
    }
   ],
   "yrMax": "319.0",
   "yrMaxDt": "2013-07-23 23:57",
   "yrMin": "-10.0",
   "yrMinDt": "2013-12-05 06:05",
-  "waterTemp": "26.9",
-  "waterTempTime": "2026-09-05 03:22:00"
+  "waterTemp": "25.8",
+  "waterTempTime": "2026-09-06 02:22:00"
  },
  {
   "slug": "부산",
@@ -1085,35 +1079,9 @@
   "lat": "35.09638",
   "tideDays": [
    {
-    "dateLabel": "09/04",
-    "dow": "금요일",
-    "isToday": true,
-    "mulddae": 4,
-    "events": [
-     {
-      "type": "low",
-      "typeLabel": "간조",
-      "time": "06:13",
-      "val": "47"
-     },
-     {
-      "type": "high",
-      "typeLabel": "만조",
-      "time": "12:56",
-      "val": "107"
-     },
-     {
-      "type": "low",
-      "typeLabel": "간조",
-      "time": "18:54",
-      "val": "58"
-     }
-    ]
-   },
-   {
     "dateLabel": "09/05",
     "dow": "토요일",
-    "isToday": false,
+    "isToday": true,
     "mulddae": 1,
     "events": [
      {
@@ -1327,14 +1295,46 @@
       "val": "143"
      }
     ]
+   },
+   {
+    "dateLabel": "09/12",
+    "dow": "토요일",
+    "isToday": false,
+    "mulddae": 14,
+    "events": [
+     {
+      "type": "low",
+      "typeLabel": "간조",
+      "time": "02:33",
+      "val": "9"
+     },
+     {
+      "type": "high",
+      "typeLabel": "만조",
+      "time": "09:03",
+      "val": "135"
+     },
+     {
+      "type": "low",
+      "typeLabel": "간조",
+      "time": "14:51",
+      "val": "12"
+     },
+     {
+      "type": "high",
+      "typeLabel": "만조",
+      "time": "21:12",
+      "val": "141"
+     }
+    ]
    }
   ],
   "yrMax": "171.0",
   "yrMaxDt": "2010-09-07 20:03",
   "yrMin": "-14.0",
   "yrMinDt": "2010-03-30 15:07",
-  "waterTemp": "26.9",
-  "waterTempTime": "2026-09-05 03:22:00"
+  "waterTemp": "26.5",
+  "waterTempTime": "2026-09-06 02:22:00"
  },
  {
   "slug": "묵호",
@@ -1348,36 +1348,10 @@
   "lat": "37.55027",
   "tideDays": [
    {
-    "dateLabel": "09/04",
-    "dow": "금요일",
-    "isToday": true,
-    "mulddae": 1,
-    "events": [
-     {
-      "type": "low",
-      "typeLabel": "간조",
-      "time": "00:45",
-      "val": "28"
-     },
-     {
-      "type": "high",
-      "typeLabel": "만조",
-      "time": "06:46",
-      "val": "38"
-     },
-     {
-      "type": "low",
-      "typeLabel": "간조",
-      "time": "15:07",
-      "val": "16"
-     }
-    ]
-   },
-   {
     "dateLabel": "09/05",
     "dow": "토요일",
-    "isToday": false,
-    "mulddae": 5,
+    "isToday": true,
+    "mulddae": 3,
     "events": [
      {
       "type": "high",
@@ -1397,7 +1371,7 @@
     "dateLabel": "09/06",
     "dow": "일요일",
     "isToday": false,
-    "mulddae": 5,
+    "mulddae": 3,
     "events": [
      {
       "type": "high",
@@ -1572,14 +1546,46 @@
       "val": "13"
      }
     ]
+   },
+   {
+    "dateLabel": "09/12",
+    "dow": "토요일",
+    "isToday": false,
+    "mulddae": 1,
+    "events": [
+     {
+      "type": "high",
+      "typeLabel": "만조",
+      "time": "03:41",
+      "val": "32"
+     },
+     {
+      "type": "low",
+      "typeLabel": "간조",
+      "time": "09:33",
+      "val": "18"
+     },
+     {
+      "type": "high",
+      "typeLabel": "만조",
+      "time": "15:38",
+      "val": "38"
+     },
+     {
+      "type": "low",
+      "typeLabel": "간조",
+      "time": "22:21",
+      "val": "15"
+     }
+    ]
    }
   ],
   "yrMax": "62.0",
   "yrMaxDt": "2014-08-11 14:51",
   "yrMin": "-12.0",
   "yrMinDt": "2014-02-15 10:00",
-  "waterTemp": "25.5",
-  "waterTempTime": "2026-09-05 03:22:00"
+  "waterTemp": "25.2",
+  "waterTempTime": "2026-09-06 02:22:00"
  },
  {
   "slug": "목포",
@@ -1593,35 +1599,9 @@
   "lat": "34.77972",
   "tideDays": [
    {
-    "dateLabel": "09/04",
-    "dow": "금요일",
-    "isToday": true,
-    "mulddae": 6,
-    "events": [
-     {
-      "type": "high",
-      "typeLabel": "만조",
-      "time": "06:34",
-      "val": "362"
-     },
-     {
-      "type": "low",
-      "typeLabel": "간조",
-      "time": "11:46",
-      "val": "64"
-     },
-     {
-      "type": "high",
-      "typeLabel": "만조",
-      "time": "19:35",
-      "val": "417"
-     }
-    ]
-   },
-   {
     "dateLabel": "09/05",
     "dow": "토요일",
-    "isToday": false,
+    "isToday": true,
     "mulddae": 3,
     "events": [
      {
@@ -1835,14 +1815,46 @@
       "val": "0"
      }
     ]
+   },
+   {
+    "dateLabel": "09/12",
+    "dow": "토요일",
+    "isToday": false,
+    "mulddae": 14,
+    "events": [
+     {
+      "type": "high",
+      "typeLabel": "만조",
+      "time": "02:53",
+      "val": "488"
+     },
+     {
+      "type": "low",
+      "typeLabel": "간조",
+      "time": "08:02",
+      "val": "24"
+     },
+     {
+      "type": "high",
+      "typeLabel": "만조",
+      "time": "15:06",
+      "val": "468"
+     },
+     {
+      "type": "low",
+      "typeLabel": "간조",
+      "time": "20:16",
+      "val": "3"
+     }
+    ]
    }
   ],
   "yrMax": "517.0",
   "yrMaxDt": "2005-07-23 03:42",
   "yrMin": "-94.0",
   "yrMinDt": "2005-02-10 08:15",
-  "waterTemp": "27.4",
-  "waterTempTime": "2026-09-05 03:22:00"
+  "waterTemp": "27.2",
+  "waterTempTime": "2026-09-06 02:22:00"
  },
  {
   "slug": "안산",
@@ -1856,41 +1868,9 @@
   "lat": "37.19222",
   "tideDays": [
    {
-    "dateLabel": "09/04",
-    "dow": "금요일",
-    "isToday": true,
-    "mulddae": 7,
-    "events": [
-     {
-      "type": "low",
-      "typeLabel": "간조",
-      "time": "02:53",
-      "val": "216"
-     },
-     {
-      "type": "high",
-      "typeLabel": "만조",
-      "time": "08:36",
-      "val": "693"
-     },
-     {
-      "type": "low",
-      "typeLabel": "간조",
-      "time": "15:03",
-      "val": "145"
-     },
-     {
-      "type": "high",
-      "typeLabel": "만조",
-      "time": "21:30",
-      "val": "713"
-     }
-    ]
-   },
-   {
     "dateLabel": "09/05",
     "dow": "토요일",
-    "isToday": false,
+    "isToday": true,
     "mulddae": 4,
     "events": [
      {
@@ -1926,8 +1906,8 @@
     "mulddae": 1,
     "events": [
      {
-      "type": "high",
-      "typeLabel": "만조",
+      "type": "low",
+      "typeLabel": "간조",
       "time": "05:25",
       "val": "348"
      },
@@ -1938,8 +1918,8 @@
       "val": "562"
      },
      {
-      "type": "high",
-      "typeLabel": "만조",
+      "type": "low",
+      "typeLabel": "간조",
       "time": "17:43",
       "val": "242"
      }
@@ -2104,14 +2084,46 @@
       "val": "1"
      }
     ]
+   },
+   {
+    "dateLabel": "09/12",
+    "dow": "토요일",
+    "isToday": false,
+    "mulddae": 14,
+    "events": [
+     {
+      "type": "high",
+      "typeLabel": "만조",
+      "time": "05:15",
+      "val": "877"
+     },
+     {
+      "type": "low",
+      "typeLabel": "간조",
+      "time": "11:37",
+      "val": "31"
+     },
+     {
+      "type": "high",
+      "typeLabel": "만조",
+      "time": "17:31",
+      "val": "860"
+     },
+     {
+      "type": "low",
+      "typeLabel": "간조",
+      "time": "23:49",
+      "val": "3"
+     }
+    ]
    }
   ],
   "yrMax": "914.0",
   "yrMaxDt": "2026-07-17 06:40",
   "yrMin": "-21.0",
   "yrMinDt": "2026-01-05 12:04",
-  "waterTemp": "26.9",
-  "waterTempTime": "2026-09-05 03:22:00"
+  "waterTemp": "26.4",
+  "waterTempTime": "2026-09-06 02:22:00"
  },
  {
   "slug": "서귀포",
@@ -2125,41 +2137,9 @@
   "lat": "33.24000",
   "tideDays": [
    {
-    "dateLabel": "09/04",
-    "dow": "금요일",
-    "isToday": true,
-    "mulddae": 2,
-    "events": [
-     {
-      "type": "high",
-      "typeLabel": "만조",
-      "time": "01:20",
-      "val": "227"
-     },
-     {
-      "type": "low",
-      "typeLabel": "간조",
-      "time": "08:09",
-      "val": "95"
-     },
-     {
-      "type": "high",
-      "typeLabel": "만조",
-      "time": "15:21",
-      "val": "240"
-     },
-     {
-      "type": "low",
-      "typeLabel": "간조",
-      "time": "21:27",
-      "val": "175"
-     }
-    ]
-   },
-   {
     "dateLabel": "09/05",
     "dow": "토요일",
-    "isToday": false,
+    "isToday": true,
     "mulddae": 1,
     "events": [
      {
@@ -2373,6 +2353,38 @@
       "val": "304"
      }
     ]
+   },
+   {
+    "dateLabel": "09/12",
+    "dow": "토요일",
+    "isToday": false,
+    "mulddae": 12,
+    "events": [
+     {
+      "type": "low",
+      "typeLabel": "간조",
+      "time": "04:22",
+      "val": "75"
+     },
+     {
+      "type": "high",
+      "typeLabel": "만조",
+      "time": "10:18",
+      "val": "292"
+     },
+     {
+      "type": "low",
+      "typeLabel": "간조",
+      "time": "16:32",
+      "val": "55"
+     },
+     {
+      "type": "high",
+      "typeLabel": "만조",
+      "time": "22:39",
+      "val": "295"
+     }
+    ]
    }
   ],
   "yrMax": "340.0",
@@ -2380,7 +2392,7 @@
   "yrMin": "-11.0",
   "yrMinDt": "2009-02-11 04:49",
   "waterTemp": "27.8",
-  "waterTempTime": "2026-09-05 03:22:00"
+  "waterTempTime": "2026-09-06 02:22:00"
  },
  {
   "slug": "후포",
@@ -2394,35 +2406,9 @@
   "lat": "36.67750",
   "tideDays": [
    {
-    "dateLabel": "09/04",
-    "dow": "금요일",
-    "isToday": true,
-    "mulddae": 1,
-    "events": [
-     {
-      "type": "low",
-      "typeLabel": "간조",
-      "time": "00:39",
-      "val": "24"
-     },
-     {
-      "type": "high",
-      "typeLabel": "만조",
-      "time": "06:45",
-      "val": "29"
-     },
-     {
-      "type": "low",
-      "typeLabel": "간조",
-      "time": "15:40",
-      "val": "12"
-     }
-    ]
-   },
-   {
     "dateLabel": "09/05",
     "dow": "토요일",
-    "isToday": false,
+    "isToday": true,
     "mulddae": 8,
     "events": [
      {
@@ -2567,7 +2553,7 @@
     "dateLabel": "09/11",
     "dow": "금요일",
     "isToday": false,
-    "mulddae": 5,
+    "mulddae": 7,
     "events": [
      {
       "type": "high",
@@ -2594,14 +2580,46 @@
       "val": "13"
      }
     ]
+   },
+   {
+    "dateLabel": "09/12",
+    "dow": "토요일",
+    "isToday": false,
+    "mulddae": 1,
+    "events": [
+     {
+      "type": "high",
+      "typeLabel": "만조",
+      "time": "04:21",
+      "val": "25"
+     },
+     {
+      "type": "low",
+      "typeLabel": "간조",
+      "time": "09:38",
+      "val": "18"
+     },
+     {
+      "type": "high",
+      "typeLabel": "만조",
+      "time": "15:51",
+      "val": "31"
+     },
+     {
+      "type": "low",
+      "typeLabel": "간조",
+      "time": "22:51",
+      "val": "15"
+     }
+    ]
    }
   ],
   "yrMax": "52.0",
   "yrMaxDt": "2026-07-15 14:37",
   "yrMin": "-11.0",
   "yrMinDt": "2026-02-26 05:34",
-  "waterTemp": "26.0",
-  "waterTempTime": "2026-09-05 03:22:00"
+  "waterTemp": "25.7",
+  "waterTempTime": "2026-09-06 02:22:00"
  },
  {
   "slug": "속초",
@@ -2615,36 +2633,10 @@
   "lat": "38.20722",
   "tideDays": [
    {
-    "dateLabel": "09/04",
-    "dow": "금요일",
-    "isToday": true,
-    "mulddae": 1,
-    "events": [
-     {
-      "type": "low",
-      "typeLabel": "간조",
-      "time": "00:29",
-      "val": "31"
-     },
-     {
-      "type": "high",
-      "typeLabel": "만조",
-      "time": "06:49",
-      "val": "42"
-     },
-     {
-      "type": "low",
-      "typeLabel": "간조",
-      "time": "15:06",
-      "val": "19"
-     }
-    ]
-   },
-   {
     "dateLabel": "09/05",
     "dow": "토요일",
-    "isToday": false,
-    "mulddae": 3,
+    "isToday": true,
+    "mulddae": 1,
     "events": [
      {
       "type": "high",
@@ -2664,7 +2656,7 @@
     "dateLabel": "09/06",
     "dow": "일요일",
     "isToday": false,
-    "mulddae": 7,
+    "mulddae": 5,
     "events": [
      {
       "type": "high",
@@ -2839,14 +2831,46 @@
       "val": "16"
      }
     ]
+   },
+   {
+    "dateLabel": "09/12",
+    "dow": "토요일",
+    "isToday": false,
+    "mulddae": 1,
+    "events": [
+     {
+      "type": "high",
+      "typeLabel": "만조",
+      "time": "03:38",
+      "val": "36"
+     },
+     {
+      "type": "low",
+      "typeLabel": "간조",
+      "time": "09:32",
+      "val": "21"
+     },
+     {
+      "type": "high",
+      "typeLabel": "만조",
+      "time": "15:33",
+      "val": "42"
+     },
+     {
+      "type": "low",
+      "typeLabel": "간조",
+      "time": "22:19",
+      "val": "18"
+     }
+    ]
    }
   ],
   "yrMax": "95.0",
   "yrMaxDt": "2023-08-11 10:31",
   "yrMin": "-8.0",
   "yrMinDt": "2023-03-05 09:02",
-  "waterTemp": "23.7",
-  "waterTempTime": "2026-09-05 03:22:00"
+  "waterTemp": "23.6",
+  "waterTempTime": "2026-09-06 02:22:00"
  },
  {
   "slug": "울릉도",
@@ -2860,36 +2884,10 @@
   "lat": "37.49138",
   "tideDays": [
    {
-    "dateLabel": "09/04",
-    "dow": "금요일",
-    "isToday": true,
-    "mulddae": 1,
-    "events": [
-     {
-      "type": "low",
-      "typeLabel": "간조",
-      "time": "00:35",
-      "val": "22"
-     },
-     {
-      "type": "high",
-      "typeLabel": "만조",
-      "time": "06:26",
-      "val": "29"
-     },
-     {
-      "type": "low",
-      "typeLabel": "간조",
-      "time": "14:52",
-      "val": "8"
-     }
-    ]
-   },
-   {
     "dateLabel": "09/05",
     "dow": "토요일",
-    "isToday": false,
-    "mulddae": 8,
+    "isToday": true,
+    "mulddae": 10,
     "events": [
      {
       "type": "high",
@@ -2909,7 +2907,7 @@
     "dateLabel": "09/06",
     "dow": "일요일",
     "isToday": false,
-    "mulddae": 8,
+    "mulddae": 10,
     "events": [
      {
       "type": "high",
@@ -2929,7 +2927,7 @@
     "dateLabel": "09/07",
     "dow": "월요일",
     "isToday": false,
-    "mulddae": 11,
+    "mulddae": 12,
     "events": [
      {
       "type": "high",
@@ -3013,7 +3011,7 @@
     "dateLabel": "09/10",
     "dow": "목요일",
     "isToday": false,
-    "mulddae": 11,
+    "mulddae": 12,
     "events": [
      {
       "type": "high",
@@ -3045,7 +3043,7 @@
     "dateLabel": "09/11",
     "dow": "금요일",
     "isToday": false,
-    "mulddae": 4,
+    "mulddae": 8,
     "events": [
      {
       "type": "high",
@@ -3072,14 +3070,46 @@
       "val": "10"
      }
     ]
+   },
+   {
+    "dateLabel": "09/12",
+    "dow": "토요일",
+    "isToday": false,
+    "mulddae": 1,
+    "events": [
+     {
+      "type": "high",
+      "typeLabel": "만조",
+      "time": "03:19",
+      "val": "25"
+     },
+     {
+      "type": "low",
+      "typeLabel": "간조",
+      "time": "09:03",
+      "val": "14"
+     },
+     {
+      "type": "high",
+      "typeLabel": "만조",
+      "time": "15:17",
+      "val": "31"
+     },
+     {
+      "type": "low",
+      "typeLabel": "간조",
+      "time": "21:58",
+      "val": "12"
+     }
+    ]
    }
   ],
   "yrMax": "76.0",
   "yrMaxDt": "2020-01-08 00:09",
   "yrMin": "-1.0",
   "yrMinDt": "2020-12-01 10:00",
-  "waterTemp": "25.4",
-  "waterTempTime": "2026-09-05 03:22:00"
+  "waterTemp": "25.2",
+  "waterTempTime": "2026-09-06 02:22:00"
  },
  {
   "slug": "통영",
@@ -3093,41 +3123,9 @@
   "lat": "34.82777",
   "tideDays": [
    {
-    "dateLabel": "09/04",
-    "dow": "금요일",
-    "isToday": true,
-    "mulddae": 3,
-    "events": [
-     {
-      "type": "high",
-      "typeLabel": "만조",
-      "time": "00:22",
-      "val": "204"
-     },
-     {
-      "type": "low",
-      "typeLabel": "간조",
-      "time": "06:48",
-      "val": "86"
-     },
-     {
-      "type": "high",
-      "typeLabel": "만조",
-      "time": "13:45",
-      "val": "216"
-     },
-     {
-      "type": "low",
-      "typeLabel": "간조",
-      "time": "19:39",
-      "val": "132"
-     }
-    ]
-   },
-   {
     "dateLabel": "09/05",
     "dow": "토요일",
-    "isToday": false,
+    "isToday": true,
     "mulddae": 1,
     "events": [
      {
@@ -3341,14 +3339,46 @@
       "val": "285"
      }
     ]
+   },
+   {
+    "dateLabel": "09/12",
+    "dow": "토요일",
+    "isToday": false,
+    "mulddae": 13,
+    "events": [
+     {
+      "type": "low",
+      "typeLabel": "간조",
+      "time": "03:08",
+      "val": "36"
+     },
+     {
+      "type": "high",
+      "typeLabel": "만조",
+      "time": "09:29",
+      "val": "269"
+     },
+     {
+      "type": "low",
+      "typeLabel": "간조",
+      "time": "15:23",
+      "val": "30"
+     },
+     {
+      "type": "high",
+      "typeLabel": "만조",
+      "time": "21:43",
+      "val": "278"
+     }
+    ]
    }
   ],
   "yrMax": "313.0",
   "yrMaxDt": "2026-07-15 22:05",
   "yrMin": "-6.0",
   "yrMinDt": "2026-02-04 04:09",
-  "waterTemp": "26.7",
-  "waterTempTime": "2026-09-05 03:22:00"
+  "waterTemp": "26.5",
+  "waterTempTime": "2026-09-06 02:26:00"
  },
  {
   "slug": "여수",
@@ -3362,41 +3392,9 @@
   "lat": "34.74722",
   "tideDays": [
    {
-    "dateLabel": "09/04",
-    "dow": "금요일",
-    "isToday": true,
-    "mulddae": 3,
-    "events": [
-     {
-      "type": "high",
-      "typeLabel": "만조",
-      "time": "00:43",
-      "val": "253"
-     },
-     {
-      "type": "low",
-      "typeLabel": "간조",
-      "time": "07:05",
-      "val": "108"
-     },
-     {
-      "type": "high",
-      "typeLabel": "만조",
-      "time": "13:59",
-      "val": "272"
-     },
-     {
-      "type": "low",
-      "typeLabel": "간조",
-      "time": "19:58",
-      "val": "165"
-     }
-    ]
-   },
-   {
     "dateLabel": "09/05",
     "dow": "토요일",
-    "isToday": false,
+    "isToday": true,
     "mulddae": 1,
     "events": [
      {
@@ -3610,14 +3608,46 @@
       "val": "360"
      }
     ]
+   },
+   {
+    "dateLabel": "09/12",
+    "dow": "토요일",
+    "isToday": false,
+    "mulddae": 13,
+    "events": [
+     {
+      "type": "low",
+      "typeLabel": "간조",
+      "time": "03:26",
+      "val": "43"
+     },
+     {
+      "type": "high",
+      "typeLabel": "만조",
+      "time": "09:45",
+      "val": "337"
+     },
+     {
+      "type": "low",
+      "typeLabel": "간조",
+      "time": "15:41",
+      "val": "35"
+     },
+     {
+      "type": "high",
+      "typeLabel": "만조",
+      "time": "22:00",
+      "val": "351"
+     }
+    ]
    }
   ],
   "yrMax": "394.0",
   "yrMaxDt": "2015-08-30 21:53",
   "yrMin": "-24.0",
   "yrMinDt": "2015-02-20 03:36",
-  "waterTemp": "27.4",
-  "waterTempTime": "2026-09-05 03:22:00"
+  "waterTemp": "27.0",
+  "waterTempTime": "2026-09-06 02:26:00"
  },
  {
   "slug": "대산",
@@ -3631,41 +3661,9 @@
   "lat": "37.00750",
   "tideDays": [
    {
-    "dateLabel": "09/04",
-    "dow": "금요일",
-    "isToday": true,
-    "mulddae": 7,
-    "events": [
-     {
-      "type": "low",
-      "typeLabel": "간조",
-      "time": "02:40",
-      "val": "209"
-     },
-     {
-      "type": "high",
-      "typeLabel": "만조",
-      "time": "08:25",
-      "val": "643"
-     },
-     {
-      "type": "low",
-      "typeLabel": "간조",
-      "time": "14:49",
-      "val": "138"
-     },
-     {
-      "type": "high",
-      "typeLabel": "만조",
-      "time": "21:22",
-      "val": "669"
-     }
-    ]
-   },
-   {
     "dateLabel": "09/05",
     "dow": "토요일",
-    "isToday": false,
+    "isToday": true,
     "mulddae": 5,
     "events": [
      {
@@ -3879,6 +3877,38 @@
       "val": "14"
      }
     ]
+   },
+   {
+    "dateLabel": "09/12",
+    "dow": "토요일",
+    "isToday": false,
+    "mulddae": 14,
+    "events": [
+     {
+      "type": "high",
+      "typeLabel": "만조",
+      "time": "05:06",
+      "val": "818"
+     },
+     {
+      "type": "low",
+      "typeLabel": "간조",
+      "time": "11:25",
+      "val": "45"
+     },
+     {
+      "type": "high",
+      "typeLabel": "만조",
+      "time": "17:22",
+      "val": "801"
+     },
+     {
+      "type": "low",
+      "typeLabel": "간조",
+      "time": "23:38",
+      "val": "15"
+     }
+    ]
    }
   ],
   "yrMax": "858.0",
@@ -3886,7 +3916,7 @@
   "yrMin": "-6.0",
   "yrMinDt": "2026-01-05 11:45",
   "waterTemp": "24.2",
-  "waterTempTime": "2026-09-05 03:22:00"
+  "waterTempTime": "2026-09-06 02:26:00"
  },
  {
   "slug": "군산",
@@ -3900,41 +3930,9 @@
   "lat": "35.97555",
   "tideDays": [
    {
-    "dateLabel": "09/04",
-    "dow": "금요일",
-    "isToday": true,
-    "mulddae": 6,
-    "events": [
-     {
-      "type": "low",
-      "typeLabel": "간조",
-      "time": "01:47",
-      "val": "210"
-     },
-     {
-      "type": "high",
-      "typeLabel": "만조",
-      "time": "07:13",
-      "val": "571"
-     },
-     {
-      "type": "low",
-      "typeLabel": "간조",
-      "time": "13:53",
-      "val": "144"
-     },
-     {
-      "type": "high",
-      "typeLabel": "만조",
-      "time": "20:08",
-      "val": "596"
-     }
-    ]
-   },
-   {
     "dateLabel": "09/05",
     "dow": "토요일",
-    "isToday": false,
+    "isToday": true,
     "mulddae": 4,
     "events": [
      {
@@ -4089,7 +4087,7 @@
     "dateLabel": "09/10",
     "dow": "목요일",
     "isToday": false,
-    "mulddae": 13,
+    "mulddae": 12,
     "events": [
      {
       "type": "high",
@@ -4148,14 +4146,46 @@
       "val": "29"
      }
     ]
+   },
+   {
+    "dateLabel": "09/12",
+    "dow": "토요일",
+    "isToday": false,
+    "mulddae": 14,
+    "events": [
+     {
+      "type": "high",
+      "typeLabel": "만조",
+      "time": "03:47",
+      "val": "723"
+     },
+     {
+      "type": "low",
+      "typeLabel": "간조",
+      "time": "10:29",
+      "val": "53"
+     },
+     {
+      "type": "high",
+      "typeLabel": "만조",
+      "time": "16:02",
+      "val": "706"
+     },
+     {
+      "type": "low",
+      "typeLabel": "간조",
+      "time": "22:42",
+      "val": "34"
+     }
+    ]
    }
   ],
   "yrMax": "765.0",
   "yrMaxDt": "2005-08-22 04:56",
   "yrMin": "-42.0",
   "yrMinDt": "2005-02-10 10:42",
-  "waterTemp": "26.3",
-  "waterTempTime": "2026-09-05 03:22:00"
+  "waterTemp": "26.1",
+  "waterTempTime": "2026-09-06 02:26:00"
  },
  {
   "slug": "울산",
@@ -4169,35 +4199,9 @@
   "lat": "35.50194",
   "tideDays": [
    {
-    "dateLabel": "09/04",
-    "dow": "금요일",
-    "isToday": true,
-    "mulddae": 3,
-    "events": [
-     {
-      "type": "low",
-      "typeLabel": "간조",
-      "time": "05:13",
-      "val": "29"
-     },
-     {
-      "type": "high",
-      "typeLabel": "만조",
-      "time": "11:21",
-      "val": "49"
-     },
-     {
-      "type": "low",
-      "typeLabel": "간조",
-      "time": "18:00",
-      "val": "22"
-     }
-    ]
-   },
-   {
     "dateLabel": "09/05",
     "dow": "토요일",
-    "isToday": false,
+    "isToday": true,
     "mulddae": 1,
     "events": [
      {
@@ -4411,14 +4415,46 @@
       "val": "63"
      }
     ]
+   },
+   {
+    "dateLabel": "09/12",
+    "dow": "토요일",
+    "isToday": false,
+    "mulddae": 14,
+    "events": [
+     {
+      "type": "low",
+      "typeLabel": "간조",
+      "time": "01:45",
+      "val": "6"
+     },
+     {
+      "type": "high",
+      "typeLabel": "만조",
+      "time": "08:30",
+      "val": "60"
+     },
+     {
+      "type": "low",
+      "typeLabel": "간조",
+      "time": "14:04",
+      "val": "14"
+     },
+     {
+      "type": "high",
+      "typeLabel": "만조",
+      "time": "20:28",
+      "val": "63"
+     }
+    ]
    }
   ],
   "yrMax": "119.0",
   "yrMaxDt": "2012-09-17 19:49",
   "yrMin": "-18.0",
   "yrMinDt": "2012-04-09 02:38",
-  "waterTemp": "25.0",
-  "waterTempTime": "2026-09-05 03:22:00"
+  "waterTemp": "25.3",
+  "waterTempTime": "2026-09-06 02:26:00"
  },
  {
   "slug": "추자도",
@@ -4432,41 +4468,9 @@
   "lat": "33.96194",
   "tideDays": [
    {
-    "dateLabel": "09/04",
-    "dow": "금요일",
-    "isToday": true,
-    "mulddae": 2,
-    "events": [
-     {
-      "type": "high",
-      "typeLabel": "만조",
-      "time": "02:50",
-      "val": "245"
-     },
-     {
-      "type": "low",
-      "typeLabel": "간조",
-      "time": "09:50",
-      "val": "93"
-     },
-     {
-      "type": "high",
-      "typeLabel": "만조",
-      "time": "17:02",
-      "val": "279"
-     },
-     {
-      "type": "low",
-      "typeLabel": "간조",
-      "time": "23:08",
-      "val": "172"
-     }
-    ]
-   },
-   {
     "dateLabel": "09/05",
     "dow": "토요일",
-    "isToday": false,
+    "isToday": true,
     "mulddae": 1,
     "events": [
      {
@@ -4680,14 +4684,46 @@
       "val": "323"
      }
     ]
+   },
+   {
+    "dateLabel": "09/12",
+    "dow": "토요일",
+    "isToday": false,
+    "mulddae": 11,
+    "events": [
+     {
+      "type": "low",
+      "typeLabel": "간조",
+      "time": "05:51",
+      "val": "60"
+     },
+     {
+      "type": "high",
+      "typeLabel": "만조",
+      "time": "11:42",
+      "val": "307"
+     },
+     {
+      "type": "low",
+      "typeLabel": "간조",
+      "time": "18:03",
+      "val": "44"
+     },
+     {
+      "type": "high",
+      "typeLabel": "만조",
+      "time": "23:59",
+      "val": "313"
+     }
+    ]
    }
   ],
   "yrMax": "350.0",
   "yrMaxDt": "",
   "yrMin": "-32.0",
   "yrMinDt": "2008-12-14 05:43",
-  "waterTemp": "26.0",
-  "waterTempTime": "2026-09-05 03:22:00"
+  "waterTemp": "25.8",
+  "waterTempTime": "2026-09-06 02:26:00"
  },
  {
   "slug": "성산포",
@@ -4701,41 +4737,9 @@
   "lat": "33.47472",
   "tideDays": [
    {
-    "dateLabel": "09/04",
-    "dow": "금요일",
-    "isToday": true,
-    "mulddae": 2,
-    "events": [
-     {
-      "type": "high",
-      "typeLabel": "만조",
-      "time": "01:11",
-      "val": "188"
-     },
-     {
-      "type": "low",
-      "typeLabel": "간조",
-      "time": "08:10",
-      "val": "78"
-     },
-     {
-      "type": "high",
-      "typeLabel": "만조",
-      "time": "15:15",
-      "val": "198"
-     },
-     {
-      "type": "low",
-      "typeLabel": "간조",
-      "time": "21:32",
-      "val": "148"
-     }
-    ]
-   },
-   {
     "dateLabel": "09/05",
     "dow": "토요일",
-    "isToday": false,
+    "isToday": true,
     "mulddae": 1,
     "events": [
      {
@@ -4949,6 +4953,38 @@
       "val": "254"
      }
     ]
+   },
+   {
+    "dateLabel": "09/12",
+    "dow": "토요일",
+    "isToday": false,
+    "mulddae": 12,
+    "events": [
+     {
+      "type": "low",
+      "typeLabel": "간조",
+      "time": "04:22",
+      "val": "56"
+     },
+     {
+      "type": "high",
+      "typeLabel": "만조",
+      "time": "10:16",
+      "val": "243"
+     },
+     {
+      "type": "low",
+      "typeLabel": "간조",
+      "time": "16:33",
+      "val": "43"
+     },
+     {
+      "type": "high",
+      "typeLabel": "만조",
+      "time": "22:34",
+      "val": "247"
+     }
+    ]
    }
   ],
   "yrMax": "283.0",
@@ -4956,7 +4992,7 @@
   "yrMin": "-23.0",
   "yrMinDt": "2026-02-03 04:39",
   "waterTemp": "0.0",
-  "waterTempTime": "2026-09-05 03:22:00"
+  "waterTempTime": "2026-09-06 02:26:00"
  },
  {
   "slug": "모슬포",
@@ -4970,41 +5006,9 @@
   "lat": "33.21444",
   "tideDays": [
    {
-    "dateLabel": "09/04",
-    "dow": "금요일",
-    "isToday": true,
-    "mulddae": 2,
-    "events": [
-     {
-      "type": "high",
-      "typeLabel": "만조",
-      "time": "01:56",
-      "val": "207"
-     },
-     {
-      "type": "low",
-      "typeLabel": "간조",
-      "time": "08:58",
-      "val": "80"
-     },
-     {
-      "type": "high",
-      "typeLabel": "만조",
-      "time": "16:10",
-      "val": "225"
-     },
-     {
-      "type": "low",
-      "typeLabel": "간조",
-      "time": "22:18",
-      "val": "159"
-     }
-    ]
-   },
-   {
     "dateLabel": "09/05",
     "dow": "토요일",
-    "isToday": false,
+    "isToday": true,
     "mulddae": 1,
     "events": [
      {
@@ -5218,14 +5222,46 @@
       "val": "276"
      }
     ]
+   },
+   {
+    "dateLabel": "09/12",
+    "dow": "토요일",
+    "isToday": false,
+    "mulddae": 12,
+    "events": [
+     {
+      "type": "low",
+      "typeLabel": "간조",
+      "time": "05:06",
+      "val": "53"
+     },
+     {
+      "type": "high",
+      "typeLabel": "만조",
+      "time": "10:59",
+      "val": "259"
+     },
+     {
+      "type": "low",
+      "typeLabel": "간조",
+      "time": "17:16",
+      "val": "39"
+     },
+     {
+      "type": "high",
+      "typeLabel": "만조",
+      "time": "23:20",
+      "val": "267"
+     }
+    ]
    }
   ],
   "yrMax": "301.0",
   "yrMaxDt": "2026-06-17 00:05",
   "yrMin": "-26.0",
   "yrMinDt": "2026-01-04 04:38",
-  "waterTemp": "27.7",
-  "waterTempTime": "2026-09-05 03:26:00"
+  "waterTemp": "27.6",
+  "waterTempTime": "2026-09-06 02:26:00"
  },
  {
   "slug": "장항",
@@ -5239,41 +5275,9 @@
   "lat": "36.00694",
   "tideDays": [
    {
-    "dateLabel": "09/04",
-    "dow": "금요일",
-    "isToday": true,
-    "mulddae": 7,
-    "events": [
-     {
-      "type": "low",
-      "typeLabel": "간조",
-      "time": "02:00",
-      "val": "214"
-     },
-     {
-      "type": "high",
-      "typeLabel": "만조",
-      "time": "07:15",
-      "val": "589"
-     },
-     {
-      "type": "low",
-      "typeLabel": "간조",
-      "time": "14:06",
-      "val": "150"
-     },
-     {
-      "type": "high",
-      "typeLabel": "만조",
-      "time": "20:12",
-      "val": "611"
-     }
-    ]
-   },
-   {
     "dateLabel": "09/05",
     "dow": "토요일",
-    "isToday": false,
+    "isToday": true,
     "mulddae": 4,
     "events": [
      {
@@ -5428,7 +5432,7 @@
     "dateLabel": "09/10",
     "dow": "목요일",
     "isToday": false,
-    "mulddae": 13,
+    "mulddae": 12,
     "events": [
      {
       "type": "high",
@@ -5487,6 +5491,38 @@
       "val": "37"
      }
     ]
+   },
+   {
+    "dateLabel": "09/12",
+    "dow": "토요일",
+    "isToday": false,
+    "mulddae": 14,
+    "events": [
+     {
+      "type": "high",
+      "typeLabel": "만조",
+      "time": "03:49",
+      "val": "732"
+     },
+     {
+      "type": "low",
+      "typeLabel": "간조",
+      "time": "10:50",
+      "val": "56"
+     },
+     {
+      "type": "high",
+      "typeLabel": "만조",
+      "time": "16:04",
+      "val": "721"
+     },
+     {
+      "type": "low",
+      "typeLabel": "간조",
+      "time": "23:04",
+      "val": "37"
+     }
+    ]
    }
   ],
   "yrMax": "777.0",
@@ -5506,41 +5542,9 @@
   "lat": "36.40638",
   "tideDays": [
    {
-    "dateLabel": "09/04",
-    "dow": "금요일",
-    "isToday": true,
-    "mulddae": 7,
-    "events": [
-     {
-      "type": "low",
-      "typeLabel": "간조",
-      "time": "02:05",
-      "val": "228"
-     },
-     {
-      "type": "high",
-      "typeLabel": "만조",
-      "time": "07:21",
-      "val": "618"
-     },
-     {
-      "type": "low",
-      "typeLabel": "간조",
-      "time": "14:12",
-      "val": "161"
-     },
-     {
-      "type": "high",
-      "typeLabel": "만조",
-      "time": "20:19",
-      "val": "642"
-     }
-    ]
-   },
-   {
     "dateLabel": "09/05",
     "dow": "토요일",
-    "isToday": false,
+    "isToday": true,
     "mulddae": 4,
     "events": [
      {
@@ -5695,7 +5699,7 @@
     "dateLabel": "09/10",
     "dow": "목요일",
     "isToday": false,
-    "mulddae": 13,
+    "mulddae": 12,
     "events": [
      {
       "type": "high",
@@ -5754,14 +5758,46 @@
       "val": "46"
      }
     ]
+   },
+   {
+    "dateLabel": "09/12",
+    "dow": "토요일",
+    "isToday": false,
+    "mulddae": 14,
+    "events": [
+     {
+      "type": "high",
+      "typeLabel": "만조",
+      "time": "04:01",
+      "val": "763"
+     },
+     {
+      "type": "low",
+      "typeLabel": "간조",
+      "time": "10:55",
+      "val": "57"
+     },
+     {
+      "type": "high",
+      "typeLabel": "만조",
+      "time": "16:17",
+      "val": "739"
+     },
+     {
+      "type": "low",
+      "typeLabel": "간조",
+      "time": "23:07",
+      "val": "49"
+     }
+    ]
    }
   ],
   "yrMax": "825.0",
   "yrMaxDt": "2010-08-13 05:14",
   "yrMin": "-19.0",
   "yrMinDt": "2010-02-01 11:38",
-  "waterTemp": "27.3",
-  "waterTempTime": "2026-09-05 03:26:00"
+  "waterTemp": "26.9",
+  "waterTempTime": "2026-09-06 02:26:00"
  },
  {
   "slug": "고흥발포",
@@ -5775,41 +5811,9 @@
   "lat": "34.48111",
   "tideDays": [
    {
-    "dateLabel": "09/04",
-    "dow": "금요일",
-    "isToday": true,
-    "mulddae": 3,
-    "events": [
-     {
-      "type": "high",
-      "typeLabel": "만조",
-      "time": "01:04",
-      "val": "265"
-     },
-     {
-      "type": "low",
-      "typeLabel": "간조",
-      "time": "07:42",
-      "val": "102"
-     },
-     {
-      "type": "high",
-      "typeLabel": "만조",
-      "time": "14:30",
-      "val": "290"
-     },
-     {
-      "type": "low",
-      "typeLabel": "간조",
-      "time": "20:58",
-      "val": "177"
-     }
-    ]
-   },
-   {
     "dateLabel": "09/05",
     "dow": "토요일",
-    "isToday": false,
+    "isToday": true,
     "mulddae": 1,
     "events": [
      {
@@ -6023,14 +6027,46 @@
       "val": "381"
      }
     ]
+   },
+   {
+    "dateLabel": "09/12",
+    "dow": "토요일",
+    "isToday": false,
+    "mulddae": 13,
+    "events": [
+     {
+      "type": "low",
+      "typeLabel": "간조",
+      "time": "04:06",
+      "val": "44"
+     },
+     {
+      "type": "high",
+      "typeLabel": "만조",
+      "time": "10:03",
+      "val": "353"
+     },
+     {
+      "type": "low",
+      "typeLabel": "간조",
+      "time": "16:17",
+      "val": "34"
+     },
+     {
+      "type": "high",
+      "typeLabel": "만조",
+      "time": "22:19",
+      "val": "369"
+     }
+    ]
    }
   ],
   "yrMax": "408.0",
   "yrMaxDt": "2026-07-16 23:24",
   "yrMin": "-17.0",
   "yrMinDt": "2026-02-03 04:22",
-  "waterTemp": "28.3",
-  "waterTempTime": "2026-09-05 03:26:00"
+  "waterTemp": "27.8",
+  "waterTempTime": "2026-09-06 02:26:00"
  },
  {
   "slug": "완도",
@@ -6044,41 +6080,9 @@
   "lat": "34.31555",
   "tideDays": [
    {
-    "dateLabel": "09/04",
-    "dow": "금요일",
-    "isToday": true,
-    "mulddae": 3,
-    "events": [
-     {
-      "type": "high",
-      "typeLabel": "만조",
-      "time": "01:49",
-      "val": "280"
-     },
-     {
-      "type": "low",
-      "typeLabel": "간조",
-      "time": "08:49",
-      "val": "108"
-     },
-     {
-      "type": "high",
-      "typeLabel": "만조",
-      "time": "15:21",
-      "val": "305"
-     },
-     {
-      "type": "low",
-      "typeLabel": "간조",
-      "time": "22:05",
-      "val": "187"
-     }
-    ]
-   },
-   {
     "dateLabel": "09/05",
     "dow": "토요일",
-    "isToday": false,
+    "isToday": true,
     "mulddae": 1,
     "events": [
      {
@@ -6292,14 +6296,46 @@
       "val": "383"
      }
     ]
+   },
+   {
+    "dateLabel": "09/12",
+    "dow": "토요일",
+    "isToday": false,
+    "mulddae": 13,
+    "events": [
+     {
+      "type": "low",
+      "typeLabel": "간조",
+      "time": "05:00",
+      "val": "62"
+     },
+     {
+      "type": "high",
+      "typeLabel": "만조",
+      "time": "10:41",
+      "val": "365"
+     },
+     {
+      "type": "low",
+      "typeLabel": "간조",
+      "time": "17:11",
+      "val": "47"
+     },
+     {
+      "type": "high",
+      "typeLabel": "만조",
+      "time": "22:57",
+      "val": "373"
+     }
+    ]
    }
   ],
   "yrMax": "427.0",
   "yrMaxDt": "2007-10-27 10:34",
   "yrMin": "-20.0",
   "yrMinDt": "2007-02-19 05:23",
-  "waterTemp": "25.3",
-  "waterTempTime": "2026-09-05 03:26:00"
+  "waterTemp": "26.6",
+  "waterTempTime": "2026-09-06 02:26:00"
  },
  {
   "slug": "진도",
@@ -6313,41 +6349,9 @@
   "lat": "34.37777",
   "tideDays": [
    {
-    "dateLabel": "09/04",
-    "dow": "금요일",
-    "isToday": true,
-    "mulddae": 2,
-    "events": [
-     {
-      "type": "high",
-      "typeLabel": "만조",
-      "time": "02:55",
-      "val": "281"
-     },
-     {
-      "type": "low",
-      "typeLabel": "간조",
-      "time": "09:59",
-      "val": "89"
-     },
-     {
-      "type": "high",
-      "typeLabel": "만조",
-      "time": "16:57",
-      "val": "318"
-     },
-     {
-      "type": "low",
-      "typeLabel": "간조",
-      "time": "23:08",
-      "val": "176"
-     }
-    ]
-   },
-   {
     "dateLabel": "09/05",
     "dow": "토요일",
-    "isToday": false,
+    "isToday": true,
     "mulddae": 1,
     "events": [
      {
@@ -6561,14 +6565,46 @@
       "val": "380"
      }
     ]
+   },
+   {
+    "dateLabel": "09/12",
+    "dow": "토요일",
+    "isToday": false,
+    "mulddae": 12,
+    "events": [
+     {
+      "type": "low",
+      "typeLabel": "간조",
+      "time": "06:02",
+      "val": "51"
+     },
+     {
+      "type": "high",
+      "typeLabel": "만조",
+      "time": "11:41",
+      "val": "363"
+     },
+     {
+      "type": "low",
+      "typeLabel": "간조",
+      "time": "18:14",
+      "val": "30"
+     },
+     {
+      "type": "high",
+      "typeLabel": "만조",
+      "time": "23:57",
+      "val": "369"
+     }
+    ]
    }
   ],
   "yrMax": "417.0",
   "yrMaxDt": "2026-07-16 00:21",
   "yrMin": "-32.0",
   "yrMinDt": "2026-01-05 06:21",
-  "waterTemp": "26.2",
-  "waterTempTime": "2026-09-05 03:26:00"
+  "waterTemp": "26.3",
+  "waterTempTime": "2026-09-06 02:26:00"
  },
  {
   "slug": "거제도",
@@ -6582,41 +6618,9 @@
   "lat": "34.80138",
   "tideDays": [
    {
-    "dateLabel": "09/04",
-    "dow": "금요일",
-    "isToday": true,
-    "mulddae": 3,
-    "events": [
-     {
-      "type": "high",
-      "typeLabel": "만조",
-      "time": "00:11",
-      "val": "154"
-     },
-     {
-      "type": "low",
-      "typeLabel": "간조",
-      "time": "06:35",
-      "val": "62"
-     },
-     {
-      "type": "high",
-      "typeLabel": "만조",
-      "time": "13:35",
-      "val": "162"
-     },
-     {
-      "type": "low",
-      "typeLabel": "간조",
-      "time": "19:25",
-      "val": "93"
-     }
-    ]
-   },
-   {
     "dateLabel": "09/05",
     "dow": "토요일",
-    "isToday": false,
+    "isToday": true,
     "mulddae": 1,
     "events": [
      {
@@ -6830,14 +6834,46 @@
       "val": "218"
      }
     ]
+   },
+   {
+    "dateLabel": "09/12",
+    "dow": "토요일",
+    "isToday": false,
+    "mulddae": 14,
+    "events": [
+     {
+      "type": "low",
+      "typeLabel": "간조",
+      "time": "02:53",
+      "val": "23"
+     },
+     {
+      "type": "high",
+      "typeLabel": "만조",
+      "time": "09:21",
+      "val": "209"
+     },
+     {
+      "type": "low",
+      "typeLabel": "간조",
+      "time": "15:07",
+      "val": "20"
+     },
+     {
+      "type": "high",
+      "typeLabel": "만조",
+      "time": "21:32",
+      "val": "213"
+     }
+    ]
    }
   ],
   "yrMax": "233.0",
   "yrMaxDt": "2026-07-16 22:31",
   "yrMin": "-12.0",
   "yrMinDt": "2026-02-04 03:58",
-  "waterTemp": "26.9",
-  "waterTempTime": "2026-09-05 03:26:00"
+  "waterTemp": "26.8",
+  "waterTempTime": "2026-09-06 02:26:00"
  },
  {
   "slug": "거문도",
@@ -6851,41 +6887,9 @@
   "lat": "34.02833",
   "tideDays": [
    {
-    "dateLabel": "09/04",
-    "dow": "금요일",
-    "isToday": true,
-    "mulddae": 2,
-    "events": [
-     {
-      "type": "high",
-      "typeLabel": "만조",
-      "time": "01:11",
-      "val": "247"
-     },
-     {
-      "type": "low",
-      "typeLabel": "간조",
-      "time": "07:57",
-      "val": "106"
-     },
-     {
-      "type": "high",
-      "typeLabel": "만조",
-      "time": "14:48",
-      "val": "263"
-     },
-     {
-      "type": "low",
-      "typeLabel": "간조",
-      "time": "21:09",
-      "val": "180"
-     }
-    ]
-   },
-   {
     "dateLabel": "09/05",
     "dow": "토요일",
-    "isToday": false,
+    "isToday": true,
     "mulddae": 1,
     "events": [
      {
@@ -7099,6 +7103,38 @@
       "val": "343"
      }
     ]
+   },
+   {
+    "dateLabel": "09/12",
+    "dow": "토요일",
+    "isToday": false,
+    "mulddae": 12,
+    "events": [
+     {
+      "type": "low",
+      "typeLabel": "간조",
+      "time": "04:13",
+      "val": "63"
+     },
+     {
+      "type": "high",
+      "typeLabel": "만조",
+      "time": "10:10",
+      "val": "321"
+     },
+     {
+      "type": "low",
+      "typeLabel": "간조",
+      "time": "16:24",
+      "val": "51"
+     },
+     {
+      "type": "high",
+      "typeLabel": "만조",
+      "time": "22:27",
+      "val": "333"
+     }
+    ]
    }
   ],
   "yrMax": "377.0",
@@ -7106,7 +7142,7 @@
   "yrMin": "-30.0",
   "yrMinDt": "2006-03-01 04:24",
   "waterTemp": "25.3",
-  "waterTempTime": "2026-09-05 03:26:00"
+  "waterTempTime": "2026-09-06 02:26:00"
  },
  {
   "slug": "강화대교",
@@ -7120,41 +7156,9 @@
   "lat": "37.73194",
   "tideDays": [
    {
-    "dateLabel": "09/04",
-    "dow": "금요일",
-    "isToday": true,
-    "mulddae": 7,
-    "events": [
-     {
-      "type": "low",
-      "typeLabel": "간조",
-      "time": "04:48",
-      "val": "165"
-     },
-     {
-      "type": "high",
-      "typeLabel": "만조",
-      "time": "10:08",
-      "val": "583"
-     },
-     {
-      "type": "low",
-      "typeLabel": "간조",
-      "time": "17:04",
-      "val": "112"
-     },
-     {
-      "type": "high",
-      "typeLabel": "만조",
-      "time": "22:54",
-      "val": "605"
-     }
-    ]
-   },
-   {
     "dateLabel": "09/05",
     "dow": "토요일",
-    "isToday": false,
+    "isToday": true,
     "mulddae": 1,
     "events": [
      {
@@ -7362,6 +7366,38 @@
       "val": "682"
      }
     ]
+   },
+   {
+    "dateLabel": "09/12",
+    "dow": "토요일",
+    "isToday": false,
+    "mulddae": 14,
+    "events": [
+     {
+      "type": "low",
+      "typeLabel": "간조",
+      "time": "01:30",
+      "val": "104"
+     },
+     {
+      "type": "high",
+      "typeLabel": "만조",
+      "time": "06:34",
+      "val": "730"
+     },
+     {
+      "type": "low",
+      "typeLabel": "간조",
+      "time": "13:58",
+      "val": "123"
+     },
+     {
+      "type": "high",
+      "typeLabel": "만조",
+      "time": "18:53",
+      "val": "712"
+     }
+    ]
    }
   ],
   "yrMax": "783.0",
@@ -7381,35 +7417,9 @@
   "lat": "34.68416",
   "tideDays": [
    {
-    "dateLabel": "09/04",
-    "dow": "금요일",
-    "isToday": true,
-    "mulddae": 6,
-    "events": [
-     {
-      "type": "high",
-      "typeLabel": "만조",
-      "time": "05:57",
-      "val": "282"
-     },
-     {
-      "type": "low",
-      "typeLabel": "간조",
-      "time": "11:55",
-      "val": "69"
-     },
-     {
-      "type": "high",
-      "typeLabel": "만조",
-      "time": "19:02",
-      "val": "316"
-     }
-    ]
-   },
-   {
     "dateLabel": "09/05",
     "dow": "토요일",
-    "isToday": false,
+    "isToday": true,
     "mulddae": 3,
     "events": [
      {
@@ -7623,14 +7633,46 @@
       "val": "37"
      }
     ]
+   },
+   {
+    "dateLabel": "09/12",
+    "dow": "토요일",
+    "isToday": false,
+    "mulddae": 13,
+    "events": [
+     {
+      "type": "high",
+      "typeLabel": "만조",
+      "time": "02:23",
+      "val": "358"
+     },
+     {
+      "type": "low",
+      "typeLabel": "간조",
+      "time": "08:10",
+      "val": "51"
+     },
+     {
+      "type": "high",
+      "typeLabel": "만조",
+      "time": "14:37",
+      "val": "342"
+     },
+     {
+      "type": "low",
+      "typeLabel": "간조",
+      "time": "20:19",
+      "val": "42"
+     }
+    ]
    }
   ],
   "yrMax": "404.0",
   "yrMaxDt": "2015-09-30 15:23",
   "yrMin": "-40.0",
   "yrMinDt": "2015-03-22 21:00",
-  "waterTemp": "25.7",
-  "waterTempTime": "2026-09-05 03:26:00"
+  "waterTemp": "26.6",
+  "waterTempTime": "2026-09-06 02:26:00"
  },
  {
   "slug": "대청도",
@@ -7644,41 +7686,9 @@
   "lat": "37.82522",
   "tideDays": [
    {
-    "dateLabel": "09/04",
-    "dow": "금요일",
-    "isToday": true,
-    "mulddae": 8,
-    "events": [
-     {
-      "type": "low",
-      "typeLabel": "간조",
-      "time": "04:46",
-      "val": "166"
-     },
-     {
-      "type": "high",
-      "typeLabel": "만조",
-      "time": "10:00",
-      "val": "295"
-     },
-     {
-      "type": "low",
-      "typeLabel": "간조",
-      "time": "16:33",
-      "val": "95"
-     },
-     {
-      "type": "high",
-      "typeLabel": "만조",
-      "time": "23:28",
-      "val": "349"
-     }
-    ]
-   },
-   {
     "dateLabel": "09/05",
     "dow": "토요일",
-    "isToday": false,
+    "isToday": true,
     "mulddae": 1,
     "events": [
      {
@@ -7886,6 +7896,38 @@
       "val": "356"
      }
     ]
+   },
+   {
+    "dateLabel": "09/12",
+    "dow": "토요일",
+    "isToday": false,
+    "mulddae": 14,
+    "events": [
+     {
+      "type": "low",
+      "typeLabel": "간조",
+      "time": "00:42",
+      "val": "44"
+     },
+     {
+      "type": "high",
+      "typeLabel": "만조",
+      "time": "06:43",
+      "val": "390"
+     },
+     {
+      "type": "low",
+      "typeLabel": "간조",
+      "time": "13:11",
+      "val": "66"
+     },
+     {
+      "type": "high",
+      "typeLabel": "만조",
+      "time": "18:56",
+      "val": "372"
+     }
+    ]
    }
   ],
   "yrMax": "456.0",
@@ -7905,41 +7947,9 @@
   "lat": "36.11722",
   "tideDays": [
    {
-    "dateLabel": "09/04",
-    "dow": "금요일",
-    "isToday": true,
-    "mulddae": 7,
-    "events": [
-     {
-      "type": "low",
-      "typeLabel": "간조",
-      "time": "01:43",
-      "val": "176"
-     },
-     {
-      "type": "high",
-      "typeLabel": "만조",
-      "time": "07:15",
-      "val": "482"
-     },
-     {
-      "type": "low",
-      "typeLabel": "간조",
-      "time": "13:52",
-      "val": "108"
-     },
-     {
-      "type": "high",
-      "typeLabel": "만조",
-      "time": "20:16",
-      "val": "503"
-     }
-    ]
-   },
-   {
     "dateLabel": "09/05",
     "dow": "토요일",
-    "isToday": false,
+    "isToday": true,
     "mulddae": 4,
     "events": [
      {
@@ -8153,14 +8163,46 @@
       "val": "17"
      }
     ]
+   },
+   {
+    "dateLabel": "09/12",
+    "dow": "토요일",
+    "isToday": false,
+    "mulddae": 14,
+    "events": [
+     {
+      "type": "high",
+      "typeLabel": "만조",
+      "time": "03:49",
+      "val": "609"
+     },
+     {
+      "type": "low",
+      "typeLabel": "간조",
+      "time": "10:22",
+      "val": "42"
+     },
+     {
+      "type": "high",
+      "typeLabel": "만조",
+      "time": "16:03",
+      "val": "594"
+     },
+     {
+      "type": "low",
+      "typeLabel": "간조",
+      "time": "22:35",
+      "val": "22"
+     }
+    ]
    }
   ],
   "yrMax": "659.0",
   "yrMaxDt": "2026-07-17 05:21",
   "yrMin": "-16.0",
   "yrMinDt": "2026-01-05 10:45",
-  "waterTemp": "24.9",
-  "waterTempTime": "2026-09-05 03:26:00"
+  "waterTemp": "25.0",
+  "waterTempTime": "2026-09-06 02:26:00"
  },
  {
   "slug": "굴업도",
@@ -8174,41 +8216,9 @@
   "lat": "37.19444",
   "tideDays": [
    {
-    "dateLabel": "09/04",
-    "dow": "금요일",
-    "isToday": true,
-    "mulddae": 7,
-    "events": [
-     {
-      "type": "low",
-      "typeLabel": "간조",
-      "time": "02:44",
-      "val": "217"
-     },
-     {
-      "type": "high",
-      "typeLabel": "만조",
-      "time": "08:28",
-      "val": "602"
-     },
-     {
-      "type": "low",
-      "typeLabel": "간조",
-      "time": "14:51",
-      "val": "141"
-     },
-     {
-      "type": "high",
-      "typeLabel": "만조",
-      "time": "21:28",
-      "val": "630"
-     }
-    ]
-   },
-   {
     "dateLabel": "09/05",
     "dow": "토요일",
-    "isToday": false,
+    "isToday": true,
     "mulddae": 5,
     "events": [
      {
@@ -8422,6 +8432,38 @@
       "val": "40"
      }
     ]
+   },
+   {
+    "dateLabel": "09/12",
+    "dow": "토요일",
+    "isToday": false,
+    "mulddae": 14,
+    "events": [
+     {
+      "type": "high",
+      "typeLabel": "만조",
+      "time": "05:19",
+      "val": "766"
+     },
+     {
+      "type": "low",
+      "typeLabel": "간조",
+      "time": "11:34",
+      "val": "64"
+     },
+     {
+      "type": "high",
+      "typeLabel": "만조",
+      "time": "17:36",
+      "val": "742"
+     },
+     {
+      "type": "low",
+      "typeLabel": "간조",
+      "time": "23:44",
+      "val": "45"
+     }
+    ]
    }
   ],
   "yrMax": "803.0",
@@ -8441,30 +8483,10 @@
   "lat": "37.24058",
   "tideDays": [
    {
-    "dateLabel": "09/04",
-    "dow": "금요일",
-    "isToday": true,
-    "mulddae": 1,
-    "events": [
-     {
-      "type": "high",
-      "typeLabel": "만조",
-      "time": "05:31",
-      "val": "41"
-     },
-     {
-      "type": "low",
-      "typeLabel": "간조",
-      "time": "14:18",
-      "val": "19"
-     }
-    ]
-   },
-   {
     "dateLabel": "09/05",
     "dow": "토요일",
-    "isToday": false,
-    "mulddae": 6,
+    "isToday": true,
+    "mulddae": 9,
     "events": [
      {
       "type": "high",
@@ -8484,7 +8506,7 @@
     "dateLabel": "09/06",
     "dow": "일요일",
     "isToday": false,
-    "mulddae": 9,
+    "mulddae": 11,
     "events": [
      {
       "type": "high",
@@ -8504,7 +8526,7 @@
     "dateLabel": "09/07",
     "dow": "월요일",
     "isToday": false,
-    "mulddae": 11,
+    "mulddae": 12,
     "events": [
      {
       "type": "high",
@@ -8544,7 +8566,7 @@
     "dateLabel": "09/09",
     "dow": "수요일",
     "isToday": false,
-    "mulddae": 11,
+    "mulddae": 12,
     "events": [
      {
       "type": "high",
@@ -8576,7 +8598,7 @@
     "dateLabel": "09/10",
     "dow": "목요일",
     "isToday": false,
-    "mulddae": 11,
+    "mulddae": 12,
     "events": [
      {
       "type": "high",
@@ -8608,7 +8630,7 @@
     "dateLabel": "09/11",
     "dow": "금요일",
     "isToday": false,
-    "mulddae": 4,
+    "mulddae": 8,
     "events": [
      {
       "type": "high",
@@ -8635,6 +8657,38 @@
       "val": "12"
      }
     ]
+   },
+   {
+    "dateLabel": "09/12",
+    "dow": "토요일",
+    "isToday": false,
+    "mulddae": 1,
+    "events": [
+     {
+      "type": "high",
+      "typeLabel": "만조",
+      "time": "02:34",
+      "val": "28"
+     },
+     {
+      "type": "low",
+      "typeLabel": "간조",
+      "time": "08:19",
+      "val": "18"
+     },
+     {
+      "type": "high",
+      "typeLabel": "만조",
+      "time": "14:27",
+      "val": "34"
+     },
+     {
+      "type": "low",
+      "typeLabel": "간조",
+      "time": "21:15",
+      "val": "15"
+     }
+    ]
    }
   ],
   "yrMax": "",
@@ -8654,41 +8708,9 @@
   "lat": "37.23861",
   "tideDays": [
    {
-    "dateLabel": "09/04",
-    "dow": "금요일",
-    "isToday": true,
-    "mulddae": 8,
-    "events": [
-     {
-      "type": "low",
-      "typeLabel": "간조",
-      "time": "02:49",
-      "val": "222"
-     },
-     {
-      "type": "high",
-      "typeLabel": "만조",
-      "time": "08:33",
-      "val": "690"
-     },
-     {
-      "type": "low",
-      "typeLabel": "간조",
-      "time": "14:58",
-      "val": "149"
-     },
-     {
-      "type": "high",
-      "typeLabel": "만조",
-      "time": "21:27",
-      "val": "716"
-     }
-    ]
-   },
-   {
     "dateLabel": "09/05",
     "dow": "토요일",
-    "isToday": false,
+    "isToday": true,
     "mulddae": 5,
     "events": [
      {
@@ -8902,6 +8924,38 @@
       "val": "32"
      }
     ]
+   },
+   {
+    "dateLabel": "09/12",
+    "dow": "토요일",
+    "isToday": false,
+    "mulddae": 14,
+    "events": [
+     {
+      "type": "high",
+      "typeLabel": "만조",
+      "time": "05:18",
+      "val": "854"
+     },
+     {
+      "type": "low",
+      "typeLabel": "간조",
+      "time": "11:38",
+      "val": "47"
+     },
+     {
+      "type": "high",
+      "typeLabel": "만조",
+      "time": "17:36",
+      "val": "827"
+     },
+     {
+      "type": "low",
+      "typeLabel": "간조",
+      "time": "23:50",
+      "val": "34"
+     }
+    ]
    }
   ],
   "yrMax": "900.0",
@@ -8921,41 +8975,9 @@
   "lat": "37.54555",
   "tideDays": [
    {
-    "dateLabel": "09/04",
-    "dow": "금요일",
-    "isToday": true,
-    "mulddae": 7,
-    "events": [
-     {
-      "type": "low",
-      "typeLabel": "간조",
-      "time": "03:07",
-      "val": "231"
-     },
-     {
-      "type": "high",
-      "typeLabel": "만조",
-      "time": "08:55",
-      "val": "757"
-     },
-     {
-      "type": "low",
-      "typeLabel": "간조",
-      "time": "15:17",
-      "val": "165"
-     },
-     {
-      "type": "high",
-      "typeLabel": "만조",
-      "time": "21:44",
-      "val": "779"
-     }
-    ]
-   },
-   {
     "dateLabel": "09/05",
     "dow": "토요일",
-    "isToday": false,
+    "isToday": true,
     "mulddae": 5,
     "events": [
      {
@@ -9169,6 +9191,32 @@
       "val": "23"
      }
     ]
+   },
+   {
+    "dateLabel": "09/12",
+    "dow": "토요일",
+    "isToday": false,
+    "mulddae": 14,
+    "events": [
+     {
+      "type": "high",
+      "typeLabel": "만조",
+      "time": "05:40",
+      "val": "949"
+     },
+     {
+      "type": "low",
+      "typeLabel": "간조",
+      "time": "11:57",
+      "val": "39"
+     },
+     {
+      "type": "high",
+      "typeLabel": "만조",
+      "time": "17:58",
+      "val": "924"
+     }
+    ]
    }
   ],
   "yrMax": "987.0",
@@ -9188,41 +9236,9 @@
   "lat": "34.90367",
   "tideDays": [
    {
-    "dateLabel": "09/04",
-    "dow": "금요일",
-    "isToday": true,
-    "mulddae": 3,
-    "events": [
-     {
-      "type": "high",
-      "typeLabel": "만조",
-      "time": "00:50",
-      "val": "285"
-     },
-     {
-      "type": "low",
-      "typeLabel": "간조",
-      "time": "07:12",
-      "val": "124"
-     },
-     {
-      "type": "high",
-      "typeLabel": "만조",
-      "time": "14:03",
-      "val": "303"
-     },
-     {
-      "type": "low",
-      "typeLabel": "간조",
-      "time": "20:02",
-      "val": "185"
-     }
-    ]
-   },
-   {
     "dateLabel": "09/05",
     "dow": "토요일",
-    "isToday": false,
+    "isToday": true,
     "mulddae": 1,
     "events": [
      {
@@ -9436,6 +9452,38 @@
       "val": "396"
      }
     ]
+   },
+   {
+    "dateLabel": "09/12",
+    "dow": "토요일",
+    "isToday": false,
+    "mulddae": 13,
+    "events": [
+     {
+      "type": "low",
+      "typeLabel": "간조",
+      "time": "03:28",
+      "val": "49"
+     },
+     {
+      "type": "high",
+      "typeLabel": "만조",
+      "time": "09:47",
+      "val": "375"
+     },
+     {
+      "type": "low",
+      "typeLabel": "간조",
+      "time": "15:44",
+      "val": "42"
+     },
+     {
+      "type": "high",
+      "typeLabel": "만조",
+      "time": "22:02",
+      "val": "387"
+     }
+    ]
    }
   ],
   "yrMax": "418.0",
@@ -9455,41 +9503,9 @@
   "lat": "36.91305",
   "tideDays": [
    {
-    "dateLabel": "09/04",
-    "dow": "금요일",
-    "isToday": true,
-    "mulddae": 7,
-    "events": [
-     {
-      "type": "low",
-      "typeLabel": "간조",
-      "time": "02:31",
-      "val": "212"
-     },
-     {
-      "type": "high",
-      "typeLabel": "만조",
-      "time": "08:13",
-      "val": "607"
-     },
-     {
-      "type": "low",
-      "typeLabel": "간조",
-      "time": "14:40",
-      "val": "139"
-     },
-     {
-      "type": "high",
-      "typeLabel": "만조",
-      "time": "21:12",
-      "val": "629"
-     }
-    ]
-   },
-   {
     "dateLabel": "09/05",
     "dow": "토요일",
-    "isToday": false,
+    "isToday": true,
     "mulddae": 5,
     "events": [
      {
@@ -9548,7 +9564,7 @@
     "dateLabel": "09/07",
     "dow": "월요일",
     "isToday": false,
-    "mulddae": 5,
+    "mulddae": 4,
     "events": [
      {
       "type": "high",
@@ -9703,6 +9719,38 @@
       "val": "23"
      }
     ]
+   },
+   {
+    "dateLabel": "09/12",
+    "dow": "토요일",
+    "isToday": false,
+    "mulddae": 14,
+    "events": [
+     {
+      "type": "high",
+      "typeLabel": "만조",
+      "time": "04:55",
+      "val": "767"
+     },
+     {
+      "type": "low",
+      "typeLabel": "간조",
+      "time": "11:14",
+      "val": "52"
+     },
+     {
+      "type": "high",
+      "typeLabel": "만조",
+      "time": "17:11",
+      "val": "748"
+     },
+     {
+      "type": "low",
+      "typeLabel": "간조",
+      "time": "23:26",
+      "val": "26"
+     }
+    ]
    }
   ],
   "yrMax": "812.0",
@@ -9722,41 +9770,9 @@
   "lat": "36.12888",
   "tideDays": [
    {
-    "dateLabel": "09/04",
-    "dow": "금요일",
-    "isToday": true,
-    "mulddae": 7,
-    "events": [
-     {
-      "type": "low",
-      "typeLabel": "간조",
-      "time": "01:49",
-      "val": "201"
-     },
-     {
-      "type": "high",
-      "typeLabel": "만조",
-      "time": "07:12",
-      "val": "568"
-     },
-     {
-      "type": "low",
-      "typeLabel": "간조",
-      "time": "13:55",
-      "val": "137"
-     },
-     {
-      "type": "high",
-      "typeLabel": "만조",
-      "time": "20:07",
-      "val": "593"
-     }
-    ]
-   },
-   {
     "dateLabel": "09/05",
     "dow": "토요일",
-    "isToday": false,
+    "isToday": true,
     "mulddae": 4,
     "events": [
      {
@@ -9911,7 +9927,7 @@
     "dateLabel": "09/10",
     "dow": "목요일",
     "isToday": false,
-    "mulddae": 13,
+    "mulddae": 12,
     "events": [
      {
       "type": "high",
@@ -9970,6 +9986,38 @@
       "val": "24"
      }
     ]
+   },
+   {
+    "dateLabel": "09/12",
+    "dow": "토요일",
+    "isToday": false,
+    "mulddae": 14,
+    "events": [
+     {
+      "type": "high",
+      "typeLabel": "만조",
+      "time": "03:50",
+      "val": "717"
+     },
+     {
+      "type": "low",
+      "typeLabel": "간조",
+      "time": "10:31",
+      "val": "46"
+     },
+     {
+      "type": "high",
+      "typeLabel": "만조",
+      "time": "16:04",
+      "val": "697"
+     },
+     {
+      "type": "low",
+      "typeLabel": "간조",
+      "time": "22:44",
+      "val": "28"
+     }
+    ]
    }
   ],
   "yrMax": "761.0",
@@ -9989,41 +10037,9 @@
   "lat": "37.33805",
   "tideDays": [
    {
-    "dateLabel": "09/04",
-    "dow": "금요일",
-    "isToday": true,
-    "mulddae": 7,
-    "events": [
-     {
-      "type": "low",
-      "typeLabel": "간조",
-      "time": "02:56",
-      "val": "231"
-     },
-     {
-      "type": "high",
-      "typeLabel": "만조",
-      "time": "08:39",
-      "val": "727"
-     },
-     {
-      "type": "low",
-      "typeLabel": "간조",
-      "time": "15:06",
-      "val": "164"
-     },
-     {
-      "type": "high",
-      "typeLabel": "만조",
-      "time": "21:31",
-      "val": "745"
-     }
-    ]
-   },
-   {
     "dateLabel": "09/05",
     "dow": "토요일",
-    "isToday": false,
+    "isToday": true,
     "mulddae": 4,
     "events": [
      {
@@ -10178,7 +10194,7 @@
     "dateLabel": "09/10",
     "dow": "목요일",
     "isToday": false,
-    "mulddae": 13,
+    "mulddae": 12,
     "events": [
      {
       "type": "high",
@@ -10237,6 +10253,38 @@
       "val": "17"
      }
     ]
+   },
+   {
+    "dateLabel": "09/12",
+    "dow": "토요일",
+    "isToday": false,
+    "mulddae": 14,
+    "events": [
+     {
+      "type": "high",
+      "typeLabel": "만조",
+      "time": "05:23",
+      "val": "921"
+     },
+     {
+      "type": "low",
+      "typeLabel": "간조",
+      "time": "11:44",
+      "val": "44"
+     },
+     {
+      "type": "high",
+      "typeLabel": "만조",
+      "time": "17:40",
+      "val": "898"
+     },
+     {
+      "type": "low",
+      "typeLabel": "간조",
+      "time": "23:56",
+      "val": "18"
+     }
+    ]
    }
   ],
   "yrMax": "949.0",
@@ -10256,41 +10304,9 @@
   "lat": "35.14722",
   "tideDays": [
    {
-    "dateLabel": "09/04",
-    "dow": "금요일",
-    "isToday": true,
-    "mulddae": 3,
-    "events": [
-     {
-      "type": "high",
-      "typeLabel": "만조",
-      "time": "00:14",
-      "val": "149"
-     },
-     {
-      "type": "low",
-      "typeLabel": "간조",
-      "time": "06:35",
-      "val": "63"
-     },
-     {
-      "type": "high",
-      "typeLabel": "만조",
-      "time": "13:36",
-      "val": "157"
-     },
-     {
-      "type": "low",
-      "typeLabel": "간조",
-      "time": "19:19",
-      "val": "84"
-     }
-    ]
-   },
-   {
     "dateLabel": "09/05",
     "dow": "토요일",
-    "isToday": false,
+    "isToday": true,
     "mulddae": 1,
     "events": [
      {
@@ -10504,6 +10520,38 @@
       "val": "212"
      }
     ]
+   },
+   {
+    "dateLabel": "09/12",
+    "dow": "토요일",
+    "isToday": false,
+    "mulddae": 14,
+    "events": [
+     {
+      "type": "low",
+      "typeLabel": "간조",
+      "time": "02:54",
+      "val": "15"
+     },
+     {
+      "type": "high",
+      "typeLabel": "만조",
+      "time": "09:36",
+      "val": "203"
+     },
+     {
+      "type": "low",
+      "typeLabel": "간조",
+      "time": "15:10",
+      "val": "14"
+     },
+     {
+      "type": "high",
+      "typeLabel": "만조",
+      "time": "21:44",
+      "val": "207"
+     }
+    ]
    }
   ],
   "yrMax": "220.0",
@@ -10523,41 +10571,9 @@
   "lat": "35.07750",
   "tideDays": [
    {
-    "dateLabel": "09/04",
-    "dow": "금요일",
-    "isToday": true,
-    "mulddae": 3,
-    "events": [
-     {
-      "type": "high",
-      "typeLabel": "만조",
-      "time": "00:09",
-      "val": "142"
-     },
-     {
-      "type": "low",
-      "typeLabel": "간조",
-      "time": "06:31",
-      "val": "60"
-     },
-     {
-      "type": "high",
-      "typeLabel": "만조",
-      "time": "13:28",
-      "val": "149"
-     },
-     {
-      "type": "low",
-      "typeLabel": "간조",
-      "time": "19:18",
-      "val": "81"
-     }
-    ]
-   },
-   {
     "dateLabel": "09/05",
     "dow": "토요일",
-    "isToday": false,
+    "isToday": true,
     "mulddae": 1,
     "events": [
      {
@@ -10771,6 +10787,38 @@
       "val": "200"
      }
     ]
+   },
+   {
+    "dateLabel": "09/12",
+    "dow": "토요일",
+    "isToday": false,
+    "mulddae": 14,
+    "events": [
+     {
+      "type": "low",
+      "typeLabel": "간조",
+      "time": "02:50",
+      "val": "18"
+     },
+     {
+      "type": "high",
+      "typeLabel": "만조",
+      "time": "09:25",
+      "val": "191"
+     },
+     {
+      "type": "low",
+      "typeLabel": "간조",
+      "time": "15:05",
+      "val": "17"
+     },
+     {
+      "type": "high",
+      "typeLabel": "만조",
+      "time": "21:34",
+      "val": "196"
+     }
+    ]
    }
   ],
   "yrMax": "204.0",
@@ -10790,35 +10838,9 @@
   "lat": "37.49472",
   "tideDays": [
    {
-    "dateLabel": "09/04",
-    "dow": "금요일",
-    "isToday": true,
-    "mulddae": 1,
-    "events": [
-     {
-      "type": "low",
-      "typeLabel": "간조",
-      "time": "00:54",
-      "val": "29"
-     },
-     {
-      "type": "high",
-      "typeLabel": "만조",
-      "time": "06:53",
-      "val": "38"
-     },
-     {
-      "type": "low",
-      "typeLabel": "간조",
-      "time": "15:06",
-      "val": "17"
-     }
-    ]
-   },
-   {
     "dateLabel": "09/05",
     "dow": "토요일",
-    "isToday": false,
+    "isToday": true,
     "mulddae": 3,
     "events": [
      {
@@ -11014,6 +11036,38 @@
       "val": "16"
      }
     ]
+   },
+   {
+    "dateLabel": "09/12",
+    "dow": "토요일",
+    "isToday": false,
+    "mulddae": 1,
+    "events": [
+     {
+      "type": "high",
+      "typeLabel": "만조",
+      "time": "03:43",
+      "val": "34"
+     },
+     {
+      "type": "low",
+      "typeLabel": "간조",
+      "time": "09:40",
+      "val": "21"
+     },
+     {
+      "type": "high",
+      "typeLabel": "만조",
+      "time": "15:41",
+      "val": "40"
+     },
+     {
+      "type": "low",
+      "typeLabel": "간조",
+      "time": "22:30",
+      "val": "19"
+     }
+    ]
    }
   ],
   "yrMax": "62.0",
@@ -11033,41 +11087,9 @@
   "lat": "37.56083",
   "tideDays": [
    {
-    "dateLabel": "09/04",
-    "dow": "금요일",
-    "isToday": true,
-    "mulddae": 7,
-    "events": [
-     {
-      "type": "low",
-      "typeLabel": "간조",
-      "time": "03:11",
-      "val": "219"
-     },
-     {
-      "type": "high",
-      "typeLabel": "만조",
-      "time": "08:56",
-      "val": "755"
-     },
-     {
-      "type": "low",
-      "typeLabel": "간조",
-      "time": "15:21",
-      "val": "156"
-     },
-     {
-      "type": "high",
-      "typeLabel": "만조",
-      "time": "21:46",
-      "val": "777"
-     }
-    ]
-   },
-   {
     "dateLabel": "09/05",
     "dow": "토요일",
-    "isToday": false,
+    "isToday": true,
     "mulddae": 5,
     "events": [
      {
@@ -11281,6 +11303,32 @@
       "val": "15"
      }
     ]
+   },
+   {
+    "dateLabel": "09/12",
+    "dow": "토요일",
+    "isToday": false,
+    "mulddae": 14,
+    "events": [
+     {
+      "type": "high",
+      "typeLabel": "만조",
+      "time": "05:38",
+      "val": "934"
+     },
+     {
+      "type": "low",
+      "typeLabel": "간조",
+      "time": "11:59",
+      "val": "39"
+     },
+     {
+      "type": "high",
+      "typeLabel": "만조",
+      "time": "17:56",
+      "val": "917"
+     }
+    ]
    }
   ],
   "yrMax": "992.0",
@@ -11300,41 +11348,9 @@
   "lat": "37.95565",
   "tideDays": [
    {
-    "dateLabel": "09/04",
-    "dow": "금요일",
-    "isToday": true,
-    "mulddae": 8,
-    "events": [
-     {
-      "type": "low",
-      "typeLabel": "간조",
-      "time": "05:00",
-      "val": "160"
-     },
-     {
-      "type": "high",
-      "typeLabel": "만조",
-      "time": "10:06",
-      "val": "297"
-     },
-     {
-      "type": "low",
-      "typeLabel": "간조",
-      "time": "16:56",
-      "val": "90"
-     },
-     {
-      "type": "high",
-      "typeLabel": "만조",
-      "time": "23:41",
-      "val": "352"
-     }
-    ]
-   },
-   {
     "dateLabel": "09/05",
     "dow": "토요일",
-    "isToday": false,
+    "isToday": true,
     "mulddae": 1,
     "events": [
      {
@@ -11542,6 +11558,38 @@
       "val": "357"
      }
     ]
+   },
+   {
+    "dateLabel": "09/12",
+    "dow": "토요일",
+    "isToday": false,
+    "mulddae": 14,
+    "events": [
+     {
+      "type": "low",
+      "typeLabel": "간조",
+      "time": "00:51",
+      "val": "39"
+     },
+     {
+      "type": "high",
+      "typeLabel": "만조",
+      "time": "06:50",
+      "val": "396"
+     },
+     {
+      "type": "low",
+      "typeLabel": "간조",
+      "time": "13:23",
+      "val": "62"
+     },
+     {
+      "type": "high",
+      "typeLabel": "만조",
+      "time": "19:00",
+      "val": "371"
+     }
+    ]
    }
   ],
   "yrMax": "436.0",
@@ -11561,41 +11609,9 @@
   "lat": "37.65766",
   "tideDays": [
    {
-    "dateLabel": "09/04",
-    "dow": "금요일",
-    "isToday": true,
-    "mulddae": 8,
-    "events": [
-     {
-      "type": "low",
-      "typeLabel": "간조",
-      "time": "03:21",
-      "val": "217"
-     },
-     {
-      "type": "high",
-      "typeLabel": "만조",
-      "time": "09:15",
-      "val": "581"
-     },
-     {
-      "type": "low",
-      "typeLabel": "간조",
-      "time": "15:26",
-      "val": "144"
-     },
-     {
-      "type": "high",
-      "typeLabel": "만조",
-      "time": "22:12",
-      "val": "613"
-     }
-    ]
-   },
-   {
     "dateLabel": "09/05",
     "dow": "토요일",
-    "isToday": false,
+    "isToday": true,
     "mulddae": 5,
     "events": [
      {
@@ -11809,6 +11825,32 @@
       "val": "61"
      }
     ]
+   },
+   {
+    "dateLabel": "09/12",
+    "dow": "토요일",
+    "isToday": false,
+    "mulddae": 13,
+    "events": [
+     {
+      "type": "high",
+      "typeLabel": "만조",
+      "time": "05:54",
+      "val": "735"
+     },
+     {
+      "type": "low",
+      "typeLabel": "간조",
+      "time": "12:15",
+      "val": "96"
+     },
+     {
+      "type": "high",
+      "typeLabel": "만조",
+      "time": "18:09",
+      "val": "714"
+     }
+    ]
    }
   ],
   "yrMax": "771.0",
@@ -11828,41 +11870,9 @@
   "lat": "34.92416",
   "tideDays": [
    {
-    "dateLabel": "09/04",
-    "dow": "금요일",
-    "isToday": true,
-    "mulddae": 3,
-    "events": [
-     {
-      "type": "high",
-      "typeLabel": "만조",
-      "time": "00:32",
-      "val": "233"
-     },
-     {
-      "type": "low",
-      "typeLabel": "간조",
-      "time": "07:02",
-      "val": "94"
-     },
-     {
-      "type": "high",
-      "typeLabel": "만조",
-      "time": "13:59",
-      "val": "251"
-     },
-     {
-      "type": "low",
-      "typeLabel": "간조",
-      "time": "19:49",
-      "val": "145"
-     }
-    ]
-   },
-   {
     "dateLabel": "09/05",
     "dow": "토요일",
-    "isToday": false,
+    "isToday": true,
     "mulddae": 1,
     "events": [
      {
@@ -12076,14 +12086,46 @@
       "val": "333"
      }
     ]
+   },
+   {
+    "dateLabel": "09/12",
+    "dow": "토요일",
+    "isToday": false,
+    "mulddae": 13,
+    "events": [
+     {
+      "type": "low",
+      "typeLabel": "간조",
+      "time": "03:21",
+      "val": "27"
+     },
+     {
+      "type": "high",
+      "typeLabel": "만조",
+      "time": "09:38",
+      "val": "314"
+     },
+     {
+      "type": "low",
+      "typeLabel": "간조",
+      "time": "15:35",
+      "val": "21"
+     },
+     {
+      "type": "high",
+      "typeLabel": "만조",
+      "time": "21:54",
+      "val": "323"
+     }
+    ]
    }
   ],
   "yrMax": "350.0",
   "yrMaxDt": "2026-07-15 22:09",
   "yrMin": "-25.0",
   "yrMinDt": "2026-02-04 04:22",
-  "waterTemp": "27.2",
-  "waterTempTime": "2026-09-05 03:26:00"
+  "waterTemp": "27.0",
+  "waterTempTime": "2026-09-06 02:26:00"
  },
  {
   "slug": "마산",
@@ -12097,41 +12139,9 @@
   "lat": "35.19750",
   "tideDays": [
    {
-    "dateLabel": "09/04",
-    "dow": "금요일",
-    "isToday": true,
-    "mulddae": 3,
-    "events": [
-     {
-      "type": "high",
-      "typeLabel": "만조",
-      "time": "00:00",
-      "val": "151"
-     },
-     {
-      "type": "low",
-      "typeLabel": "간조",
-      "time": "06:36",
-      "val": "60"
-     },
-     {
-      "type": "high",
-      "typeLabel": "만조",
-      "time": "13:26",
-      "val": "158"
-     },
-     {
-      "type": "low",
-      "typeLabel": "간조",
-      "time": "19:08",
-      "val": "81"
-     }
-    ]
-   },
-   {
     "dateLabel": "09/05",
     "dow": "토요일",
-    "isToday": false,
+    "isToday": true,
     "mulddae": 1,
     "events": [
      {
@@ -12345,14 +12355,46 @@
       "val": "211"
      }
     ]
+   },
+   {
+    "dateLabel": "09/12",
+    "dow": "토요일",
+    "isToday": false,
+    "mulddae": 14,
+    "events": [
+     {
+      "type": "low",
+      "typeLabel": "간조",
+      "time": "02:53",
+      "val": "7"
+     },
+     {
+      "type": "high",
+      "typeLabel": "만조",
+      "time": "09:38",
+      "val": "197"
+     },
+     {
+      "type": "low",
+      "typeLabel": "간조",
+      "time": "15:12",
+      "val": "7"
+     },
+     {
+      "type": "high",
+      "typeLabel": "만조",
+      "time": "21:47",
+      "val": "206"
+     }
+    ]
    }
   ],
   "yrMax": "226.0",
   "yrMaxDt": "2026-07-15 22:06",
   "yrMin": "-21.0",
   "yrMinDt": "2026-02-04 04:00",
-  "waterTemp": "27.3",
-  "waterTempTime": "2026-09-05 03:26:00"
+  "waterTemp": "27.0",
+  "waterTempTime": "2026-09-06 02:26:00"
  },
  {
   "slug": "가덕도",
@@ -12366,41 +12408,9 @@
   "lat": "35.02417",
   "tideDays": [
    {
-    "dateLabel": "09/04",
-    "dow": "금요일",
-    "isToday": true,
-    "mulddae": 3,
-    "events": [
-     {
-      "type": "high",
-      "typeLabel": "만조",
-      "time": "00:04",
-      "val": "155"
-     },
-     {
-      "type": "low",
-      "typeLabel": "간조",
-      "time": "06:29",
-      "val": "74"
-     },
-     {
-      "type": "high",
-      "typeLabel": "만조",
-      "time": "13:21",
-      "val": "161"
-     },
-     {
-      "type": "low",
-      "typeLabel": "간조",
-      "time": "19:17",
-      "val": "96"
-     }
-    ]
-   },
-   {
     "dateLabel": "09/05",
     "dow": "토요일",
-    "isToday": false,
+    "isToday": true,
     "mulddae": 1,
     "events": [
      {
@@ -12614,14 +12624,46 @@
       "val": "210"
      }
     ]
+   },
+   {
+    "dateLabel": "09/12",
+    "dow": "토요일",
+    "isToday": false,
+    "mulddae": 13,
+    "events": [
+     {
+      "type": "low",
+      "typeLabel": "간조",
+      "time": "02:51",
+      "val": "29"
+     },
+     {
+      "type": "high",
+      "typeLabel": "만조",
+      "time": "09:21",
+      "val": "199"
+     },
+     {
+      "type": "low",
+      "typeLabel": "간조",
+      "time": "15:08",
+      "val": "30"
+     },
+     {
+      "type": "high",
+      "typeLabel": "만조",
+      "time": "21:31",
+      "val": "206"
+     }
+    ]
    }
   ],
   "yrMax": "228.0",
   "yrMaxDt": "2001-08-21 22:43",
   "yrMin": "-24.0",
   "yrMinDt": "2001-03-10 02:48",
-  "waterTemp": "25.9",
-  "waterTempTime": "2026-09-05 03:26:00"
+  "waterTemp": "26.3",
+  "waterTempTime": "2026-09-06 02:26:00"
  },
  {
   "slug": "교동대교",
@@ -12635,41 +12677,9 @@
   "lat": "37.78961",
   "tideDays": [
    {
-    "dateLabel": "09/04",
-    "dow": "금요일",
-    "isToday": true,
-    "mulddae": 8,
-    "events": [
-     {
-      "type": "low",
-      "typeLabel": "간조",
-      "time": "04:17",
-      "val": "223"
-     },
-     {
-      "type": "high",
-      "typeLabel": "만조",
-      "time": "09:38",
-      "val": "704"
-     },
-     {
-      "type": "low",
-      "typeLabel": "간조",
-      "time": "16:26",
-      "val": "148"
-     },
-     {
-      "type": "high",
-      "typeLabel": "만조",
-      "time": "22:24",
-      "val": "726"
-     }
-    ]
-   },
-   {
     "dateLabel": "09/05",
     "dow": "토요일",
-    "isToday": false,
+    "isToday": true,
     "mulddae": 5,
     "events": [
      {
@@ -12792,7 +12802,7 @@
     "dateLabel": "09/09",
     "dow": "수요일",
     "isToday": false,
-    "mulddae": 11,
+    "mulddae": 10,
     "events": [
      {
       "type": "high",
@@ -12850,7 +12860,7 @@
     "dateLabel": "09/11",
     "dow": "금요일",
     "isToday": false,
-    "mulddae": 14,
+    "mulddae": 13,
     "events": [
      {
       "type": "low",
@@ -12877,6 +12887,38 @@
       "val": "862"
      }
     ]
+   },
+   {
+    "dateLabel": "09/12",
+    "dow": "토요일",
+    "isToday": false,
+    "mulddae": 14,
+    "events": [
+     {
+      "type": "low",
+      "typeLabel": "간조",
+      "time": "00:44",
+      "val": "47"
+     },
+     {
+      "type": "high",
+      "typeLabel": "만조",
+      "time": "06:14",
+      "val": "907"
+     },
+     {
+      "type": "low",
+      "typeLabel": "간조",
+      "time": "13:10",
+      "val": "72"
+     },
+     {
+      "type": "high",
+      "typeLabel": "만조",
+      "time": "18:31",
+      "val": "887"
+     }
+    ]
    }
   ],
   "yrMax": "",
@@ -12896,41 +12938,9 @@
   "lat": "37.22633",
   "tideDays": [
    {
-    "dateLabel": "09/04",
-    "dow": "금요일",
-    "isToday": true,
-    "mulddae": 7,
-    "events": [
-     {
-      "type": "low",
-      "typeLabel": "간조",
-      "time": "02:53",
-      "val": "215"
-     },
-     {
-      "type": "high",
-      "typeLabel": "만조",
-      "time": "08:38",
-      "val": "644"
-     },
-     {
-      "type": "low",
-      "typeLabel": "간조",
-      "time": "15:02",
-      "val": "143"
-     },
-     {
-      "type": "high",
-      "typeLabel": "만조",
-      "time": "21:34",
-      "val": "673"
-     }
-    ]
-   },
-   {
     "dateLabel": "09/05",
     "dow": "토요일",
-    "isToday": false,
+    "isToday": true,
     "mulddae": 5,
     "events": [
      {
@@ -13144,6 +13154,38 @@
       "val": "29"
      }
     ]
+   },
+   {
+    "dateLabel": "09/12",
+    "dow": "토요일",
+    "isToday": false,
+    "mulddae": 14,
+    "events": [
+     {
+      "type": "high",
+      "typeLabel": "만조",
+      "time": "05:20",
+      "val": "802"
+     },
+     {
+      "type": "low",
+      "typeLabel": "간조",
+      "time": "11:37",
+      "val": "63"
+     },
+     {
+      "type": "high",
+      "typeLabel": "만조",
+      "time": "17:36",
+      "val": "783"
+     },
+     {
+      "type": "low",
+      "typeLabel": "간조",
+      "time": "23:49",
+      "val": "34"
+     }
+    ]
    }
   ],
   "yrMax": "847.0",
@@ -13163,41 +13205,9 @@
   "lat": "36.67463",
   "tideDays": [
    {
-    "dateLabel": "09/04",
-    "dow": "금요일",
-    "isToday": true,
-    "mulddae": 7,
-    "events": [
-     {
-      "type": "low",
-      "typeLabel": "간조",
-      "time": "02:07",
-      "val": "205"
-     },
-     {
-      "type": "high",
-      "typeLabel": "만조",
-      "time": "07:44",
-      "val": "556"
-     },
-     {
-      "type": "low",
-      "typeLabel": "간조",
-      "time": "14:15",
-      "val": "133"
-     },
-     {
-      "type": "high",
-      "typeLabel": "만조",
-      "time": "20:46",
-      "val": "580"
-     }
-    ]
-   },
-   {
     "dateLabel": "09/05",
     "dow": "토요일",
-    "isToday": false,
+    "isToday": true,
     "mulddae": 5,
     "events": [
      {
@@ -13411,14 +13421,46 @@
       "val": "39"
      }
     ]
+   },
+   {
+    "dateLabel": "09/12",
+    "dow": "토요일",
+    "isToday": false,
+    "mulddae": 14,
+    "events": [
+     {
+      "type": "high",
+      "typeLabel": "만조",
+      "time": "04:29",
+      "val": "692"
+     },
+     {
+      "type": "low",
+      "typeLabel": "간조",
+      "time": "10:53",
+      "val": "54"
+     },
+     {
+      "type": "high",
+      "typeLabel": "만조",
+      "time": "16:45",
+      "val": "667"
+     },
+     {
+      "type": "low",
+      "typeLabel": "간조",
+      "time": "23:04",
+      "val": "43"
+     }
+    ]
    }
   ],
   "yrMax": "724.0",
   "yrMaxDt": "2011-05-19 05:00",
   "yrMin": "-27.0",
   "yrMinDt": "2011-03-23 00:18",
-  "waterTemp": "22.7",
-  "waterTempTime": "2026-09-05 03:26:00"
+  "waterTemp": "22.6",
+  "waterTempTime": "2026-09-06 02:26:00"
  },
  {
   "slug": "위도",
@@ -13432,41 +13474,9 @@
   "lat": "35.61808",
   "tideDays": [
    {
-    "dateLabel": "09/04",
-    "dow": "금요일",
-    "isToday": true,
-    "mulddae": 7,
-    "events": [
-     {
-      "type": "low",
-      "typeLabel": "간조",
-      "time": "01:27",
-      "val": "193"
-     },
-     {
-      "type": "high",
-      "typeLabel": "만조",
-      "time": "07:02",
-      "val": "522"
-     },
-     {
-      "type": "low",
-      "typeLabel": "간조",
-      "time": "13:35",
-      "val": "128"
-     },
-     {
-      "type": "high",
-      "typeLabel": "만조",
-      "time": "19:58",
-      "val": "552"
-     }
-    ]
-   },
-   {
     "dateLabel": "09/05",
     "dow": "토요일",
-    "isToday": false,
+    "isToday": true,
     "mulddae": 4,
     "events": [
      {
@@ -13680,6 +13690,38 @@
       "val": "29"
      }
     ]
+   },
+   {
+    "dateLabel": "09/12",
+    "dow": "토요일",
+    "isToday": false,
+    "mulddae": 14,
+    "events": [
+     {
+      "type": "high",
+      "typeLabel": "만조",
+      "time": "03:31",
+      "val": "661"
+     },
+     {
+      "type": "low",
+      "typeLabel": "간조",
+      "time": "10:05",
+      "val": "53"
+     },
+     {
+      "type": "high",
+      "typeLabel": "만조",
+      "time": "15:45",
+      "val": "647"
+     },
+     {
+      "type": "low",
+      "typeLabel": "간조",
+      "time": "22:18",
+      "val": "32"
+     }
+    ]
    }
   ],
   "yrMax": "701.0",
@@ -13699,36 +13741,10 @@
   "lat": "36.05177",
   "tideDays": [
    {
-    "dateLabel": "09/04",
-    "dow": "금요일",
-    "isToday": true,
-    "mulddae": 4,
-    "events": [
-     {
-      "type": "low",
-      "typeLabel": "간조",
-      "time": "01:29",
-      "val": "32"
-     },
-     {
-      "type": "high",
-      "typeLabel": "만조",
-      "time": "07:10",
-      "val": "37"
-     },
-     {
-      "type": "low",
-      "typeLabel": "간조",
-      "time": "16:09",
-      "val": "20"
-     }
-    ]
-   },
-   {
     "dateLabel": "09/05",
     "dow": "토요일",
-    "isToday": false,
-    "mulddae": 8,
+    "isToday": true,
+    "mulddae": 12,
     "events": [
      {
       "type": "high",
@@ -13748,7 +13764,7 @@
     "dateLabel": "09/06",
     "dow": "일요일",
     "isToday": false,
-    "mulddae": 11,
+    "mulddae": 13,
     "events": [
      {
       "type": "high",
@@ -13808,7 +13824,7 @@
     "dateLabel": "09/09",
     "dow": "수요일",
     "isToday": false,
-    "mulddae": 11,
+    "mulddae": 13,
     "events": [
      {
       "type": "high",
@@ -13828,7 +13844,7 @@
     "dateLabel": "09/10",
     "dow": "목요일",
     "isToday": false,
-    "mulddae": 8,
+    "mulddae": 12,
     "events": [
      {
       "type": "high",
@@ -13860,7 +13876,7 @@
     "dateLabel": "09/11",
     "dow": "금요일",
     "isToday": false,
-    "mulddae": 1,
+    "mulddae": 9,
     "events": [
      {
       "type": "high",
@@ -13887,14 +13903,40 @@
       "val": "22"
      }
     ]
+   },
+   {
+    "dateLabel": "09/12",
+    "dow": "토요일",
+    "isToday": false,
+    "mulddae": 1,
+    "events": [
+     {
+      "type": "high",
+      "typeLabel": "만조",
+      "time": "05:35",
+      "val": "31"
+     },
+     {
+      "type": "low",
+      "typeLabel": "간조",
+      "time": "09:53",
+      "val": "28"
+     },
+     {
+      "type": "high",
+      "typeLabel": "만조",
+      "time": "16:18",
+      "val": "37"
+     }
+    ]
    }
   ],
   "yrMax": "46.0",
   "yrMaxDt": "1996-06-18 15:30",
   "yrMin": "-20.0",
   "yrMinDt": "1996-02-19 10:30",
-  "waterTemp": "26.7",
-  "waterTempTime": "2026-09-05 03:26:00"
+  "waterTemp": "26.6",
+  "waterTempTime": "2026-09-06 02:26:00"
  },
  {
   "slug": "여호항",
@@ -13908,41 +13950,9 @@
   "lat": "34.66194",
   "tideDays": [
    {
-    "dateLabel": "09/04",
-    "dow": "금요일",
-    "isToday": true,
-    "mulddae": 3,
-    "events": [
-     {
-      "type": "high",
-      "typeLabel": "만조",
-      "time": "01:08",
-      "val": "277"
-     },
-     {
-      "type": "low",
-      "typeLabel": "간조",
-      "time": "07:36",
-      "val": "107"
-     },
-     {
-      "type": "high",
-      "typeLabel": "만조",
-      "time": "14:29",
-      "val": "299"
-     },
-     {
-      "type": "low",
-      "typeLabel": "간조",
-      "time": "20:33",
-      "val": "176"
-     }
-    ]
-   },
-   {
     "dateLabel": "09/05",
     "dow": "토요일",
-    "isToday": false,
+    "isToday": true,
     "mulddae": 1,
     "events": [
      {
@@ -14156,6 +14166,38 @@
       "val": "394"
      }
     ]
+   },
+   {
+    "dateLabel": "09/12",
+    "dow": "토요일",
+    "isToday": false,
+    "mulddae": 13,
+    "events": [
+     {
+      "type": "low",
+      "typeLabel": "간조",
+      "time": "03:57",
+      "val": "30"
+     },
+     {
+      "type": "high",
+      "typeLabel": "만조",
+      "time": "10:13",
+      "val": "371"
+     },
+     {
+      "type": "low",
+      "typeLabel": "간조",
+      "time": "16:11",
+      "val": "19"
+     },
+     {
+      "type": "high",
+      "typeLabel": "만조",
+      "time": "22:27",
+      "val": "383"
+     }
+    ]
    }
   ],
   "yrMax": "416.0",
@@ -14175,41 +14217,9 @@
   "lat": "37.37306",
   "tideDays": [
    {
-    "dateLabel": "09/04",
-    "dow": "금요일",
-    "isToday": true,
-    "mulddae": 7,
-    "events": [
-     {
-      "type": "low",
-      "typeLabel": "간조",
-      "time": "02:58",
-      "val": "227"
-     },
-     {
-      "type": "high",
-      "typeLabel": "만조",
-      "time": "08:41",
-      "val": "711"
-     },
-     {
-      "type": "low",
-      "typeLabel": "간조",
-      "time": "15:07",
-      "val": "154"
-     },
-     {
-      "type": "high",
-      "typeLabel": "만조",
-      "time": "21:33",
-      "val": "741"
-     }
-    ]
-   },
-   {
     "dateLabel": "09/05",
     "dow": "토요일",
-    "isToday": false,
+    "isToday": true,
     "mulddae": 5,
     "events": [
      {
@@ -14423,6 +14433,38 @@
       "val": "27"
      }
     ]
+   },
+   {
+    "dateLabel": "09/12",
+    "dow": "토요일",
+    "isToday": false,
+    "mulddae": 14,
+    "events": [
+     {
+      "type": "high",
+      "typeLabel": "만조",
+      "time": "05:24",
+      "val": "891"
+     },
+     {
+      "type": "low",
+      "typeLabel": "간조",
+      "time": "11:45",
+      "val": "58"
+     },
+     {
+      "type": "high",
+      "typeLabel": "만조",
+      "time": "17:40",
+      "val": "867"
+     },
+     {
+      "type": "low",
+      "typeLabel": "간조",
+      "time": "23:57",
+      "val": "29"
+     }
+    ]
    }
   ],
   "yrMax": "927.0",
@@ -14442,41 +14484,9 @@
   "lat": "34.25142",
   "tideDays": [
    {
-    "dateLabel": "09/04",
-    "dow": "금요일",
-    "isToday": true,
-    "mulddae": 3,
-    "events": [
-     {
-      "type": "high",
-      "typeLabel": "만조",
-      "time": "04:19",
-      "val": "273"
-     },
-     {
-      "type": "low",
-      "typeLabel": "간조",
-      "time": "10:31",
-      "val": "82"
-     },
-     {
-      "type": "high",
-      "typeLabel": "만조",
-      "time": "18:05",
-      "val": "325"
-     },
-     {
-      "type": "low",
-      "typeLabel": "간조",
-      "time": "23:38",
-      "val": "177"
-     }
-    ]
-   },
-   {
     "dateLabel": "09/05",
     "dow": "토요일",
-    "isToday": false,
+    "isToday": true,
     "mulddae": 1,
     "events": [
      {
@@ -14684,13 +14694,45 @@
       "val": "17"
      }
     ]
+   },
+   {
+    "dateLabel": "09/12",
+    "dow": "토요일",
+    "isToday": false,
+    "mulddae": 13,
+    "events": [
+     {
+      "type": "high",
+      "typeLabel": "만조",
+      "time": "00:47",
+      "val": "362"
+     },
+     {
+      "type": "low",
+      "typeLabel": "간조",
+      "time": "06:24",
+      "val": "48"
+     },
+     {
+      "type": "high",
+      "typeLabel": "만조",
+      "time": "12:57",
+      "val": "346"
+     },
+     {
+      "type": "low",
+      "typeLabel": "간조",
+      "time": "18:36",
+      "val": "24"
+     }
+    ]
    }
   ],
   "yrMax": "394.0",
   "yrMaxDt": "2026-07-15 01:05",
   "yrMin": "-41.0",
   "yrMinDt": "2026-01-05 06:46",
-  "waterTemp": "20.6",
-  "waterTempTime": "2026-09-05 03:26:00"
+  "waterTemp": "20.7",
+  "waterTempTime": "2026-09-06 02:26:00"
  }
 ]
