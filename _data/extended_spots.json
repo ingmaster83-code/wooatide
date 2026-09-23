@@ -134,8 +134,8 @@
    }
   ],
   "nearestOfficialName": "목포",
-  "waterTemp": "25.4",
-  "waterTempTime": "2026-09-21 03:16:00"
+  "waterTemp": "25.2",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "암태도",
@@ -284,8 +284,8 @@
    }
   ],
   "nearestOfficialName": "목포",
-  "waterTemp": "25.4",
-  "waterTempTime": "2026-09-21 03:16:00"
+  "waterTemp": "25.2",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "평호리",
@@ -422,8 +422,8 @@
    }
   ],
   "nearestOfficialName": "진도",
-  "waterTemp": "25.0",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTemp": "24.8",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "원동항",
@@ -561,7 +561,7 @@
   ],
   "nearestOfficialName": "완도",
   "waterTemp": "25.6",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "사초항",
@@ -699,7 +699,7 @@
   ],
   "nearestOfficialName": "완도",
   "waterTemp": "25.6",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "안남리",
@@ -979,7 +979,7 @@
   ],
   "nearestOfficialName": "통영",
   "waterTemp": "25.4",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "독거도",
@@ -1122,8 +1122,8 @@
    }
   ],
   "nearestOfficialName": "진도",
-  "waterTemp": "25.0",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTemp": "24.8",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "평도",
@@ -1266,8 +1266,8 @@
    }
   ],
   "nearestOfficialName": "고흥발포",
-  "waterTemp": "25.8",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTemp": "25.7",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "낙월도",
@@ -1534,8 +1534,8 @@
    }
   ],
   "nearestOfficialName": "어청도",
-  "waterTemp": "22.3",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTemp": "23.6",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "상왕등도",
@@ -1808,8 +1808,8 @@
    }
   ],
   "nearestOfficialName": "진도",
-  "waterTemp": "25.0",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTemp": "24.8",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "어류정항",
@@ -2218,8 +2218,8 @@
    }
   ],
   "nearestOfficialName": "목포",
-  "waterTemp": "25.4",
-  "waterTempTime": "2026-09-21 03:16:00"
+  "waterTemp": "25.2",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "곰소항-SO_1012",
@@ -2888,8 +2888,8 @@
    }
   ],
   "nearestOfficialName": "안산",
-  "waterTemp": "24.6",
-  "waterTempTime": "2026-09-21 03:16:00"
+  "waterTemp": "25.0",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "제부도부근-T-3",
@@ -3020,8 +3020,8 @@
    }
   ],
   "nearestOfficialName": "안산",
-  "waterTemp": "24.6",
-  "waterTempTime": "2026-09-21 03:16:00"
+  "waterTemp": "25.0",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "제부도부근-T-4",
@@ -3152,8 +3152,8 @@
    }
   ],
   "nearestOfficialName": "안산",
-  "waterTemp": "24.6",
-  "waterTempTime": "2026-09-21 03:16:00"
+  "waterTemp": "25.0",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "제부도부근-T-5",
@@ -3284,8 +3284,8 @@
    }
   ],
   "nearestOfficialName": "안산",
-  "waterTemp": "24.6",
-  "waterTempTime": "2026-09-21 03:16:00"
+  "waterTemp": "25.0",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "제부도부근-T-6",
@@ -3416,8 +3416,8 @@
    }
   ],
   "nearestOfficialName": "평택",
-  "waterTemp": "24.7",
-  "waterTempTime": "2026-09-21 03:16:00"
+  "waterTemp": "24.6",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "남성항",
@@ -3555,7 +3555,7 @@
   ],
   "nearestOfficialName": "완도",
   "waterTemp": "25.6",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "청용리",
@@ -3687,7 +3687,7 @@
   ],
   "nearestOfficialName": "완도",
   "waterTemp": "25.6",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "죽청리",
@@ -3825,7 +3825,7 @@
   ],
   "nearestOfficialName": "완도",
   "waterTemp": "25.6",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "능포항-SO_1032",
@@ -3957,7 +3957,7 @@
   ],
   "nearestOfficialName": "거제도",
   "waterTemp": "24.6",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "어청도북측",
@@ -4088,8 +4088,8 @@
    }
   ],
   "nearestOfficialName": "어청도",
-  "waterTemp": "22.3",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTemp": "23.6",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "어청도남측",
@@ -4220,8 +4220,8 @@
    }
   ],
   "nearestOfficialName": "어청도",
-  "waterTemp": "22.3",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTemp": "23.6",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "상왕등도북서측",
@@ -5268,8 +5268,8 @@
    }
   ],
   "nearestOfficialName": "대산",
-  "waterTemp": "23.5",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTemp": "23.4",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "서수도",
@@ -5530,8 +5530,8 @@
    }
   ],
   "nearestOfficialName": "보령",
-  "waterTemp": "24.7",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTemp": "24.9",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "연도서측",
@@ -5799,7 +5799,7 @@
   ],
   "nearestOfficialName": "거제도",
   "waterTemp": "24.6",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "인천대교남측-Elipsoid",
@@ -5930,8 +5930,8 @@
    }
   ],
   "nearestOfficialName": "인천",
-  "waterTemp": "24.7",
-  "waterTempTime": "2026-09-21 03:16:00"
+  "waterTemp": "24.5",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "풍도북측-Elipsoid",
@@ -6192,8 +6192,8 @@
    }
   ],
   "nearestOfficialName": "보령",
-  "waterTemp": "24.7",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTemp": "24.9",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "압해도서측-Elipsoid",
@@ -6336,8 +6336,8 @@
    }
   ],
   "nearestOfficialName": "목포",
-  "waterTemp": "25.4",
-  "waterTempTime": "2026-09-21 03:16:00"
+  "waterTemp": "25.2",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "목포북항북측-Elipsoid",
@@ -6480,8 +6480,8 @@
    }
   ],
   "nearestOfficialName": "목포",
-  "waterTemp": "25.4",
-  "waterTempTime": "2026-09-21 03:16:00"
+  "waterTemp": "25.2",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "불무기도북측-Elipsoid",
@@ -6624,8 +6624,8 @@
    }
   ],
   "nearestOfficialName": "목포",
-  "waterTemp": "25.4",
-  "waterTempTime": "2026-09-21 03:16:00"
+  "waterTemp": "25.2",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "장산도동측-Elipsoid",
@@ -6762,8 +6762,8 @@
    }
   ],
   "nearestOfficialName": "목포",
-  "waterTemp": "25.4",
-  "waterTempTime": "2026-09-21 03:16:00"
+  "waterTemp": "25.2",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "광양항-Elipsoid",
@@ -7049,7 +7049,7 @@
   ],
   "nearestOfficialName": "통영",
   "waterTemp": "25.4",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "매물도북서측-Elipsoid",
@@ -7193,7 +7193,7 @@
   ],
   "nearestOfficialName": "통영",
   "waterTemp": "25.4",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "부도수도-Elipsoid",
@@ -7478,8 +7478,8 @@
    }
   ],
   "nearestOfficialName": "가덕도",
-  "waterTemp": "24.8",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTemp": "24.7",
+  "waterTempTime": "2026-09-23 09:16:00"
  },
  {
   "slug": "부산항입구-Elipsoid",
@@ -7622,8 +7622,8 @@
    }
   ],
   "nearestOfficialName": "부산",
-  "waterTemp": "24.7",
-  "waterTempTime": "2026-09-21 03:16:00"
+  "waterTemp": "24.6",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "울산신항동측-Elipsoid",
@@ -7785,7 +7785,7 @@
   ],
   "nearestOfficialName": "울산",
   "waterTemp": "24.9",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "난지도북측",
@@ -7916,8 +7916,8 @@
    }
   ],
   "nearestOfficialName": "대산",
-  "waterTemp": "23.5",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTemp": "23.4",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "와도서측",
@@ -8048,8 +8048,8 @@
    }
   ],
   "nearestOfficialName": "안흥",
-  "waterTemp": "21.6",
-  "waterTempTime": "2026-09-20 03:04:00"
+  "waterTemp": "21.8",
+  "waterTempTime": "2026-09-23 09:16:00"
  },
  {
   "slug": "안좌도서측",
@@ -8192,8 +8192,8 @@
    }
   ],
   "nearestOfficialName": "목포",
-  "waterTemp": "25.4",
-  "waterTempTime": "2026-09-21 03:16:00"
+  "waterTemp": "25.2",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "비금수도",
@@ -8330,8 +8330,8 @@
    }
   ],
   "nearestOfficialName": "목포",
-  "waterTemp": "25.4",
-  "waterTempTime": "2026-09-21 03:16:00"
+  "waterTemp": "25.2",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "흑일도남측",
@@ -8475,7 +8475,7 @@
   ],
   "nearestOfficialName": "완도",
   "waterTemp": "25.6",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "여수해협-2",
@@ -8612,8 +8612,8 @@
    }
   ],
   "nearestOfficialName": "여수",
-  "waterTemp": "26.0",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTemp": "25.8",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "여수해만입구",
@@ -8756,8 +8756,8 @@
    }
   ],
   "nearestOfficialName": "여수",
-  "waterTemp": "26.0",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTemp": "25.8",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "두미도북측",
@@ -8900,8 +8900,8 @@
    }
   ],
   "nearestOfficialName": "삼천포",
-  "waterTemp": "26.5",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTemp": "26.3",
+  "waterTempTime": "2026-09-23 09:16:00"
  },
  {
   "slug": "아랫섬동측",
@@ -9039,7 +9039,7 @@
   ],
   "nearestOfficialName": "통영",
   "waterTemp": "25.4",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "가조도수도",
@@ -9183,7 +9183,7 @@
   ],
   "nearestOfficialName": "통영",
   "waterTemp": "25.4",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "진해만",
@@ -9450,8 +9450,8 @@
    }
   ],
   "nearestOfficialName": "가덕도",
-  "waterTemp": "24.8",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTemp": "24.7",
+  "waterTempTime": "2026-09-23 09:16:00"
  },
  {
   "slug": "해운대전면",
@@ -9606,8 +9606,8 @@
    }
   ],
   "nearestOfficialName": "부산",
-  "waterTemp": "24.7",
-  "waterTempTime": "2026-09-21 03:16:00"
+  "waterTemp": "24.6",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "대왕암남측",
@@ -9775,7 +9775,7 @@
   ],
   "nearestOfficialName": "울산",
   "waterTemp": "24.9",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "어불도서측",
@@ -9924,8 +9924,8 @@
    }
   ],
   "nearestOfficialName": "진도",
-  "waterTemp": "25.0",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTemp": "24.8",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "독거군도북측",
@@ -10068,8 +10068,8 @@
    }
   ],
   "nearestOfficialName": "진도",
-  "waterTemp": "25.0",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTemp": "24.8",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "외모군도남측",
@@ -10206,8 +10206,8 @@
    }
   ],
   "nearestOfficialName": "추자도",
-  "waterTemp": "25.2",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTemp": "25.4",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "인천-제주항로-1",
@@ -10610,8 +10610,8 @@
    }
   ],
   "nearestOfficialName": "고흥발포",
-  "waterTemp": "25.8",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTemp": "25.7",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "인천-제주항로-2",
@@ -10878,8 +10878,8 @@
    }
   ],
   "nearestOfficialName": "흑산도",
-  "waterTemp": "24.0",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTemp": "23.3",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "송이도북측",
@@ -11418,8 +11418,8 @@
    }
   ],
   "nearestOfficialName": "삼천포",
-  "waterTemp": "26.5",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTemp": "26.3",
+  "waterTempTime": "2026-09-23 09:16:00"
  },
  {
   "slug": "고군산군도서측",
@@ -11816,8 +11816,8 @@
    }
   ],
   "nearestOfficialName": "고흥발포",
-  "waterTemp": "25.8",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTemp": "25.7",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "북격렬비열도-SO_1220",
@@ -11948,8 +11948,8 @@
    }
   ],
   "nearestOfficialName": "안흥",
-  "waterTemp": "21.6",
-  "waterTempTime": "2026-09-20 03:04:00"
+  "waterTemp": "21.8",
+  "waterTempTime": "2026-09-23 09:16:00"
  },
  {
   "slug": "동율리",
@@ -12086,8 +12086,8 @@
    }
   ],
   "nearestOfficialName": "고흥발포",
-  "waterTemp": "25.8",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTemp": "25.7",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "고흥금진항",
@@ -12224,8 +12224,8 @@
    }
   ],
   "nearestOfficialName": "고흥발포",
-  "waterTemp": "25.8",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTemp": "25.7",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "우도",
@@ -12505,7 +12505,7 @@
   ],
   "nearestOfficialName": "통영",
   "waterTemp": "25.4",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "의항항",
@@ -12766,8 +12766,8 @@
    }
   ],
   "nearestOfficialName": "대산",
-  "waterTemp": "23.5",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTemp": "23.4",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "구도항",
@@ -13028,8 +13028,8 @@
    }
   ],
   "nearestOfficialName": "안산",
-  "waterTemp": "24.6",
-  "waterTempTime": "2026-09-21 03:16:00"
+  "waterTemp": "25.0",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "평택-LNG부두",
@@ -13160,8 +13160,8 @@
    }
   ],
   "nearestOfficialName": "평택",
-  "waterTemp": "24.7",
-  "waterTempTime": "2026-09-21 03:16:00"
+  "waterTemp": "24.6",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "천리포",
@@ -13292,8 +13292,8 @@
    }
   ],
   "nearestOfficialName": "안흥",
-  "waterTemp": "21.6",
-  "waterTempTime": "2026-09-20 03:04:00"
+  "waterTemp": "21.8",
+  "waterTempTime": "2026-09-23 09:16:00"
  },
  {
   "slug": "어은돌",
@@ -13424,8 +13424,8 @@
    }
   ],
   "nearestOfficialName": "안흥",
-  "waterTemp": "21.6",
-  "waterTempTime": "2026-09-20 03:04:00"
+  "waterTemp": "21.8",
+  "waterTempTime": "2026-09-23 09:16:00"
  },
  {
   "slug": "통개항",
@@ -13556,8 +13556,8 @@
    }
   ],
   "nearestOfficialName": "안흥",
-  "waterTemp": "21.6",
-  "waterTempTime": "2026-09-20 03:04:00"
+  "waterTemp": "21.8",
+  "waterTempTime": "2026-09-23 09:16:00"
  },
  {
   "slug": "도황리-채석포",
@@ -13688,8 +13688,8 @@
    }
   ],
   "nearestOfficialName": "안흥",
-  "waterTemp": "21.6",
-  "waterTempTime": "2026-09-20 03:04:00"
+  "waterTemp": "21.8",
+  "waterTempTime": "2026-09-23 09:16:00"
  },
  {
   "slug": "안면암",
@@ -13820,8 +13820,8 @@
    }
   ],
   "nearestOfficialName": "보령",
-  "waterTemp": "24.7",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTemp": "24.9",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "남당항",
@@ -13952,8 +13952,8 @@
    }
   ],
   "nearestOfficialName": "보령",
-  "waterTemp": "24.7",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTemp": "24.9",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "원산도-SO_0371",
@@ -14084,8 +14084,8 @@
    }
   ],
   "nearestOfficialName": "보령",
-  "waterTemp": "24.7",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTemp": "24.9",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "무창포-SO_0373",
@@ -14346,8 +14346,8 @@
    }
   ],
   "nearestOfficialName": "어청도",
-  "waterTemp": "22.3",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTemp": "23.6",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "방축도",
@@ -14484,8 +14484,8 @@
    }
   ],
   "nearestOfficialName": "군산",
-  "waterTemp": "24.6",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTemp": "24.5",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "가력도",
@@ -14622,8 +14622,8 @@
    }
   ],
   "nearestOfficialName": "군산",
-  "waterTemp": "24.6",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTemp": "24.5",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "임자도-진리",
@@ -14760,8 +14760,8 @@
    }
   ],
   "nearestOfficialName": "목포",
-  "waterTemp": "25.4",
-  "waterTempTime": "2026-09-21 03:16:00"
+  "waterTemp": "25.2",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "용정리-함평만",
@@ -14898,8 +14898,8 @@
    }
   ],
   "nearestOfficialName": "목포",
-  "waterTemp": "25.4",
-  "waterTempTime": "2026-09-21 03:16:00"
+  "waterTemp": "25.2",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "거차수도",
@@ -15042,8 +15042,8 @@
    }
   ],
   "nearestOfficialName": "흑산도",
-  "waterTemp": "24.0",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTemp": "23.3",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "홍도",
@@ -15186,8 +15186,8 @@
    }
   ],
   "nearestOfficialName": "흑산도",
-  "waterTemp": "24.0",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTemp": "23.3",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "신양항",
@@ -15330,8 +15330,8 @@
    }
   ],
   "nearestOfficialName": "추자도",
-  "waterTemp": "25.2",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTemp": "25.4",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "2014-15년-장기조석관측-우수영항-193일",
@@ -15468,8 +15468,8 @@
    }
   ],
   "nearestOfficialName": "목포",
-  "waterTemp": "25.4",
-  "waterTempTime": "2026-09-21 03:16:00"
+  "waterTemp": "25.2",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "GSCaltex",
@@ -15736,8 +15736,8 @@
    }
   ],
   "nearestOfficialName": "안흥",
-  "waterTemp": "21.6",
-  "waterTempTime": "2026-09-20 03:04:00"
+  "waterTemp": "21.8",
+  "waterTempTime": "2026-09-23 09:16:00"
  },
  {
   "slug": "울산-SO_0425",
@@ -15899,7 +15899,7 @@
   ],
   "nearestOfficialName": "울산",
   "waterTemp": "24.9",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "사창리",
@@ -16166,8 +16166,8 @@
    }
   ],
   "nearestOfficialName": "삼천포",
-  "waterTemp": "26.5",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTemp": "26.3",
+  "waterTempTime": "2026-09-23 09:16:00"
  },
  {
   "slug": "야미도",
@@ -16304,8 +16304,8 @@
    }
   ],
   "nearestOfficialName": "군산",
-  "waterTemp": "24.6",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTemp": "24.5",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "팔미도",
@@ -16696,8 +16696,8 @@
    }
   ],
   "nearestOfficialName": "대산",
-  "waterTemp": "23.5",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTemp": "23.4",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "가의도",
@@ -16828,8 +16828,8 @@
    }
   ],
   "nearestOfficialName": "안흥",
-  "waterTemp": "21.6",
-  "waterTempTime": "2026-09-20 03:04:00"
+  "waterTemp": "21.8",
+  "waterTempTime": "2026-09-23 09:16:00"
  },
  {
   "slug": "녹도",
@@ -16960,8 +16960,8 @@
    }
   ],
   "nearestOfficialName": "보령",
-  "waterTemp": "24.7",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTemp": "24.9",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "구시포",
@@ -18150,8 +18150,8 @@
    }
   ],
   "nearestOfficialName": "서거차도",
-  "waterTemp": "23.6",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTemp": "23.2",
+  "waterTempTime": "2026-09-23 09:16:00"
  },
  {
   "slug": "가파도",
@@ -18294,8 +18294,8 @@
    }
   ],
   "nearestOfficialName": "모슬포",
-  "waterTemp": "25.7",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTemp": "25.4",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "구룡포항",
@@ -18462,8 +18462,8 @@
    }
   ],
   "nearestOfficialName": "포항",
-  "waterTemp": "25.2",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTemp": "24.8",
+  "waterTempTime": "2026-09-23 09:16:00"
  },
  {
   "slug": "궁시도",
@@ -18594,8 +18594,8 @@
    }
   ],
   "nearestOfficialName": "안흥",
-  "waterTemp": "21.6",
-  "waterTempTime": "2026-09-20 03:04:00"
+  "waterTemp": "21.8",
+  "waterTempTime": "2026-09-23 09:16:00"
  },
  {
   "slug": "달도리",
@@ -18733,7 +18733,7 @@
   ],
   "nearestOfficialName": "완도",
   "waterTemp": "25.6",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "달리도",
@@ -18876,8 +18876,8 @@
    }
   ],
   "nearestOfficialName": "목포",
-  "waterTemp": "25.4",
-  "waterTempTime": "2026-09-21 03:16:00"
+  "waterTemp": "25.2",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "대부도남서",
@@ -19138,8 +19138,8 @@
    }
   ],
   "nearestOfficialName": "보령",
-  "waterTemp": "24.7",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTemp": "24.9",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "도원리",
@@ -19282,8 +19282,8 @@
    }
   ],
   "nearestOfficialName": "목포",
-  "waterTemp": "25.4",
-  "waterTempTime": "2026-09-21 03:16:00"
+  "waterTemp": "25.2",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "마라도",
@@ -19420,8 +19420,8 @@
    }
   ],
   "nearestOfficialName": "모슬포",
-  "waterTemp": "25.7",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTemp": "25.4",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "맥전포",
@@ -19564,8 +19564,8 @@
    }
   ],
   "nearestOfficialName": "삼천포",
-  "waterTemp": "26.5",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTemp": "26.3",
+  "waterTempTime": "2026-09-23 09:16:00"
  },
  {
   "slug": "밀매도",
@@ -19708,8 +19708,8 @@
    }
   ],
   "nearestOfficialName": "진도",
-  "waterTemp": "25.0",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTemp": "24.8",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "사양도",
@@ -19846,8 +19846,8 @@
    }
   ],
   "nearestOfficialName": "고흥발포",
-  "waterTemp": "25.8",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTemp": "25.7",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "서정리",
@@ -19985,7 +19985,7 @@
   ],
   "nearestOfficialName": "거제도",
   "waterTemp": "24.6",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "세어도",
@@ -20382,8 +20382,8 @@
    }
   ],
   "nearestOfficialName": "목포",
-  "waterTemp": "25.4",
-  "waterTempTime": "2026-09-21 03:16:00"
+  "waterTemp": "25.2",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "월곶포구",
@@ -20786,8 +20786,8 @@
    }
   ],
   "nearestOfficialName": "고흥발포",
-  "waterTemp": "25.8",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTemp": "25.7",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "하섬",
@@ -21048,8 +21048,8 @@
    }
   ],
   "nearestOfficialName": "성산포",
-  "waterTemp": "24.2",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTemp": "24.3",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "회진항",
@@ -21181,7 +21181,7 @@
   ],
   "nearestOfficialName": "완도",
   "waterTemp": "25.6",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "울산항",
@@ -21355,7 +21355,7 @@
   ],
   "nearestOfficialName": "울산",
   "waterTemp": "24.9",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "원산도-SO_0916",
@@ -21486,8 +21486,8 @@
    }
   ],
   "nearestOfficialName": "보령",
-  "waterTemp": "24.7",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTemp": "24.9",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "죽도-SO_0917",
@@ -21618,8 +21618,8 @@
    }
   ],
   "nearestOfficialName": "보령",
-  "waterTemp": "24.7",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTemp": "24.9",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "홍원항",
@@ -22164,8 +22164,8 @@
    }
   ],
   "nearestOfficialName": "삼천포",
-  "waterTemp": "26.5",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTemp": "26.3",
+  "waterTempTime": "2026-09-23 09:16:00"
  },
  {
   "slug": "강정",
@@ -22303,7 +22303,7 @@
   ],
   "nearestOfficialName": "서귀포",
   "waterTemp": "25.8",
-  "waterTempTime": "2026-09-21 03:16:00"
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "신양",
@@ -22452,8 +22452,8 @@
    }
   ],
   "nearestOfficialName": "추자도",
-  "waterTemp": "25.2",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTemp": "25.4",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "남해도-남측",
@@ -22596,8 +22596,8 @@
    }
   ],
   "nearestOfficialName": "여수",
-  "waterTemp": "26.0",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTemp": "25.8",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "갈도-남측",
@@ -22741,7 +22741,7 @@
   ],
   "nearestOfficialName": "통영",
   "waterTemp": "25.4",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "갈곶도-남동측",
@@ -22873,7 +22873,7 @@
   ],
   "nearestOfficialName": "거제도",
   "waterTemp": "24.6",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "추도-남서측",
@@ -23005,7 +23005,7 @@
   ],
   "nearestOfficialName": "거제도",
   "waterTemp": "24.6",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "율도",
@@ -23142,8 +23142,8 @@
    }
   ],
   "nearestOfficialName": "진도",
-  "waterTemp": "25.0",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTemp": "24.8",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "수우도-SO_0997",
@@ -23286,8 +23286,8 @@
    }
   ],
   "nearestOfficialName": "삼천포",
-  "waterTemp": "26.5",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTemp": "26.3",
+  "waterTempTime": "2026-09-23 09:16:00"
  },
  {
   "slug": "상노대도",
@@ -23425,7 +23425,7 @@
   ],
   "nearestOfficialName": "통영",
   "waterTemp": "25.4",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "신안중공업",
@@ -23568,8 +23568,8 @@
    }
   ],
   "nearestOfficialName": "목포",
-  "waterTemp": "25.4",
-  "waterTempTime": "2026-09-21 03:16:00"
+  "waterTemp": "25.2",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "자동리",
@@ -23706,8 +23706,8 @@
    }
   ],
   "nearestOfficialName": "목포",
-  "waterTemp": "25.4",
-  "waterTempTime": "2026-09-21 03:16:00"
+  "waterTemp": "25.2",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "병풍도북측",
@@ -23850,8 +23850,8 @@
    }
   ],
   "nearestOfficialName": "목포",
-  "waterTemp": "25.4",
-  "waterTempTime": "2026-09-21 03:16:00"
+  "waterTemp": "25.2",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "함평부근-톱머리",
@@ -23994,8 +23994,8 @@
    }
   ],
   "nearestOfficialName": "목포",
-  "waterTemp": "25.4",
-  "waterTempTime": "2026-09-21 03:16:00"
+  "waterTemp": "25.2",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "고군산군도북측",
@@ -24132,8 +24132,8 @@
    }
   ],
   "nearestOfficialName": "군산",
-  "waterTemp": "24.6",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTemp": "24.5",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "가사도동측",
@@ -24276,8 +24276,8 @@
    }
   ],
   "nearestOfficialName": "진도",
-  "waterTemp": "25.0",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTemp": "24.8",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "소안수도",
@@ -24421,7 +24421,7 @@
   ],
   "nearestOfficialName": "완도",
   "waterTemp": "25.6",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "소모도북측",
@@ -24565,7 +24565,7 @@
   ],
   "nearestOfficialName": "완도",
   "waterTemp": "25.6",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "봉도동측",
@@ -24703,7 +24703,7 @@
   ],
   "nearestOfficialName": "통영",
   "waterTemp": "25.4",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "선소항",
@@ -24840,8 +24840,8 @@
    }
   ],
   "nearestOfficialName": "삼천포",
-  "waterTemp": "26.5",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTemp": "26.3",
+  "waterTempTime": "2026-09-23 09:16:00"
  },
  {
   "slug": "동갈화항",
@@ -25380,8 +25380,8 @@
    }
   ],
   "nearestOfficialName": "고흥발포",
-  "waterTemp": "25.8",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTemp": "25.7",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "월양항",
@@ -25513,7 +25513,7 @@
   ],
   "nearestOfficialName": "완도",
   "waterTemp": "25.6",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "넙도",
@@ -25651,7 +25651,7 @@
   ],
   "nearestOfficialName": "완도",
   "waterTemp": "25.6",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "자은도",
@@ -25794,8 +25794,8 @@
    }
   ],
   "nearestOfficialName": "목포",
-  "waterTemp": "25.4",
-  "waterTempTime": "2026-09-21 03:16:00"
+  "waterTemp": "25.2",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "팔금도",
@@ -25938,8 +25938,8 @@
    }
   ],
   "nearestOfficialName": "목포",
-  "waterTemp": "25.4",
-  "waterTempTime": "2026-09-21 03:16:00"
+  "waterTemp": "25.2",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "비금도가산",
@@ -26076,8 +26076,8 @@
    }
   ],
   "nearestOfficialName": "목포",
-  "waterTemp": "25.4",
-  "waterTempTime": "2026-09-21 03:16:00"
+  "waterTemp": "25.2",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "학가리",
@@ -26220,8 +26220,8 @@
    }
   ],
   "nearestOfficialName": "진도",
-  "waterTemp": "25.0",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTemp": "24.8",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "신안군부근-JGNR",
@@ -26364,8 +26364,8 @@
    }
   ],
   "nearestOfficialName": "목포",
-  "waterTemp": "25.4",
-  "waterTempTime": "2026-09-21 03:16:00"
+  "waterTemp": "25.2",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "신안군부근-SW",
@@ -26508,8 +26508,8 @@
    }
   ],
   "nearestOfficialName": "목포",
-  "waterTemp": "25.4",
-  "waterTempTime": "2026-09-21 03:16:00"
+  "waterTemp": "25.2",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "고흥부근-T-3",
@@ -26652,8 +26652,8 @@
    }
   ],
   "nearestOfficialName": "고흥발포",
-  "waterTemp": "25.8",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTemp": "25.7",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "고흥부근-T-5",
@@ -26784,8 +26784,8 @@
    }
   ],
   "nearestOfficialName": "고흥발포",
-  "waterTemp": "25.8",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTemp": "25.7",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "고흥부근-T-7",
@@ -27052,8 +27052,8 @@
    }
   ],
   "nearestOfficialName": "여수",
-  "waterTemp": "26.0",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTemp": "25.8",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "군산부근-비안도",
@@ -27320,8 +27320,8 @@
    }
   ],
   "nearestOfficialName": "보령",
-  "waterTemp": "24.7",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTemp": "24.9",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "동호항",
@@ -27860,8 +27860,8 @@
    }
   ],
   "nearestOfficialName": "목포",
-  "waterTemp": "25.4",
-  "waterTempTime": "2026-09-21 03:16:00"
+  "waterTemp": "25.2",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "영전리",
@@ -27999,7 +27999,7 @@
   ],
   "nearestOfficialName": "완도",
   "waterTemp": "25.6",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "다사항",
@@ -28408,8 +28408,8 @@
    }
   ],
   "nearestOfficialName": "어청도",
-  "waterTemp": "22.3",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTemp": "23.6",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "곰소항-SO_1120",
@@ -28818,8 +28818,8 @@
    }
   ],
   "nearestOfficialName": "서거차도",
-  "waterTemp": "23.6",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTemp": "23.2",
+  "waterTempTime": "2026-09-23 09:16:00"
  },
  {
   "slug": "월내리",
@@ -28962,8 +28962,8 @@
    }
   ],
   "nearestOfficialName": "목포",
-  "waterTemp": "25.4",
-  "waterTempTime": "2026-09-21 03:16:00"
+  "waterTemp": "25.2",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "인천부근-월곶",
@@ -29354,8 +29354,8 @@
    }
   ],
   "nearestOfficialName": "안산",
-  "waterTemp": "24.6",
-  "waterTempTime": "2026-09-21 03:16:00"
+  "waterTemp": "25.0",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "함평부근-증도",
@@ -29492,8 +29492,8 @@
    }
   ],
   "nearestOfficialName": "목포",
-  "waterTemp": "25.4",
-  "waterTempTime": "2026-09-21 03:16:00"
+  "waterTemp": "25.2",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "함평부근-성내리",
@@ -29636,8 +29636,8 @@
    }
   ],
   "nearestOfficialName": "목포",
-  "waterTemp": "25.4",
-  "waterTempTime": "2026-09-21 03:16:00"
+  "waterTemp": "25.2",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "남해부근-율촌",
@@ -29910,8 +29910,8 @@
    }
   ],
   "nearestOfficialName": "여수",
-  "waterTemp": "26.0",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTemp": "25.8",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "평택부근-장고항",
@@ -30042,8 +30042,8 @@
    }
   ],
   "nearestOfficialName": "안산",
-  "waterTemp": "24.6",
-  "waterTempTime": "2026-09-21 03:16:00"
+  "waterTemp": "25.0",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "평택부근-고대관리부두",
@@ -30174,8 +30174,8 @@
    }
   ],
   "nearestOfficialName": "평택",
-  "waterTemp": "24.7",
-  "waterTempTime": "2026-09-21 03:16:00"
+  "waterTemp": "24.6",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "영종도-왕산",
@@ -30578,8 +30578,8 @@
    }
   ],
   "nearestOfficialName": "목포",
-  "waterTemp": "25.4",
-  "waterTempTime": "2026-09-21 03:16:00"
+  "waterTemp": "25.2",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "양포항-SO_0573",
@@ -30740,8 +30740,8 @@
    }
   ],
   "nearestOfficialName": "포항",
-  "waterTemp": "25.2",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTemp": "24.8",
+  "waterTempTime": "2026-09-23 09:16:00"
  },
  {
   "slug": "중항리1day",
@@ -30885,7 +30885,7 @@
   ],
   "nearestOfficialName": "통영",
   "waterTemp": "25.4",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "궁평항",
@@ -31016,8 +31016,8 @@
    }
   ],
   "nearestOfficialName": "안산",
-  "waterTemp": "24.6",
-  "waterTempTime": "2026-09-21 03:16:00"
+  "waterTemp": "25.0",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "북형제도",
@@ -31154,8 +31154,8 @@
    }
   ],
   "nearestOfficialName": "부산",
-  "waterTemp": "24.7",
-  "waterTempTime": "2026-09-21 03:16:00"
+  "waterTemp": "24.6",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "웅도",
@@ -31286,8 +31286,8 @@
    }
   ],
   "nearestOfficialName": "대산",
-  "waterTemp": "23.5",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTemp": "23.4",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "어청도서측",
@@ -31418,8 +31418,8 @@
    }
   ],
   "nearestOfficialName": "어청도",
-  "waterTemp": "22.3",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTemp": "23.6",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "위도동측",
@@ -31692,8 +31692,8 @@
    }
   ],
   "nearestOfficialName": "진도",
-  "waterTemp": "25.0",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTemp": "24.8",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "왜목항",
@@ -31824,8 +31824,8 @@
    }
   ],
   "nearestOfficialName": "대산",
-  "waterTemp": "23.5",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTemp": "23.4",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "오지리",
@@ -31956,8 +31956,8 @@
    }
   ],
   "nearestOfficialName": "대산",
-  "waterTemp": "23.5",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTemp": "23.4",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "간월도항",
@@ -32088,8 +32088,8 @@
    }
   ],
   "nearestOfficialName": "보령",
-  "waterTemp": "24.7",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTemp": "24.9",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "계마항",
@@ -32356,8 +32356,8 @@
    }
   ],
   "nearestOfficialName": "보령",
-  "waterTemp": "24.7",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTemp": "24.9",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "가력도항",
@@ -32494,8 +32494,8 @@
    }
   ],
   "nearestOfficialName": "군산",
-  "waterTemp": "24.6",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTemp": "24.5",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "2014-15년-장기조석관측-쉬미항-193일",
@@ -32632,8 +32632,8 @@
    }
   ],
   "nearestOfficialName": "진도",
-  "waterTemp": "25.0",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTemp": "24.8",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "개야도",
@@ -32764,8 +32764,8 @@
    }
   ],
   "nearestOfficialName": "안흥",
-  "waterTemp": "21.6",
-  "waterTempTime": "2026-09-20 03:04:00"
+  "waterTemp": "21.8",
+  "waterTempTime": "2026-09-23 09:16:00"
  },
  {
   "slug": "화당리-SO_0764",
@@ -32779,143 +32779,131 @@
   "lat": "34.98831",
   "todayEvents": [
    {
-    "type": "high",
-    "typeLabel": "만조",
+    "type": "low",
+    "typeLabel": "간조",
     "time": "00:45",
-    "val": "115"
+    "val": "83"
    },
    {
     "type": "high",
     "typeLabel": "만조",
-    "time": "01:45",
-    "val": "115"
+    "time": "05:45",
+    "val": "136"
    },
    {
     "type": "low",
     "typeLabel": "간조",
-    "time": "07:45",
-    "val": "94"
-   },
-   {
-    "type": "low",
-    "typeLabel": "간조",
-    "time": "08:45",
-    "val": "94"
+    "time": "11:45",
+    "val": "72"
    },
    {
     "type": "high",
     "typeLabel": "만조",
-    "time": "16:45",
-    "val": "145"
-   },
-   {
-    "type": "high",
-    "typeLabel": "만조",
-    "time": "17:45",
-    "val": "145"
+    "time": "18:45",
+    "val": "172"
    }
   ],
   "todaySeries": [
    {
     "time": "23:45",
-    "val": "114"
+    "val": "85"
    },
    {
     "time": "00:45",
-    "val": "115"
+    "val": "83"
    },
    {
     "time": "01:45",
-    "val": "115"
+    "val": "90"
    },
    {
     "time": "02:45",
-    "val": "114"
+    "val": "103"
    },
    {
     "time": "03:45",
-    "val": "111"
-   },
-   {
-    "time": "04:45",
-    "val": "106"
-   },
-   {
-    "time": "05:45",
-    "val": "101"
-   },
-   {
-    "time": "06:45",
-    "val": "97"
-   },
-   {
-    "time": "07:45",
-    "val": "94"
-   },
-   {
-    "time": "08:45",
-    "val": "94"
-   },
-   {
-    "time": "09:45",
-    "val": "96"
-   },
-   {
-    "time": "10:45",
-    "val": "101"
-   },
-   {
-    "time": "11:45",
-    "val": "108"
-   },
-   {
-    "time": "12:45",
     "val": "117"
    },
    {
-    "time": "13:45",
-    "val": "126"
-   },
-   {
-    "time": "14:45",
-    "val": "135"
-   },
-   {
-    "time": "15:45",
-    "val": "142"
-   },
-   {
-    "time": "16:45",
-    "val": "145"
-   },
-   {
-    "time": "17:45",
-    "val": "145"
-   },
-   {
-    "time": "18:45",
-    "val": "139"
-   },
-   {
-    "time": "19:45",
+    "time": "04:45",
     "val": "129"
    },
    {
+    "time": "05:45",
+    "val": "136"
+   },
+   {
+    "time": "06:45",
+    "val": "133"
+   },
+   {
+    "time": "07:45",
+    "val": "122"
+   },
+   {
+    "time": "08:45",
+    "val": "107"
+   },
+   {
+    "time": "09:45",
+    "val": "91"
+   },
+   {
+    "time": "10:45",
+    "val": "79"
+   },
+   {
+    "time": "11:45",
+    "val": "72"
+   },
+   {
+    "time": "12:45",
+    "val": "74"
+   },
+   {
+    "time": "13:45",
+    "val": "85"
+   },
+   {
+    "time": "14:45",
+    "val": "104"
+   },
+   {
+    "time": "15:45",
+    "val": "127"
+   },
+   {
+    "time": "16:45",
+    "val": "148"
+   },
+   {
+    "time": "17:45",
+    "val": "165"
+   },
+   {
+    "time": "18:45",
+    "val": "172"
+   },
+   {
+    "time": "19:45",
+    "val": "165"
+   },
+   {
     "time": "20:45",
-    "val": "119"
+    "val": "147"
    },
    {
     "time": "21:45",
-    "val": "109"
+    "val": "122"
    },
    {
     "time": "22:45",
-    "val": "102"
+    "val": "97"
    }
   ],
   "nearestOfficialName": "통영",
   "waterTemp": "25.4",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "삽시도항",
@@ -32929,125 +32917,131 @@
   "lat": "36.35472",
   "todayEvents": [
    {
+    "type": "high",
+    "typeLabel": "만조",
+    "time": "01:00",
+    "val": "522"
+   },
+   {
     "type": "low",
     "typeLabel": "간조",
-    "time": "03:00",
-    "val": "336"
+    "time": "07:00",
+    "val": "292"
    },
    {
     "type": "high",
     "typeLabel": "만조",
-    "time": "09:00",
-    "val": "438"
+    "time": "13:00",
+    "val": "460"
    },
    {
     "type": "low",
     "typeLabel": "간조",
-    "time": "15:00",
-    "val": "258"
+    "time": "19:00",
+    "val": "224"
    }
   ],
   "todaySeries": [
    {
     "time": "00:00",
-    "val": "437"
+    "val": "521"
    },
    {
     "time": "01:00",
-    "val": "394"
+    "val": "522"
    },
    {
     "time": "02:00",
-    "val": "357"
+    "val": "499"
    },
    {
     "time": "03:00",
-    "val": "336"
+    "val": "456"
    },
    {
     "time": "04:00",
-    "val": "338"
+    "val": "403"
    },
    {
     "time": "05:00",
-    "val": "356"
+    "val": "351"
    },
    {
     "time": "06:00",
-    "val": "382"
+    "val": "311"
    },
    {
     "time": "07:00",
-    "val": "409"
+    "val": "292"
    },
    {
     "time": "08:00",
-    "val": "430"
+    "val": "297"
    },
    {
     "time": "09:00",
-    "val": "438"
-   },
-   {
-    "time": "10:00",
-    "val": "427"
-   },
-   {
-    "time": "11:00",
-    "val": "398"
-   },
-   {
-    "time": "12:00",
-    "val": "357"
-   },
-   {
-    "time": "13:00",
-    "val": "314"
-   },
-   {
-    "time": "14:00",
-    "val": "278"
-   },
-   {
-    "time": "15:00",
-    "val": "258"
-   },
-   {
-    "time": "16:00",
-    "val": "263"
-   },
-   {
-    "time": "17:00",
-    "val": "289"
-   },
-   {
-    "time": "18:00",
     "val": "329"
    },
    {
+    "time": "10:00",
+    "val": "379"
+   },
+   {
+    "time": "11:00",
+    "val": "428"
+   },
+   {
+    "time": "12:00",
+    "val": "457"
+   },
+   {
+    "time": "13:00",
+    "val": "460"
+   },
+   {
+    "time": "14:00",
+    "val": "437"
+   },
+   {
+    "time": "15:00",
+    "val": "391"
+   },
+   {
+    "time": "16:00",
+    "val": "332"
+   },
+   {
+    "time": "17:00",
+    "val": "276"
+   },
+   {
+    "time": "18:00",
+    "val": "238"
+   },
+   {
     "time": "19:00",
-    "val": "376"
+    "val": "224"
    },
    {
     "time": "20:00",
-    "val": "424"
+    "val": "242"
    },
    {
     "time": "21:00",
-    "val": "466"
+    "val": "295"
    },
    {
     "time": "22:00",
-    "val": "493"
+    "val": "375"
    },
    {
     "time": "23:00",
-    "val": "501"
+    "val": "460"
    }
   ],
   "nearestOfficialName": "보령",
-  "waterTemp": "24.7",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTemp": "24.9",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "죽도-SO_0770",
@@ -33061,125 +33055,131 @@
   "lat": "36.52222",
   "todayEvents": [
    {
+    "type": "high",
+    "typeLabel": "만조",
+    "time": "01:00",
+    "val": "558"
+   },
+   {
     "type": "low",
     "typeLabel": "간조",
-    "time": "03:00",
-    "val": "364"
+    "time": "07:00",
+    "val": "324"
    },
    {
     "type": "high",
     "typeLabel": "만조",
-    "time": "09:00",
-    "val": "470"
+    "time": "13:00",
+    "val": "490"
    },
    {
     "type": "low",
     "typeLabel": "간조",
-    "time": "15:00",
-    "val": "273"
+    "time": "19:00",
+    "val": "241"
    }
   ],
   "todaySeries": [
    {
     "time": "00:00",
-    "val": "466"
+    "val": "554"
    },
    {
     "time": "01:00",
-    "val": "420"
+    "val": "558"
    },
    {
     "time": "02:00",
-    "val": "384"
+    "val": "537"
    },
    {
     "time": "03:00",
-    "val": "364"
+    "val": "496"
    },
    {
     "time": "04:00",
-    "val": "367"
+    "val": "443"
    },
    {
     "time": "05:00",
-    "val": "388"
+    "val": "389"
    },
    {
     "time": "06:00",
-    "val": "416"
+    "val": "347"
    },
    {
     "time": "07:00",
-    "val": "444"
+    "val": "324"
    },
    {
     "time": "08:00",
-    "val": "465"
+    "val": "325"
    },
    {
     "time": "09:00",
-    "val": "470"
+    "val": "352"
    },
    {
     "time": "10:00",
-    "val": "456"
+    "val": "400"
    },
    {
     "time": "11:00",
-    "val": "423"
+    "val": "449"
    },
    {
     "time": "12:00",
-    "val": "378"
+    "val": "483"
    },
    {
     "time": "13:00",
-    "val": "331"
+    "val": "490"
    },
    {
     "time": "14:00",
-    "val": "293"
+    "val": "468"
    },
    {
     "time": "15:00",
-    "val": "273"
+    "val": "421"
    },
    {
     "time": "16:00",
-    "val": "278"
+    "val": "360"
    },
    {
     "time": "17:00",
-    "val": "307"
+    "val": "300"
    },
    {
     "time": "18:00",
-    "val": "351"
+    "val": "257"
    },
    {
     "time": "19:00",
-    "val": "403"
+    "val": "241"
    },
    {
     "time": "20:00",
-    "val": "454"
+    "val": "259"
    },
    {
     "time": "21:00",
-    "val": "498"
+    "val": "312"
    },
    {
     "time": "22:00",
-    "val": "525"
+    "val": "393"
    },
    {
     "time": "23:00",
-    "val": "533"
+    "val": "483"
    }
   ],
   "nearestOfficialName": "보령",
-  "waterTemp": "24.7",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTemp": "24.9",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "영목항-SO_0772",
@@ -33193,125 +33193,131 @@
   "lat": "36.399",
   "todayEvents": [
    {
+    "type": "high",
+    "typeLabel": "만조",
+    "time": "01:00",
+    "val": "543"
+   },
+   {
     "type": "low",
     "typeLabel": "간조",
-    "time": "03:00",
-    "val": "354"
+    "time": "07:00",
+    "val": "319"
    },
    {
     "type": "high",
     "typeLabel": "만조",
-    "time": "09:00",
-    "val": "464"
+    "time": "13:00",
+    "val": "485"
    },
    {
     "type": "low",
     "typeLabel": "간조",
-    "time": "15:00",
-    "val": "280"
+    "time": "19:00",
+    "val": "253"
    }
   ],
   "todaySeries": [
    {
     "time": "00:00",
-    "val": "459"
+    "val": "543"
    },
    {
     "time": "01:00",
-    "val": "415"
+    "val": "543"
    },
    {
     "time": "02:00",
-    "val": "377"
+    "val": "520"
    },
    {
     "time": "03:00",
-    "val": "354"
+    "val": "479"
    },
    {
     "time": "04:00",
-    "val": "355"
+    "val": "427"
    },
    {
     "time": "05:00",
-    "val": "376"
+    "val": "378"
    },
    {
     "time": "06:00",
-    "val": "404"
-   },
-   {
-    "time": "07:00",
-    "val": "431"
-   },
-   {
-    "time": "08:00",
-    "val": "452"
-   },
-   {
-    "time": "09:00",
-    "val": "464"
-   },
-   {
-    "time": "10:00",
-    "val": "456"
-   },
-   {
-    "time": "11:00",
-    "val": "426"
-   },
-   {
-    "time": "12:00",
-    "val": "384"
-   },
-   {
-    "time": "13:00",
     "val": "340"
    },
    {
-    "time": "14:00",
-    "val": "303"
+    "time": "07:00",
+    "val": "319"
    },
    {
-    "time": "15:00",
-    "val": "280"
+    "time": "08:00",
+    "val": "320"
    },
    {
-    "time": "16:00",
-    "val": "282"
-   },
-   {
-    "time": "17:00",
-    "val": "308"
-   },
-   {
-    "time": "18:00",
+    "time": "09:00",
     "val": "349"
    },
    {
+    "time": "10:00",
+    "val": "399"
+   },
+   {
+    "time": "11:00",
+    "val": "450"
+   },
+   {
+    "time": "12:00",
+    "val": "481"
+   },
+   {
+    "time": "13:00",
+    "val": "485"
+   },
+   {
+    "time": "14:00",
+    "val": "463"
+   },
+   {
+    "time": "15:00",
+    "val": "418"
+   },
+   {
+    "time": "16:00",
+    "val": "361"
+   },
+   {
+    "time": "17:00",
+    "val": "306"
+   },
+   {
+    "time": "18:00",
+    "val": "268"
+   },
+   {
     "time": "19:00",
-    "val": "395"
+    "val": "253"
    },
    {
     "time": "20:00",
-    "val": "443"
+    "val": "266"
    },
    {
     "time": "21:00",
-    "val": "488"
+    "val": "314"
    },
    {
     "time": "22:00",
-    "val": "519"
+    "val": "393"
    },
    {
     "time": "23:00",
-    "val": "526"
+    "val": "479"
    }
   ],
   "nearestOfficialName": "보령",
-  "waterTemp": "24.7",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTemp": "24.9",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "간월도",
@@ -33325,125 +33331,131 @@
   "lat": "36.60636",
   "todayEvents": [
    {
+    "type": "high",
+    "typeLabel": "만조",
+    "time": "01:00",
+    "val": "568"
+   },
+   {
     "type": "low",
     "typeLabel": "간조",
-    "time": "04:00",
-    "val": "353"
+    "time": "07:00",
+    "val": "310"
    },
    {
     "type": "high",
     "typeLabel": "만조",
-    "time": "09:00",
-    "val": "472"
+    "time": "13:00",
+    "val": "497"
    },
    {
     "type": "low",
     "typeLabel": "간조",
-    "time": "16:00",
-    "val": "276"
+    "time": "19:00",
+    "val": "237"
    }
   ],
   "todaySeries": [
    {
     "time": "00:00",
-    "val": "477"
+    "val": "563"
    },
    {
     "time": "01:00",
-    "val": "428"
+    "val": "568"
    },
    {
     "time": "02:00",
-    "val": "384"
+    "val": "547"
    },
    {
     "time": "03:00",
-    "val": "357"
+    "val": "503"
    },
    {
     "time": "04:00",
-    "val": "353"
+    "val": "445"
    },
    {
     "time": "05:00",
-    "val": "370"
+    "val": "386"
    },
    {
     "time": "06:00",
-    "val": "399"
+    "val": "338"
    },
    {
     "time": "07:00",
-    "val": "431"
+    "val": "310"
    },
    {
     "time": "08:00",
-    "val": "458"
+    "val": "312"
    },
    {
     "time": "09:00",
-    "val": "472"
-   },
-   {
-    "time": "10:00",
-    "val": "464"
-   },
-   {
-    "time": "11:00",
-    "val": "434"
-   },
-   {
-    "time": "12:00",
-    "val": "392"
-   },
-   {
-    "time": "13:00",
-    "val": "345"
-   },
-   {
-    "time": "14:00",
-    "val": "303"
-   },
-   {
-    "time": "15:00",
-    "val": "277"
-   },
-   {
-    "time": "16:00",
-    "val": "276"
-   },
-   {
-    "time": "17:00",
-    "val": "300"
-   },
-   {
-    "time": "18:00",
     "val": "342"
    },
    {
-    "time": "19:00",
+    "time": "10:00",
     "val": "394"
    },
    {
-    "time": "20:00",
+    "time": "11:00",
     "val": "449"
    },
    {
+    "time": "12:00",
+    "val": "487"
+   },
+   {
+    "time": "13:00",
+    "val": "497"
+   },
+   {
+    "time": "14:00",
+    "val": "476"
+   },
+   {
+    "time": "15:00",
+    "val": "430"
+   },
+   {
+    "time": "16:00",
+    "val": "368"
+   },
+   {
+    "time": "17:00",
+    "val": "306"
+   },
+   {
+    "time": "18:00",
+    "val": "258"
+   },
+   {
+    "time": "19:00",
+    "val": "237"
+   },
+   {
+    "time": "20:00",
+    "val": "252"
+   },
+   {
     "time": "21:00",
-    "val": "498"
+    "val": "304"
    },
    {
     "time": "22:00",
-    "val": "532"
+    "val": "387"
    },
    {
     "time": "23:00",
-    "val": "543"
+    "val": "482"
    }
   ],
   "nearestOfficialName": "보령",
-  "waterTemp": "24.7",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTemp": "24.9",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "몽산포-SO_0775",
@@ -33457,125 +33469,131 @@
   "lat": "36.66917",
   "todayEvents": [
    {
+    "type": "high",
+    "typeLabel": "만조",
+    "time": "01:00",
+    "val": "513"
+   },
+   {
     "type": "low",
     "typeLabel": "간조",
-    "time": "04:00",
-    "val": "321"
+    "time": "07:00",
+    "val": "283"
    },
    {
     "type": "high",
     "typeLabel": "만조",
-    "time": "09:00",
-    "val": "427"
+    "time": "13:00",
+    "val": "449"
    },
    {
     "type": "low",
     "typeLabel": "간조",
-    "time": "16:00",
-    "val": "252"
+    "time": "19:00",
+    "val": "217"
    }
   ],
   "todaySeries": [
    {
     "time": "00:00",
-    "val": "432"
+    "val": "509"
    },
    {
     "time": "01:00",
-    "val": "388"
+    "val": "513"
    },
    {
     "time": "02:00",
-    "val": "349"
+    "val": "494"
    },
    {
     "time": "03:00",
-    "val": "324"
+    "val": "455"
    },
    {
     "time": "04:00",
-    "val": "321"
+    "val": "403"
    },
    {
     "time": "05:00",
-    "val": "336"
+    "val": "351"
    },
    {
     "time": "06:00",
-    "val": "362"
+    "val": "307"
    },
    {
     "time": "07:00",
-    "val": "391"
+    "val": "283"
    },
    {
     "time": "08:00",
-    "val": "415"
+    "val": "284"
    },
    {
     "time": "09:00",
-    "val": "427"
+    "val": "312"
    },
    {
     "time": "10:00",
-    "val": "420"
+    "val": "358"
    },
    {
     "time": "11:00",
-    "val": "394"
-   },
-   {
-    "time": "12:00",
-    "val": "356"
-   },
-   {
-    "time": "13:00",
-    "val": "314"
-   },
-   {
-    "time": "14:00",
-    "val": "276"
-   },
-   {
-    "time": "15:00",
-    "val": "253"
-   },
-   {
-    "time": "16:00",
-    "val": "252"
-   },
-   {
-    "time": "17:00",
-    "val": "274"
-   },
-   {
-    "time": "18:00",
-    "val": "311"
-   },
-   {
-    "time": "19:00",
-    "val": "357"
-   },
-   {
-    "time": "20:00",
     "val": "407"
    },
    {
+    "time": "12:00",
+    "val": "441"
+   },
+   {
+    "time": "13:00",
+    "val": "449"
+   },
+   {
+    "time": "14:00",
+    "val": "431"
+   },
+   {
+    "time": "15:00",
+    "val": "390"
+   },
+   {
+    "time": "16:00",
+    "val": "335"
+   },
+   {
+    "time": "17:00",
+    "val": "279"
+   },
+   {
+    "time": "18:00",
+    "val": "236"
+   },
+   {
+    "time": "19:00",
+    "val": "217"
+   },
+   {
+    "time": "20:00",
+    "val": "231"
+   },
+   {
     "time": "21:00",
-    "val": "451"
+    "val": "278"
    },
    {
     "time": "22:00",
-    "val": "481"
+    "val": "352"
    },
    {
     "time": "23:00",
-    "val": "491"
+    "val": "436"
    }
   ],
   "nearestOfficialName": "안흥",
-  "waterTemp": "21.6",
-  "waterTempTime": "2026-09-20 03:04:00"
+  "waterTemp": "21.8",
+  "waterTempTime": "2026-09-23 09:16:00"
  },
  {
   "slug": "금당수도",
@@ -33589,131 +33607,131 @@
   "lat": "34.45681",
   "todayEvents": [
    {
-    "type": "high",
-    "typeLabel": "만조",
+    "type": "low",
+    "typeLabel": "간조",
     "time": "02:00",
-    "val": "211"
+    "val": "160"
    },
    {
     "type": "high",
     "typeLabel": "만조",
-    "time": "03:00",
-    "val": "211"
+    "time": "07:00",
+    "val": "242"
    },
    {
     "type": "low",
     "typeLabel": "간조",
-    "time": "10:00",
-    "val": "159"
+    "time": "13:00",
+    "val": "128"
    },
    {
     "type": "high",
     "typeLabel": "만조",
-    "time": "19:00",
-    "val": "265"
+    "time": "20:00",
+    "val": "305"
    }
   ],
   "todaySeries": [
    {
     "time": "00:00",
-    "val": "203"
+    "val": "183"
    },
    {
     "time": "01:00",
-    "val": "207"
+    "val": "165"
    },
    {
     "time": "02:00",
-    "val": "211"
+    "val": "160"
    },
    {
     "time": "03:00",
-    "val": "211"
+    "val": "169"
    },
    {
     "time": "04:00",
-    "val": "208"
+    "val": "188"
    },
    {
     "time": "05:00",
-    "val": "203"
+    "val": "213"
    },
    {
     "time": "06:00",
-    "val": "195"
+    "val": "233"
    },
    {
     "time": "07:00",
-    "val": "185"
+    "val": "242"
    },
    {
     "time": "08:00",
-    "val": "174"
+    "val": "236"
    },
    {
     "time": "09:00",
-    "val": "164"
+    "val": "216"
    },
    {
     "time": "10:00",
-    "val": "159"
+    "val": "187"
    },
    {
     "time": "11:00",
-    "val": "162"
+    "val": "159"
    },
    {
     "time": "12:00",
-    "val": "173"
+    "val": "137"
    },
    {
     "time": "13:00",
-    "val": "189"
+    "val": "128"
    },
    {
     "time": "14:00",
-    "val": "207"
+    "val": "133"
    },
    {
     "time": "15:00",
-    "val": "225"
+    "val": "154"
    },
    {
     "time": "16:00",
-    "val": "241"
+    "val": "187"
    },
    {
     "time": "17:00",
-    "val": "255"
+    "val": "228"
    },
    {
     "time": "18:00",
-    "val": "264"
+    "val": "267"
    },
    {
     "time": "19:00",
-    "val": "265"
+    "val": "295"
    },
    {
     "time": "20:00",
-    "val": "257"
+    "val": "305"
    },
    {
     "time": "21:00",
-    "val": "241"
+    "val": "294"
    },
    {
     "time": "22:00",
-    "val": "221"
+    "val": "265"
    },
    {
     "time": "23:00",
-    "val": "201"
+    "val": "226"
    }
   ],
   "nearestOfficialName": "고흥발포",
-  "waterTemp": "25.8",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTemp": "25.7",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "수룡항포구-SO_0776",
@@ -33727,125 +33745,131 @@
   "lat": "36.51872",
   "todayEvents": [
    {
+    "type": "high",
+    "typeLabel": "만조",
+    "time": "01:03",
+    "val": "564"
+   },
+   {
     "type": "low",
     "typeLabel": "간조",
-    "time": "03:03",
-    "val": "368"
+    "time": "07:03",
+    "val": "331"
    },
    {
     "type": "high",
     "typeLabel": "만조",
-    "time": "09:03",
-    "val": "482"
+    "time": "13:03",
+    "val": "504"
    },
    {
     "type": "low",
     "typeLabel": "간조",
-    "time": "15:03",
-    "val": "290"
+    "time": "19:03",
+    "val": "262"
    }
   ],
   "todaySeries": [
    {
     "time": "00:03",
-    "val": "477"
+    "val": "564"
    },
    {
     "time": "01:03",
-    "val": "431"
+    "val": "564"
    },
    {
     "time": "02:03",
-    "val": "391"
+    "val": "541"
    },
    {
     "time": "03:03",
-    "val": "368"
+    "val": "498"
    },
    {
     "time": "04:03",
-    "val": "369"
+    "val": "443"
    },
    {
     "time": "05:03",
-    "val": "391"
+    "val": "392"
    },
    {
     "time": "06:03",
-    "val": "420"
-   },
-   {
-    "time": "07:03",
-    "val": "447"
-   },
-   {
-    "time": "08:03",
-    "val": "470"
-   },
-   {
-    "time": "09:03",
-    "val": "482"
-   },
-   {
-    "time": "10:03",
-    "val": "473"
-   },
-   {
-    "time": "11:03",
-    "val": "442"
-   },
-   {
-    "time": "12:03",
-    "val": "398"
-   },
-   {
-    "time": "13:03",
     "val": "353"
    },
    {
-    "time": "14:03",
-    "val": "314"
+    "time": "07:03",
+    "val": "331"
    },
    {
-    "time": "15:03",
-    "val": "290"
+    "time": "08:03",
+    "val": "332"
    },
    {
-    "time": "16:03",
-    "val": "292"
-   },
-   {
-    "time": "17:03",
-    "val": "319"
-   },
-   {
-    "time": "18:03",
+    "time": "09:03",
     "val": "362"
    },
    {
+    "time": "10:03",
+    "val": "414"
+   },
+   {
+    "time": "11:03",
+    "val": "467"
+   },
+   {
+    "time": "12:03",
+    "val": "500"
+   },
+   {
+    "time": "13:03",
+    "val": "504"
+   },
+   {
+    "time": "14:03",
+    "val": "481"
+   },
+   {
+    "time": "15:03",
+    "val": "434"
+   },
+   {
+    "time": "16:03",
+    "val": "374"
+   },
+   {
+    "time": "17:03",
+    "val": "317"
+   },
+   {
+    "time": "18:03",
+    "val": "278"
+   },
+   {
     "time": "19:03",
-    "val": "410"
+    "val": "262"
    },
    {
     "time": "20:03",
-    "val": "461"
+    "val": "276"
    },
    {
     "time": "21:03",
-    "val": "507"
+    "val": "326"
    },
    {
     "time": "22:03",
-    "val": "539"
+    "val": "408"
    },
    {
     "time": "23:03",
-    "val": "547"
+    "val": "498"
    }
   ],
   "nearestOfficialName": "보령",
-  "waterTemp": "24.7",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTemp": "24.9",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "외병도",
@@ -33861,129 +33885,123 @@
    {
     "type": "low",
     "typeLabel": "간조",
-    "time": "02:00",
-    "val": "191"
+    "time": "04:00",
+    "val": "160"
    },
    {
     "type": "high",
     "typeLabel": "만조",
-    "time": "07:00",
-    "val": "223"
+    "time": "10:00",
+    "val": "239"
    },
    {
     "type": "low",
     "typeLabel": "간조",
-    "time": "13:00",
-    "val": "140"
-   },
-   {
-    "type": "high",
-    "typeLabel": "만조",
-    "time": "21:00",
-    "val": "289"
+    "time": "16:00",
+    "val": "118"
    }
   ],
   "todaySeries": [
    {
     "time": "00:00",
-    "val": "206"
+    "val": "265"
    },
    {
     "time": "01:00",
-    "val": "195"
+    "val": "235"
    },
    {
     "time": "02:00",
-    "val": "191"
+    "val": "203"
    },
    {
     "time": "03:00",
-    "val": "194"
+    "val": "175"
    },
    {
     "time": "04:00",
-    "val": "201"
+    "val": "160"
    },
    {
     "time": "05:00",
-    "val": "212"
+    "val": "162"
    },
    {
     "time": "06:00",
-    "val": "221"
+    "val": "179"
    },
    {
     "time": "07:00",
-    "val": "223"
+    "val": "202"
    },
    {
     "time": "08:00",
-    "val": "214"
+    "val": "224"
    },
    {
     "time": "09:00",
-    "val": "196"
+    "val": "237"
    },
    {
     "time": "10:00",
-    "val": "174"
+    "val": "239"
    },
    {
     "time": "11:00",
-    "val": "154"
+    "val": "227"
    },
    {
     "time": "12:00",
-    "val": "142"
+    "val": "203"
    },
    {
     "time": "13:00",
-    "val": "140"
+    "val": "174"
    },
    {
     "time": "14:00",
-    "val": "148"
+    "val": "146"
    },
    {
     "time": "15:00",
-    "val": "164"
+    "val": "124"
    },
    {
     "time": "16:00",
-    "val": "189"
+    "val": "118"
    },
    {
     "time": "17:00",
-    "val": "218"
+    "val": "133"
    },
    {
     "time": "18:00",
-    "val": "249"
+    "val": "167"
    },
    {
     "time": "19:00",
-    "val": "273"
+    "val": "211"
    },
    {
     "time": "20:00",
-    "val": "288"
+    "val": "253"
    },
    {
     "time": "21:00",
-    "val": "289"
+    "val": "287"
    },
    {
     "time": "22:00",
-    "val": "278"
+    "val": "307"
    },
    {
     "time": "23:00",
-    "val": "258"
+    "val": "309"
    }
   ],
   "nearestOfficialName": "서거차도",
-  "waterTemp": "23.6",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTemp": "23.2",
+  "waterTempTime": "2026-09-23 09:16:00"
  },
  {
   "slug": "상왕등도1day",
@@ -33999,124 +34017,118 @@
    {
     "type": "low",
     "typeLabel": "간조",
-    "time": "02:59",
-    "val": "291"
+    "time": "06:59",
+    "val": "263"
    },
    {
     "type": "high",
     "typeLabel": "만조",
-    "time": "07:59",
-    "val": "393"
+    "time": "11:59",
+    "val": "407"
    },
    {
     "type": "low",
     "typeLabel": "간조",
-    "time": "14:59",
-    "val": "224"
-   },
-   {
-    "type": "high",
-    "typeLabel": "만조",
-    "time": "21:59",
-    "val": "444"
+    "time": "17:59",
+    "val": "207"
    }
   ],
   "todaySeries": [
    {
     "time": "23:59",
-    "val": "363"
+    "val": "462"
    },
    {
     "time": "00:59",
-    "val": "325"
+    "val": "449"
    },
    {
     "time": "01:59",
-    "val": "299"
+    "val": "417"
    },
    {
     "time": "02:59",
-    "val": "291"
+    "val": "372"
    },
    {
     "time": "03:59",
-    "val": "302"
+    "val": "326"
    },
    {
     "time": "04:59",
-    "val": "324"
+    "val": "288"
    },
    {
     "time": "05:59",
-    "val": "351"
+    "val": "265"
    },
    {
     "time": "06:59",
-    "val": "377"
+    "val": "263"
    },
    {
     "time": "07:59",
-    "val": "393"
+    "val": "284"
    },
    {
     "time": "08:59",
-    "val": "390"
+    "val": "322"
    },
    {
     "time": "09:59",
-    "val": "367"
+    "val": "364"
    },
    {
     "time": "10:59",
-    "val": "333"
+    "val": "395"
    },
    {
     "time": "11:59",
-    "val": "294"
+    "val": "407"
    },
    {
     "time": "12:59",
-    "val": "257"
+    "val": "395"
    },
    {
     "time": "13:59",
-    "val": "231"
+    "val": "362"
    },
    {
     "time": "14:59",
-    "val": "224"
+    "val": "314"
    },
    {
     "time": "15:59",
-    "val": "239"
+    "val": "264"
    },
    {
     "time": "16:59",
-    "val": "271"
+    "val": "226"
    },
    {
     "time": "17:59",
-    "val": "312"
+    "val": "207"
    },
    {
     "time": "18:59",
-    "val": "358"
+    "val": "213"
    },
    {
     "time": "19:59",
-    "val": "401"
+    "val": "248"
    },
    {
     "time": "20:59",
-    "val": "431"
+    "val": "308"
    },
    {
     "time": "21:59",
-    "val": "444"
+    "val": "379"
    },
    {
     "time": "22:59",
-    "val": "439"
+    "val": "442"
    }
   ],
   "nearestOfficialName": "위도"
@@ -34135,129 +34147,123 @@
    {
     "type": "low",
     "typeLabel": "간조",
-    "time": "01:55",
-    "val": "202"
+    "time": "04:55",
+    "val": "168"
    },
    {
     "type": "high",
     "typeLabel": "만조",
-    "time": "06:55",
-    "val": "249"
+    "time": "09:55",
+    "val": "258"
    },
    {
     "type": "low",
     "typeLabel": "간조",
-    "time": "12:55",
-    "val": "149"
-   },
-   {
-    "type": "high",
-    "typeLabel": "만조",
-    "time": "20:55",
-    "val": "304"
+    "time": "15:55",
+    "val": "127"
    }
   ],
   "todaySeries": [
    {
     "time": "23:55",
-    "val": "220"
+    "val": "295"
    },
    {
     "time": "00:55",
-    "val": "207"
+    "val": "268"
    },
    {
     "time": "01:55",
-    "val": "202"
+    "val": "235"
    },
    {
     "time": "02:55",
-    "val": "203"
+    "val": "201"
    },
    {
     "time": "03:55",
-    "val": "211"
+    "val": "176"
    },
    {
     "time": "04:55",
-    "val": "226"
+    "val": "168"
    },
    {
     "time": "05:55",
-    "val": "241"
+    "val": "179"
    },
    {
     "time": "06:55",
-    "val": "249"
+    "val": "203"
    },
    {
     "time": "07:55",
-    "val": "245"
+    "val": "228"
    },
    {
     "time": "08:55",
-    "val": "227"
+    "val": "248"
    },
    {
     "time": "09:55",
-    "val": "202"
+    "val": "258"
    },
    {
     "time": "10:55",
-    "val": "175"
+    "val": "255"
    },
    {
     "time": "11:55",
-    "val": "156"
+    "val": "237"
    },
    {
     "time": "12:55",
-    "val": "149"
+    "val": "208"
    },
    {
     "time": "13:55",
-    "val": "152"
+    "val": "175"
    },
    {
     "time": "14:55",
-    "val": "164"
+    "val": "146"
    },
    {
     "time": "15:55",
-    "val": "185"
+    "val": "127"
    },
    {
     "time": "16:55",
-    "val": "214"
+    "val": "130"
    },
    {
     "time": "17:55",
-    "val": "247"
+    "val": "155"
    },
    {
     "time": "18:55",
-    "val": "277"
+    "val": "195"
    },
    {
     "time": "19:55",
-    "val": "297"
+    "val": "238"
    },
    {
     "time": "20:55",
-    "val": "304"
+    "val": "278"
    },
    {
     "time": "21:55",
-    "val": "298"
+    "val": "309"
    },
    {
     "time": "22:55",
-    "val": "281"
+    "val": "326"
    }
   ],
   "nearestOfficialName": "서거차도",
-  "waterTemp": "23.6",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTemp": "23.2",
+  "waterTempTime": "2026-09-23 09:16:00"
  },
  {
   "slug": "대령도1day",
@@ -34271,125 +34277,131 @@
   "lat": "36.61",
   "todayEvents": [
    {
+    "type": "high",
+    "typeLabel": "만조",
+    "time": "01:04",
+    "val": "351"
+   },
+   {
     "type": "low",
     "typeLabel": "간조",
-    "time": "04:04",
-    "val": "233"
+    "time": "08:04",
+    "val": "204"
    },
    {
     "type": "high",
     "typeLabel": "만조",
-    "time": "09:04",
-    "val": "294"
+    "time": "13:04",
+    "val": "309"
    },
    {
     "type": "low",
     "typeLabel": "간조",
-    "time": "16:04",
-    "val": "181"
+    "time": "19:04",
+    "val": "159"
    }
   ],
   "todaySeries": [
    {
     "time": "00:04",
-    "val": "307"
+    "val": "343"
    },
    {
     "time": "01:04",
-    "val": "279"
+    "val": "351"
    },
    {
     "time": "02:04",
-    "val": "254"
+    "val": "343"
    },
    {
     "time": "03:04",
-    "val": "237"
+    "val": "322"
    },
    {
     "time": "04:04",
-    "val": "233"
-   },
-   {
-    "time": "05:04",
-    "val": "239"
-   },
-   {
-    "time": "06:04",
-    "val": "253"
-   },
-   {
-    "time": "07:04",
-    "val": "270"
-   },
-   {
-    "time": "08:04",
-    "val": "285"
-   },
-   {
-    "time": "09:04",
-    "val": "294"
-   },
-   {
-    "time": "10:04",
     "val": "291"
    },
    {
-    "time": "11:04",
-    "val": "277"
+    "time": "05:04",
+    "val": "256"
    },
    {
-    "time": "12:04",
-    "val": "253"
-   },
-   {
-    "time": "13:04",
+    "time": "06:04",
     "val": "226"
    },
    {
-    "time": "14:04",
-    "val": "201"
+    "time": "07:04",
+    "val": "207"
    },
    {
-    "time": "15:04",
-    "val": "184"
+    "time": "08:04",
+    "val": "204"
    },
    {
-    "time": "16:04",
-    "val": "181"
+    "time": "09:04",
+    "val": "217"
    },
    {
-    "time": "17:04",
-    "val": "191"
+    "time": "10:04",
+    "val": "244"
    },
    {
-    "time": "18:04",
-    "val": "212"
-   },
-   {
-    "time": "19:04",
-    "val": "242"
-   },
-   {
-    "time": "20:04",
+    "time": "11:04",
     "val": "274"
    },
    {
+    "time": "12:04",
+    "val": "299"
+   },
+   {
+    "time": "13:04",
+    "val": "309"
+   },
+   {
+    "time": "14:04",
+    "val": "302"
+   },
+   {
+    "time": "15:04",
+    "val": "279"
+   },
+   {
+    "time": "16:04",
+    "val": "245"
+   },
+   {
+    "time": "17:04",
+    "val": "207"
+   },
+   {
+    "time": "18:04",
+    "val": "175"
+   },
+   {
+    "time": "19:04",
+    "val": "159"
+   },
+   {
+    "time": "20:04",
+    "val": "164"
+   },
+   {
     "time": "21:04",
-    "val": "304"
+    "val": "191"
    },
    {
     "time": "22:04",
-    "val": "325"
+    "val": "236"
    },
    {
     "time": "23:04",
-    "val": "336"
+    "val": "288"
    }
   ],
   "nearestOfficialName": "어청도",
-  "waterTemp": "22.3",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTemp": "23.6",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "홍도항",
@@ -34405,135 +34417,123 @@
    {
     "type": "low",
     "typeLabel": "간조",
-    "time": "02:00",
-    "val": "175"
-   },
-   {
-    "type": "low",
-    "typeLabel": "간조",
-    "time": "03:00",
-    "val": "175"
+    "time": "05:00",
+    "val": "150"
    },
    {
     "type": "high",
     "typeLabel": "만조",
-    "time": "07:00",
-    "val": "220"
+    "time": "11:00",
+    "val": "231"
    },
    {
     "type": "low",
     "typeLabel": "간조",
-    "time": "14:00",
-    "val": "130"
-   },
-   {
-    "type": "high",
-    "typeLabel": "만조",
-    "time": "21:00",
-    "val": "261"
+    "time": "17:00",
+    "val": "111"
    }
   ],
   "todaySeries": [
    {
     "time": "00:00",
-    "val": "197"
-   },
-   {
-    "time": "01:00",
-    "val": "182"
-   },
-   {
-    "time": "02:00",
-    "val": "175"
-   },
-   {
-    "time": "03:00",
-    "val": "175"
-   },
-   {
-    "time": "04:00",
-    "val": "183"
-   },
-   {
-    "time": "05:00",
-    "val": "197"
-   },
-   {
-    "time": "06:00",
-    "val": "211"
-   },
-   {
-    "time": "07:00",
-    "val": "220"
-   },
-   {
-    "time": "08:00",
-    "val": "219"
-   },
-   {
-    "time": "09:00",
-    "val": "208"
-   },
-   {
-    "time": "10:00",
-    "val": "189"
-   },
-   {
-    "time": "11:00",
-    "val": "167"
-   },
-   {
-    "time": "12:00",
-    "val": "147"
-   },
-   {
-    "time": "13:00",
-    "val": "134"
-   },
-   {
-    "time": "14:00",
-    "val": "130"
-   },
-   {
-    "time": "15:00",
-    "val": "135"
-   },
-   {
-    "time": "16:00",
-    "val": "151"
-   },
-   {
-    "time": "17:00",
-    "val": "175"
-   },
-   {
-    "time": "18:00",
-    "val": "204"
-   },
-   {
-    "time": "19:00",
-    "val": "230"
-   },
-   {
-    "time": "20:00",
-    "val": "251"
-   },
-   {
-    "time": "21:00",
     "val": "261"
    },
    {
+    "time": "01:00",
+    "val": "240"
+   },
+   {
+    "time": "02:00",
+    "val": "212"
+   },
+   {
+    "time": "03:00",
+    "val": "183"
+   },
+   {
+    "time": "04:00",
+    "val": "160"
+   },
+   {
+    "time": "05:00",
+    "val": "150"
+   },
+   {
+    "time": "06:00",
+    "val": "155"
+   },
+   {
+    "time": "07:00",
+    "val": "172"
+   },
+   {
+    "time": "08:00",
+    "val": "194"
+   },
+   {
+    "time": "09:00",
+    "val": "215"
+   },
+   {
+    "time": "10:00",
+    "val": "228"
+   },
+   {
+    "time": "11:00",
+    "val": "231"
+   },
+   {
+    "time": "12:00",
+    "val": "220"
+   },
+   {
+    "time": "13:00",
+    "val": "198"
+   },
+   {
+    "time": "14:00",
+    "val": "168"
+   },
+   {
+    "time": "15:00",
+    "val": "139"
+   },
+   {
+    "time": "16:00",
+    "val": "118"
+   },
+   {
+    "time": "17:00",
+    "val": "111"
+   },
+   {
+    "time": "18:00",
+    "val": "123"
+   },
+   {
+    "time": "19:00",
+    "val": "150"
+   },
+   {
+    "time": "20:00",
+    "val": "187"
+   },
+   {
+    "time": "21:00",
+    "val": "226"
+   },
+   {
     "time": "22:00",
-    "val": "260"
+    "val": "259"
    },
    {
     "time": "23:00",
-    "val": "249"
+    "val": "280"
    }
   ],
   "nearestOfficialName": "흑산도",
-  "waterTemp": "24.0",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTemp": "23.3",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "소안항",
@@ -34549,135 +34549,129 @@
    {
     "type": "low",
     "typeLabel": "간조",
-    "time": "01:00",
-    "val": "198"
-   },
-   {
-    "type": "high",
-    "typeLabel": "만조",
     "time": "03:00",
-    "val": "201"
+    "val": "161"
    },
    {
     "type": "high",
     "typeLabel": "만조",
-    "time": "04:00",
-    "val": "201"
+    "time": "08:00",
+    "val": "231"
    },
    {
     "type": "low",
     "typeLabel": "간조",
-    "time": "11:00",
-    "val": "153"
+    "time": "14:00",
+    "val": "125"
    },
    {
     "type": "high",
     "typeLabel": "만조",
-    "time": "19:00",
-    "val": "272"
+    "time": "21:00",
+    "val": "300"
    }
   ],
   "todaySeries": [
    {
     "time": "00:00",
-    "val": "200"
+    "val": "207"
    },
    {
     "time": "01:00",
-    "val": "198"
+    "val": "182"
    },
    {
     "time": "02:00",
-    "val": "199"
-   },
-   {
-    "time": "03:00",
-    "val": "201"
-   },
-   {
-    "time": "04:00",
-    "val": "201"
-   },
-   {
-    "time": "05:00",
-    "val": "200"
-   },
-   {
-    "time": "06:00",
-    "val": "197"
-   },
-   {
-    "time": "07:00",
-    "val": "190"
-   },
-   {
-    "time": "08:00",
-    "val": "178"
-   },
-   {
-    "time": "09:00",
     "val": "165"
    },
    {
+    "time": "03:00",
+    "val": "161"
+   },
+   {
+    "time": "04:00",
+    "val": "171"
+   },
+   {
+    "time": "05:00",
+    "val": "189"
+   },
+   {
+    "time": "06:00",
+    "val": "211"
+   },
+   {
+    "time": "07:00",
+    "val": "226"
+   },
+   {
+    "time": "08:00",
+    "val": "231"
+   },
+   {
+    "time": "09:00",
+    "val": "222"
+   },
+   {
     "time": "10:00",
-    "val": "156"
+    "val": "202"
    },
    {
     "time": "11:00",
-    "val": "153"
+    "val": "177"
    },
    {
     "time": "12:00",
-    "val": "157"
+    "val": "152"
    },
    {
     "time": "13:00",
-    "val": "167"
+    "val": "133"
    },
    {
     "time": "14:00",
-    "val": "184"
+    "val": "125"
    },
    {
     "time": "15:00",
-    "val": "205"
+    "val": "134"
    },
    {
     "time": "16:00",
-    "val": "227"
+    "val": "160"
    },
    {
     "time": "17:00",
-    "val": "247"
+    "val": "198"
    },
    {
     "time": "18:00",
-    "val": "264"
+    "val": "240"
    },
    {
     "time": "19:00",
-    "val": "272"
+    "val": "275"
    },
    {
     "time": "20:00",
-    "val": "270"
+    "val": "297"
    },
    {
     "time": "21:00",
-    "val": "258"
+    "val": "300"
    },
    {
     "time": "22:00",
-    "val": "239"
+    "val": "285"
    },
    {
     "time": "23:00",
-    "val": "219"
+    "val": "256"
    }
   ],
   "nearestOfficialName": "완도",
   "waterTemp": "25.6",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "시산항",
@@ -34691,125 +34685,131 @@
   "lat": "34.39444",
   "todayEvents": [
    {
-    "type": "high",
-    "typeLabel": "만조",
-    "time": "02:00",
-    "val": "209"
-   },
-   {
     "type": "low",
     "typeLabel": "간조",
-    "time": "10:00",
+    "time": "02:00",
     "val": "164"
    },
    {
     "type": "high",
     "typeLabel": "만조",
-    "time": "18:00",
-    "val": "268"
+    "time": "07:00",
+    "val": "239"
+   },
+   {
+    "type": "low",
+    "typeLabel": "간조",
+    "time": "13:00",
+    "val": "134"
+   },
+   {
+    "type": "high",
+    "typeLabel": "만조",
+    "time": "20:00",
+    "val": "307"
    }
   ],
   "todaySeries": [
    {
     "time": "00:00",
-    "val": "206"
-   },
-   {
-    "time": "01:00",
-    "val": "208"
-   },
-   {
-    "time": "02:00",
-    "val": "209"
-   },
-   {
-    "time": "03:00",
-    "val": "208"
-   },
-   {
-    "time": "04:00",
-    "val": "204"
-   },
-   {
-    "time": "05:00",
-    "val": "198"
-   },
-   {
-    "time": "06:00",
-    "val": "190"
-   },
-   {
-    "time": "07:00",
     "val": "182"
    },
    {
-    "time": "08:00",
-    "val": "173"
-   },
-   {
-    "time": "09:00",
+    "time": "01:00",
     "val": "166"
    },
    {
-    "time": "10:00",
+    "time": "02:00",
     "val": "164"
    },
    {
+    "time": "03:00",
+    "val": "175"
+   },
+   {
+    "time": "04:00",
+    "val": "194"
+   },
+   {
+    "time": "05:00",
+    "val": "216"
+   },
+   {
+    "time": "06:00",
+    "val": "233"
+   },
+   {
+    "time": "07:00",
+    "val": "239"
+   },
+   {
+    "time": "08:00",
+    "val": "231"
+   },
+   {
+    "time": "09:00",
+    "val": "211"
+   },
+   {
+    "time": "10:00",
+    "val": "185"
+   },
+   {
     "time": "11:00",
-    "val": "169"
+    "val": "159"
    },
    {
     "time": "12:00",
-    "val": "180"
+    "val": "140"
    },
    {
     "time": "13:00",
-    "val": "195"
+    "val": "134"
    },
    {
     "time": "14:00",
-    "val": "214"
+    "val": "143"
    },
    {
     "time": "15:00",
-    "val": "232"
+    "val": "167"
    },
    {
     "time": "16:00",
-    "val": "249"
+    "val": "202"
    },
    {
     "time": "17:00",
-    "val": "261"
+    "val": "243"
    },
    {
     "time": "18:00",
-    "val": "268"
+    "val": "279"
    },
    {
     "time": "19:00",
-    "val": "267"
+    "val": "302"
    },
    {
     "time": "20:00",
-    "val": "257"
+    "val": "307"
    },
    {
     "time": "21:00",
-    "val": "240"
+    "val": "292"
    },
    {
     "time": "22:00",
-    "val": "221"
+    "val": "260"
    },
    {
     "time": "23:00",
-    "val": "203"
+    "val": "220"
    }
   ],
   "nearestOfficialName": "고흥발포",
-  "waterTemp": "25.8",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTemp": "25.7",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "봉우항",
@@ -34823,131 +34823,137 @@
   "lat": "34.93278",
   "todayEvents": [
    {
-    "type": "high",
-    "typeLabel": "만조",
+    "type": "low",
+    "typeLabel": "간조",
     "time": "01:00",
-    "val": "197"
+    "val": "145"
    },
    {
     "type": "high",
     "typeLabel": "만조",
-    "time": "02:00",
-    "val": "197"
+    "time": "07:00",
+    "val": "224"
    },
    {
     "type": "low",
     "typeLabel": "간조",
-    "time": "08:00",
-    "val": "161"
+    "time": "12:00",
+    "val": "129"
+   },
+   {
+    "type": "low",
+    "typeLabel": "간조",
+    "time": "13:00",
+    "val": "129"
    },
    {
     "type": "high",
     "typeLabel": "만조",
-    "time": "18:00",
-    "val": "238"
+    "time": "19:00",
+    "val": "280"
    }
   ],
   "todaySeries": [
    {
     "time": "00:00",
-    "val": "194"
+    "val": "154"
    },
    {
     "time": "01:00",
-    "val": "197"
+    "val": "145"
    },
    {
     "time": "02:00",
-    "val": "197"
+    "val": "152"
    },
    {
     "time": "03:00",
-    "val": "193"
+    "val": "169"
    },
    {
     "time": "04:00",
-    "val": "188"
+    "val": "190"
    },
    {
     "time": "05:00",
-    "val": "181"
+    "val": "210"
    },
    {
     "time": "06:00",
-    "val": "173"
-   },
-   {
-    "time": "07:00",
-    "val": "165"
-   },
-   {
-    "time": "08:00",
-    "val": "161"
-   },
-   {
-    "time": "09:00",
-    "val": "162"
-   },
-   {
-    "time": "10:00",
-    "val": "164"
-   },
-   {
-    "time": "11:00",
-    "val": "170"
-   },
-   {
-    "time": "12:00",
-    "val": "181"
-   },
-   {
-    "time": "13:00",
-    "val": "195"
-   },
-   {
-    "time": "14:00",
-    "val": "208"
-   },
-   {
-    "time": "15:00",
-    "val": "219"
-   },
-   {
-    "time": "16:00",
-    "val": "229"
-   },
-   {
-    "time": "17:00",
-    "val": "237"
-   },
-   {
-    "time": "18:00",
-    "val": "238"
-   },
-   {
-    "time": "19:00",
-    "val": "233"
-   },
-   {
-    "time": "20:00",
     "val": "223"
    },
    {
+    "time": "07:00",
+    "val": "224"
+   },
+   {
+    "time": "08:00",
+    "val": "211"
+   },
+   {
+    "time": "09:00",
+    "val": "190"
+   },
+   {
+    "time": "10:00",
+    "val": "166"
+   },
+   {
+    "time": "11:00",
+    "val": "144"
+   },
+   {
+    "time": "12:00",
+    "val": "129"
+   },
+   {
+    "time": "13:00",
+    "val": "129"
+   },
+   {
+    "time": "14:00",
+    "val": "143"
+   },
+   {
+    "time": "15:00",
+    "val": "170"
+   },
+   {
+    "time": "16:00",
+    "val": "202"
+   },
+   {
+    "time": "17:00",
+    "val": "236"
+   },
+   {
+    "time": "18:00",
+    "val": "264"
+   },
+   {
+    "time": "19:00",
+    "val": "280"
+   },
+   {
+    "time": "20:00",
+    "val": "278"
+   },
+   {
     "time": "21:00",
-    "val": "209"
+    "val": "256"
    },
    {
     "time": "22:00",
-    "val": "193"
+    "val": "222"
    },
    {
     "time": "23:00",
-    "val": "179"
+    "val": "181"
    }
   ],
   "nearestOfficialName": "삼천포",
-  "waterTemp": "26.5",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTemp": "26.3",
+  "waterTempTime": "2026-09-23 09:16:00"
  },
  {
   "slug": "백령도1day",
@@ -34961,120 +34967,138 @@
   "lat": "37.62694",
   "todayEvents": [
    {
-    "type": "low",
-    "typeLabel": "간조",
-    "time": "08:01",
-    "val": "128"
+    "type": "high",
+    "typeLabel": "만조",
+    "time": "03:01",
+    "val": "183"
    },
    {
     "type": "high",
     "typeLabel": "만조",
-    "time": "11:01",
-    "val": "134"
+    "time": "04:01",
+    "val": "183"
    },
    {
     "type": "low",
     "typeLabel": "간조",
-    "time": "18:01",
-    "val": "92"
+    "time": "10:01",
+    "val": "105"
+   },
+   {
+    "type": "low",
+    "typeLabel": "간조",
+    "time": "11:01",
+    "val": "105"
+   },
+   {
+    "type": "high",
+    "typeLabel": "만조",
+    "time": "15:01",
+    "val": "140"
+   },
+   {
+    "type": "low",
+    "typeLabel": "간조",
+    "time": "21:01",
+    "val": "84"
    }
   ],
   "todaySeries": [
    {
     "time": "00:01",
-    "val": "177"
+    "val": "140"
    },
    {
     "time": "01:01",
-    "val": "176"
+    "val": "159"
    },
    {
     "time": "02:01",
-    "val": "170"
+    "val": "174"
    },
    {
     "time": "03:01",
-    "val": "161"
+    "val": "183"
    },
    {
     "time": "04:01",
-    "val": "149"
+    "val": "183"
    },
    {
     "time": "05:01",
-    "val": "139"
+    "val": "175"
    },
    {
     "time": "06:01",
-    "val": "132"
+    "val": "161"
    },
    {
     "time": "07:01",
-    "val": "129"
+    "val": "143"
    },
    {
     "time": "08:01",
-    "val": "128"
+    "val": "126"
    },
    {
     "time": "09:01",
-    "val": "130"
+    "val": "113"
    },
    {
     "time": "10:01",
-    "val": "132"
-   },
-   {
-    "time": "11:01",
-    "val": "134"
-   },
-   {
-    "time": "12:01",
-    "val": "132"
-   },
-   {
-    "time": "13:01",
-    "val": "127"
-   },
-   {
-    "time": "14:01",
-    "val": "119"
-   },
-   {
-    "time": "15:01",
-    "val": "110"
-   },
-   {
-    "time": "16:01",
-    "val": "100"
-   },
-   {
-    "time": "17:01",
-    "val": "94"
-   },
-   {
-    "time": "18:01",
-    "val": "92"
-   },
-   {
-    "time": "19:01",
-    "val": "96"
-   },
-   {
-    "time": "20:01",
     "val": "105"
    },
    {
-    "time": "21:01",
-    "val": "118"
+    "time": "11:01",
+    "val": "105"
    },
    {
-    "time": "22:01",
+    "time": "12:01",
+    "val": "112"
+   },
+   {
+    "time": "13:01",
+    "val": "123"
+   },
+   {
+    "time": "14:01",
+    "val": "134"
+   },
+   {
+    "time": "15:01",
+    "val": "140"
+   },
+   {
+    "time": "16:01",
+    "val": "139"
+   },
+   {
+    "time": "17:01",
     "val": "132"
    },
    {
+    "time": "18:01",
+    "val": "119"
+   },
+   {
+    "time": "19:01",
+    "val": "104"
+   },
+   {
+    "time": "20:01",
+    "val": "91"
+   },
+   {
+    "time": "21:01",
+    "val": "84"
+   },
+   {
+    "time": "22:01",
+    "val": "85"
+   },
+   {
     "time": "23:01",
-    "val": "148"
+    "val": "95"
    }
   ],
   "nearestOfficialName": "대청도"

@@ -265,8 +265,8 @@
   "yrMaxDt": "2023-08-04 06:50",
   "yrMin": "-61.0",
   "yrMinDt": "2023-01-24 12:54",
-  "waterTemp": "24.7",
-  "waterTempTime": "2026-09-21 03:16:00"
+  "waterTemp": "24.5",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "평택",
@@ -534,8 +534,8 @@
   "yrMaxDt": "2020-10-18 17:29",
   "yrMin": "-21.0",
   "yrMinDt": "2020-03-11 12:14",
-  "waterTemp": "24.7",
-  "waterTempTime": "2026-09-21 03:16:00"
+  "waterTemp": "24.6",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "영광",
@@ -1076,8 +1076,8 @@
   "yrMaxDt": "2013-07-23 23:57",
   "yrMin": "-10.0",
   "yrMinDt": "2013-12-05 06:05",
-  "waterTemp": "25.0",
-  "waterTempTime": "2026-09-21 03:16:00"
+  "waterTemp": "25.6",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "부산",
@@ -1345,8 +1345,8 @@
   "yrMaxDt": "2010-09-07 20:03",
   "yrMin": "-14.0",
   "yrMinDt": "2010-03-30 15:07",
-  "waterTemp": "24.7",
-  "waterTempTime": "2026-09-21 03:16:00"
+  "waterTemp": "24.6",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "묵호",
@@ -1596,8 +1596,8 @@
   "yrMaxDt": "2014-08-11 14:51",
   "yrMin": "-12.0",
   "yrMinDt": "2014-02-15 10:00",
-  "waterTemp": "23.4",
-  "waterTempTime": "2026-09-21 03:16:00"
+  "waterTemp": "23.7",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "목포",
@@ -1865,8 +1865,8 @@
   "yrMaxDt": "2005-07-23 03:42",
   "yrMin": "-94.0",
   "yrMinDt": "2005-02-10 08:15",
-  "waterTemp": "25.4",
-  "waterTempTime": "2026-09-21 03:16:00"
+  "waterTemp": "25.2",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "안산",
@@ -2134,8 +2134,8 @@
   "yrMaxDt": "2026-07-17 06:40",
   "yrMin": "-21.0",
   "yrMinDt": "2026-01-05 12:04",
-  "waterTemp": "24.6",
-  "waterTempTime": "2026-09-21 03:16:00"
+  "waterTemp": "25.0",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "서귀포",
@@ -2398,7 +2398,7 @@
   "yrMin": "-11.0",
   "yrMinDt": "2009-02-11 04:49",
   "waterTemp": "25.8",
-  "waterTempTime": "2026-09-21 03:16:00"
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "후포",
@@ -2636,8 +2636,8 @@
   "yrMaxDt": "2026-07-15 14:37",
   "yrMin": "-11.0",
   "yrMinDt": "2026-02-26 05:34",
-  "waterTemp": "24.4",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTemp": "24.2",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "속초",
@@ -2888,7 +2888,7 @@
   "yrMin": "-8.0",
   "yrMinDt": "2023-03-05 09:02",
   "waterTemp": "22.7",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "울릉도",
@@ -3126,8 +3126,8 @@
   "yrMaxDt": "2020-01-08 00:09",
   "yrMin": "-1.0",
   "yrMinDt": "2020-12-01 10:00",
-  "waterTemp": "24.5",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTemp": "24.4",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "통영",
@@ -3396,7 +3396,7 @@
   "yrMin": "-6.0",
   "yrMinDt": "2026-02-04 04:09",
   "waterTemp": "25.4",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "여수",
@@ -3664,8 +3664,8 @@
   "yrMaxDt": "2015-08-30 21:53",
   "yrMin": "-24.0",
   "yrMinDt": "2015-02-20 03:36",
-  "waterTemp": "26.0",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTemp": "25.8",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "대산",
@@ -3933,8 +3933,8 @@
   "yrMaxDt": "2026-07-17 06:30",
   "yrMin": "-6.0",
   "yrMinDt": "2026-01-05 11:45",
-  "waterTemp": "23.5",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTemp": "23.4",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "군산",
@@ -4202,8 +4202,8 @@
   "yrMaxDt": "2005-08-22 04:56",
   "yrMin": "-42.0",
   "yrMinDt": "2005-02-10 10:42",
-  "waterTemp": "24.6",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTemp": "24.5",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "울산",
@@ -4472,7 +4472,7 @@
   "yrMin": "-18.0",
   "yrMinDt": "2012-04-09 02:38",
   "waterTemp": "24.9",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "추자도",
@@ -4746,8 +4746,8 @@
   "yrMaxDt": "",
   "yrMin": "-32.0",
   "yrMinDt": "2008-12-14 05:43",
-  "waterTemp": "25.2",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTemp": "25.4",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "성산포",
@@ -5009,8 +5009,8 @@
   "yrMaxDt": "2026-07-15 23:10",
   "yrMin": "-23.0",
   "yrMinDt": "2026-02-03 04:39",
-  "waterTemp": "24.2",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTemp": "24.3",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "모슬포",
@@ -5272,8 +5272,8 @@
   "yrMaxDt": "2026-06-17 00:05",
   "yrMin": "-26.0",
   "yrMinDt": "2026-01-04 04:38",
-  "waterTemp": "25.7",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTemp": "25.4",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "장항",
@@ -5808,8 +5808,8 @@
   "yrMaxDt": "2010-08-13 05:14",
   "yrMin": "-19.0",
   "yrMinDt": "2010-02-01 11:38",
-  "waterTemp": "24.7",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTemp": "24.9",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "고흥발포",
@@ -6077,8 +6077,8 @@
   "yrMaxDt": "2026-07-16 23:24",
   "yrMin": "-17.0",
   "yrMinDt": "2026-02-03 04:22",
-  "waterTemp": "25.8",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTemp": "25.7",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "완도",
@@ -6353,7 +6353,7 @@
   "yrMin": "-20.0",
   "yrMinDt": "2007-02-19 05:23",
   "waterTemp": "25.6",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "진도",
@@ -6627,8 +6627,8 @@
   "yrMaxDt": "2026-07-16 00:21",
   "yrMin": "-32.0",
   "yrMinDt": "2026-01-05 06:21",
-  "waterTemp": "25.0",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTemp": "24.8",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "거제도",
@@ -6897,7 +6897,7 @@
   "yrMin": "-12.0",
   "yrMinDt": "2026-02-04 03:58",
   "waterTemp": "24.6",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "거문도",
@@ -7165,8 +7165,8 @@
   "yrMaxDt": "2006-09-07 21:46",
   "yrMin": "-30.0",
   "yrMinDt": "2006-03-01 04:24",
-  "waterTemp": "25.2",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTemp": "25.1",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "강화대교",
@@ -7695,8 +7695,8 @@
   "yrMaxDt": "2015-09-30 15:23",
   "yrMin": "-40.0",
   "yrMinDt": "2015-03-22 21:00",
-  "waterTemp": "24.0",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTemp": "23.3",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "대청도",
@@ -8231,8 +8231,8 @@
   "yrMaxDt": "2026-07-17 05:21",
   "yrMin": "-16.0",
   "yrMinDt": "2026-01-05 10:45",
-  "waterTemp": "22.3",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTemp": "23.6",
+  "waterTempTime": "2026-09-23 09:12:00"
  },
  {
   "slug": "굴업도",
@@ -12190,8 +12190,8 @@
   "yrMaxDt": "2026-07-15 22:09",
   "yrMin": "-25.0",
   "yrMinDt": "2026-02-04 04:22",
-  "waterTemp": "26.5",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTemp": "26.3",
+  "waterTempTime": "2026-09-23 09:16:00"
  },
  {
   "slug": "마산",
@@ -12459,8 +12459,8 @@
   "yrMaxDt": "2026-07-15 22:06",
   "yrMin": "-21.0",
   "yrMinDt": "2026-02-04 04:00",
-  "waterTemp": "25.4",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTemp": "25.3",
+  "waterTempTime": "2026-09-23 09:16:00"
  },
  {
   "slug": "가덕도",
@@ -12728,8 +12728,8 @@
   "yrMaxDt": "2001-08-21 22:43",
   "yrMin": "-24.0",
   "yrMinDt": "2001-03-10 02:48",
-  "waterTemp": "24.8",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTemp": "24.7",
+  "waterTempTime": "2026-09-23 09:16:00"
  },
  {
   "slug": "교동대교",
@@ -13525,8 +13525,8 @@
   "yrMaxDt": "2011-05-19 05:00",
   "yrMin": "-27.0",
   "yrMinDt": "2011-03-23 00:18",
-  "waterTemp": "21.6",
-  "waterTempTime": "2026-09-20 03:04:00"
+  "waterTemp": "21.8",
+  "waterTempTime": "2026-09-23 09:16:00"
  },
  {
   "slug": "위도",
@@ -14019,8 +14019,8 @@
   "yrMaxDt": "1996-06-18 15:30",
   "yrMin": "-20.0",
   "yrMinDt": "1996-02-19 10:30",
-  "waterTemp": "25.2",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTemp": "24.8",
+  "waterTempTime": "2026-09-23 09:16:00"
  },
  {
   "slug": "여호항",
@@ -14822,7 +14822,7 @@
   "yrMaxDt": "2026-07-15 01:05",
   "yrMin": "-41.0",
   "yrMinDt": "2026-01-05 06:46",
-  "waterTemp": "23.6",
-  "waterTempTime": "2026-09-21 03:20:00"
+  "waterTemp": "23.2",
+  "waterTempTime": "2026-09-23 09:16:00"
  }
 ]
