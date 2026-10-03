@@ -3,19 +3,23 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{% if page.title %}{{ page.title }}{% else %}우아물때 - 전국 물때표·조석 정보{% endif %}</title>
-  <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+  {% if page.url == '/' %}
+    {% capture meta_title %}오늘 물때표 {{ site.today_label }} 전국 만조·간조 시간 | 우아물때{% endcapture %}
+    {% capture meta_desc %}{{ site.today_label }} 전국 물때표. 인천·부산·여수·제주 등 {{ site.spot_total }}개 지점의 오늘 만조·간조 시간과 조위, 수온을 국립해양조사원 공식 데이터로 확인하세요.{% endcapture %}
+  {% elsif page.title %}
+    {% assign meta_title = page.title %}
+    {% assign meta_desc = page.description %}
+  {% else %}
+    {% assign meta_title = '우아물때 - 전국 물때표·조석 정보' %}
+    {% assign meta_desc = site.description %}
+  {% endif %}
+  <title>{{ meta_title }}</title>
+  <meta name="description" content="{{ meta_desc | strip | escape }}">
   <link rel="canonical" href="{{ page.url | absolute_url }}">
 
-  {% if page.layout == 'spot' %}
-  <meta property="og:type" content="article">
-  <meta property="og:title" content="{{ page.title }}">
-  <meta property="og:description" content="{{ page.description }}">
-  {% else %}
-  <meta property="og:type" content="website">
-  <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}우아물때 - 전국 물때표·조석 정보{% endif %}">
-  <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
-  {% endif %}
+  <meta property="og:type" content="{% if page.layout == 'spot' %}article{% else %}website{% endif %}">
+  <meta property="og:title" content="{{ meta_title | strip | escape }}">
+  <meta property="og:description" content="{{ meta_desc | strip | escape }}">
   <meta property="og:image" content="{{ '/assets/og-image.png' | absolute_url }}">
   <meta property="og:url" content="{{ page.url | absolute_url }}">
   <meta property="og:site_name" content="우아물때">

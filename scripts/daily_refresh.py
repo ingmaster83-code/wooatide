@@ -9,7 +9,8 @@ KEY = '9490b1d34e92aa9e25b32a4cff1438fc7b9c71e5d332413916a391e867f61e86'
 BASE = 'https://apis.data.go.kr/1192136'
 WTEM_BASE = 'https://apis.data.go.kr/1192136/surveyWaterTemp'
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-TODAY = datetime.date.today()
+# 러너는 UTC라 date.today()는 KST보다 하루 늦음. 자정 직전 실행분이 다음날 기준이 되도록 +2h 보정한 KST 날짜 사용
+TODAY = (datetime.datetime.now(datetime.timezone(datetime.timedelta(hours=9))) + datetime.timedelta(hours=2)).date()
 TODAY_STR = TODAY.strftime('%Y-%m-%d')
 DOW = ['월', '화', '수', '목', '금', '토', '일']
 TYPE_MAP = {'1': ('high', '만조'), '2': ('low', '간조'), '3': ('high', '만조'), '4': ('low', '간조')}

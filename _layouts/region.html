@@ -12,8 +12,8 @@ layout: default
 <div class="tide-page">
 
   <div class="section" style="padding:16px 0 0;">
-    <div class="section-title">🗺️ {{ page.region }} 물때표</div>
-    <div class="section-desc">총 {{ page.spots.size }}개 지점</div>
+    <h1 class="section-title">🗺️ {{ page.region }} 물때표 <span class="spot-title-date">{{ site.today_label }}</span></h1>
+    <div class="section-desc">총 {{ page.spots.size }}개 지점 · 지점을 선택하면 오늘 만조·간조 시간과 8일 물때표를 볼 수 있어요</div>
   </div>
 
   <div class="ad-slot">{% include ad.html %}</div>
@@ -43,6 +43,17 @@ layout: default
       {% endfor %}
     </div>
   </div>
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {"@type": "ListItem", "position": 1, "name": "홈", "item": "{{ '/' | absolute_url }}"},
+      {"@type": "ListItem", "position": 2, "name": "{{ page.region }} 물때표", "item": "{{ page.url | absolute_url }}"}
+    ]
+  }
+  </script>
 
 </div>
 <aside class="tide-sidebar">

@@ -2,7 +2,7 @@ name: Daily Tide Data Refresh
 
 on:
   schedule:
-    - cron: '10 15 * * *'  # 매일 00:10 KST (전날 15:10 UTC)
+    - cron: '20 14 * * *'  # 매일 23:20 KST (GitHub cron 지연을 감안해 자정 전에 실행)
   workflow_dispatch:
 
 permissions:

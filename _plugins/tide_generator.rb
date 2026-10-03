@@ -1,6 +1,23 @@
 require 'json'
 
 module Jekyll
+  module TideLabel
+    def self.day_info(day)
+      m, d = day['dateLabel'].split('/').map(&:to_i)
+      dow = day['dow'].to_s[0]
+      { 'short' => "#{m}월 #{d}일", 'full' => "#{m}월 #{d}일(#{dow})" }
+    end
+
+    def self.events_text(events, with_val = true)
+      %w[high low].map { |type|
+        group = events.select { |e| e['type'] == type }
+        next if group.empty?
+        times = group.map { |e| with_val ? "#{e['time']}(#{e['val']}cm)" : e['time'] }.join('·')
+        "#{group.first['typeLabel']} #{times}"
+      }.compact.join(', ')
+    end
+  end
+
   module TideChart
     def self.build_svg(events)
       return '' if events.size < 2
@@ -96,6 +113,12 @@ module Jekyll
 
       Jekyll.logger.info "TideGenerator:", "#{spots.size}개 공식 + #{extended.size}개 확장지점 생성 중..."
 
+      ref_day = spots.first['tideDays'].find { |d| d['isToday'] } || spots.first['tideDays'].first
+      today_info = TideLabel.day_info(ref_day)
+      site.config['today_label'] = today_info['full']
+      site.config['today_short'] = today_info['short']
+      site.config['spot_total'] = spots.size + extended.size
+
       spots.each do |spot|
         same_region = spots
           .select { |s| s['regionSlug'] == spot['regionSlug'] && s['slug'] != spot['slug'] }
@@ -130,7 +153,7 @@ module Jekyll
       by_region = all_light.group_by { |s| s['regionSlug'] }
       by_region.each do |region_slug, region_spots|
         region_name = region_spots.first['region']
-        site.pages << RegionPage.new(site, region_name, region_slug, region_spots)
+        site.pages << RegionPage.new(site, region_name, region_slug, region_spots, today_info['full'])
       end
 
       Jekyll.logger.info "TideGenerator:", "완료 (총 #{spots.size + extended.size}개 지점, #{by_region.size}개 지역)"
@@ -160,12 +183,16 @@ module Jekyll
 
       self.data['chartSvg'] = TideChart.build_svg(today['events'])
 
+      info = TideLabel.day_info(today)
+      self.data['todayLabel'] = info['full']
+      self.data['todaySummary'] = "#{info['full']} #{spot['spotName']} 물때: #{TideLabel.events_text(today['events'])}. 조차는 #{self.data['todayRange']}cm입니다."
+
       if spot['waterTemp'] && spot['waterTemp'] != ''
-        self.data['title'] = "#{spot['spotName']} 물때표·수온 - 오늘 만조·간조 시각 | 우아물때"
-        self.data['description'] = "#{spot['spotName']}(#{spot['region']} #{spot['city']}) 오늘의 물때표와 실시간 수온 #{spot['waterTemp']}℃. 만조·간조 시각과 조위를 국립해양조사원 공식 데이터로 확인하세요."
+        self.data['title'] = "#{spot['spotName']} 물때표·수온 #{info['full']} 만조·간조 시간 | 우아물때"
+        self.data['description'] = "#{info['full']} #{spot['spotName']} #{TideLabel.events_text(today['events'], false)}. 조차 #{self.data['todayRange']}cm, 수온 #{spot['waterTemp']}℃. 8일 물때표와 최근 1년 최고·최저 조위까지 한눈에 확인하세요."
       else
-        self.data['title'] = "#{spot['spotName']} 물때표 - 오늘 만조·간조 시각 | 우아물때"
-        self.data['description'] = "#{spot['spotName']}(#{spot['region']} #{spot['city']}) 오늘의 물때표. 만조·간조 시각과 조위를 국립해양조사원 공식 데이터로 확인하세요."
+        self.data['title'] = "#{spot['spotName']} 물때표 #{info['full']} 만조·간조 시간 | 우아물때"
+        self.data['description'] = "#{info['full']} #{spot['spotName']} #{TideLabel.events_text(today['events'], false)}. 조차 #{self.data['todayRange']}cm. 8일 물때표와 최근 1년 최고·최저 조위까지 한눈에 확인하세요."
       end
     end
   end
@@ -192,18 +219,23 @@ module Jekyll
 
       self.data['chartSvg'] = TideChart.build_svg_from_series(spot['todaySeries'])
 
+      ref_day = (site.data['tide_spots'] || []).first['tideDays'].find { |d| d['isToday'] }
+      info = ref_day ? TideLabel.day_info(ref_day) : { 'full' => '오늘' }
+      self.data['todayLabel'] = info['full']
+      self.data['todaySummary'] = "#{info['full']} #{spot['spotName']} 물때(추정): #{TideLabel.events_text(spot['todayEvents'])}. 조차는 약 #{self.data['todayRange']}cm입니다."
+
       if spot['waterTemp'] && spot['waterTemp'] != ''
-        self.data['title'] = "#{spot['spotName']} 물때표·수온 - 오늘 만조·간조 추정 시각 | 우아물때"
-        self.data['description'] = "#{spot['spotName']}(#{spot['region']} #{spot['city']}) 오늘의 물때 추정치와 인근 관측소 수온 #{spot['waterTemp']}℃. 인근 기준항 #{spot['baseName']} 데이터를 보정하여 계산했습니다."
+        self.data['title'] = "#{spot['spotName']} 물때표·수온 #{info['full']} 만조·간조 시간 | 우아물때"
+        self.data['description'] = "#{info['full']} #{spot['spotName']} #{TideLabel.events_text(spot['todayEvents'], false)}(추정). 인근 수온 #{spot['waterTemp']}℃. 가까운 관측소 #{spot['nearestOfficialName']} 예보를 보정해 계산한 #{spot['city']} 물때표입니다."
       else
-        self.data['title'] = "#{spot['spotName']} 물때표 - 오늘 만조·간조 추정 시각 | 우아물때"
-        self.data['description'] = "#{spot['spotName']}(#{spot['region']} #{spot['city']}) 오늘의 물때 추정치. 인근 기준항 #{spot['baseName']} 데이터를 보정하여 계산했습니다."
+        self.data['title'] = "#{spot['spotName']} 물때표 #{info['full']} 만조·간조 시간 | 우아물때"
+        self.data['description'] = "#{info['full']} #{spot['spotName']} #{TideLabel.events_text(spot['todayEvents'], false)}(추정). 가까운 관측소 #{spot['nearestOfficialName']} 예보를 보정해 계산한 #{spot['city']} 물때표입니다."
       end
     end
   end
 
   class RegionPage < Page
-    def initialize(site, region, region_slug, spots)
+    def initialize(site, region, region_slug, spots, today_label)
       @site = site
       @base = site.source
       @dir  = "region/#{region_slug}"
@@ -215,8 +247,8 @@ module Jekyll
       self.data['region'] = region
       self.data['regionSlug'] = region_slug
       self.data['spots'] = spots
-      self.data['title'] = "#{region} 물때표 총정리 | 우아물때 #{spots.size}개 지점"
-      self.data['description'] = "#{region} 물때표 #{spots.size}개 지점 총정리. 만조·간조 시각을 국립해양조사원 공식 데이터로 확인하세요."
+      self.data['title'] = "#{region} 물때표 #{today_label} 지점별 만조·간조 시간 | 우아물때"
+      self.data['description'] = "#{today_label} #{region} 물때표. #{spots.first(3).map { |s| s['spotName'] }.join('·')} 등 #{spots.size}개 지점의 오늘 만조·간조 시간과 조위를 국립해양조사원 공식 데이터로 확인하세요."
     end
   end
 end
