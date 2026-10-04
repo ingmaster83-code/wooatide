@@ -182,12 +182,25 @@ def refresh_extended():
     with open(path, encoding='utf-8') as f:
         spots = json.load(f)
 
+    with open(os.path.join(ROOT, '_data', 'tide_spots.json'), encoding='utf-8') as f:
+        official_by_slug = {s['slug']: s for s in json.load(f)}
+
     ok, fail = 0, 0
     for sp in spots:
+        if sp.get('copyFrom'):
+            src = official_by_slug.get(sp['copyFrom'])
+            day = next((d for d in src['tideDays'] if d['isToday']), None) if src else None
+            if day:
+                sp['todayEvents'] = day['events']
+                sp['dataDateLabel'] = f'{TODAY.month}월 {TODAY.day}일({DOW[TODAY.weekday()]})'
+                ok += 1
+            else:
+                fail += 1
+            continue
         try:
             xml = call(f'{BASE}/tidebed/GetTidebedApiService',
                        {'serviceKey': KEY, 'numOfRows': '30', 'pageNo': '1', 'dataType': 'JSON',
-                        'lot': sp['lot'], 'lat': sp['lat'], 'reqDate': TODAY.strftime('%Y%m%d'), 'min': '60'})
+                        'lot': sp.get('tideLot', sp['lot']), 'lat': sp.get('tideLat', sp['lat']), 'reqDate': TODAY.strftime('%Y%m%d'), 'min': '60'})
             items = parse_items(xml)
             if len(items) < 3:
                 raise ValueError('insufficient series points')
@@ -210,6 +223,7 @@ def refresh_extended():
 
             sp['todayEvents'] = events
             sp['todaySeries'] = [{'time': t, 'val': str(round(v))} for t, v in pts]
+            sp['dataDateLabel'] = f'{TODAY.month}월 {TODAY.day}일({DOW[TODAY.weekday()]})'
             ok += 1
         except Exception as e:
             fail += 1

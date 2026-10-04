@@ -326,3 +326,5 @@ h1, h2, h3 { line-height: 1.35; }
 }
 .our-sites-links a:hover { background: rgba(255,255,255,.12); color: #fff; }
 .our-sites-links a.active { background: rgba(255,255,255,.18); color: #fff; }
+.place-info { list-style: none; margin: 0; padding: 0; display: grid; gap: 8px; font-size: .9rem; line-height: 1.7; }
+.place-info b { display: inline-block; min-width: 42px; color: var(--text-muted); font-weight: 600; }

@@ -119,31 +119,22 @@ module Jekyll
       site.config['today_short'] = today_info['short']
       site.config['spot_total'] = spots.size + extended.size
 
+      index = (spots + extended).map { |s| { 'slug' => s['slug'], 'name' => s['spotName'], 'lat' => s['lat'].to_f, 'lot' => s['lot'].to_f } }
+      nearest_for = lambda do |spot|
+        la, lo = spot['lat'].to_f, spot['lot'].to_f
+        ranked = index.reject { |s| s['slug'] == spot['slug'] }
+                      .sort_by { |s| (s['lat'] - la)**2 + (s['lot'] - lo)**2 }
+        [ranked.first(8).map { |s| { 'slug' => s['slug'], 'name' => s['name'] } },
+         ranked[8, 3].to_a.map { |s| { 'slug' => s['slug'], 'name' => s['name'] } }]
+      end
+
       spots.each do |spot|
-        same_region = spots
-          .select { |s| s['regionSlug'] == spot['regionSlug'] && s['slug'] != spot['slug'] }
-          .first(8)
-          .map { |s| { 'slug' => s['slug'], 'name' => s['spotName'] } }
-
-        nearby = spots
-          .select { |s| s['slug'] != spot['slug'] }
-          .sample(3)
-          .map { |s| { 'slug' => s['slug'], 'name' => s['spotName'] } }
-
+        same_region, nearby = nearest_for.call(spot)
         site.pages << SpotPage.new(site, spot, same_region, nearby)
       end
 
       extended.each do |spot|
-        same_region = (spots + extended)
-          .select { |s| s['regionSlug'] == spot['regionSlug'] && s['slug'] != spot['slug'] }
-          .first(8)
-          .map { |s| { 'slug' => s['slug'], 'name' => s['spotName'] } }
-
-        nearby = extended
-          .select { |s| s['slug'] != spot['slug'] }
-          .sample(3)
-          .map { |s| { 'slug' => s['slug'], 'name' => s['spotName'] } }
-
+        same_region, nearby = nearest_for.call(spot)
         site.pages << ExtendedSpotPage.new(site, spot, same_region, nearby)
       end
 
@@ -217,19 +208,23 @@ module Jekyll
       self.data['todayRange'] = (vals.max - vals.min).round rescue 0
       self.data['todayMulddae'] = '추정'
 
-      self.data['chartSvg'] = TideChart.build_svg_from_series(spot['todaySeries'])
+      self.data['chartSvg'] = spot['todaySeries'] ? TideChart.build_svg_from_series(spot['todaySeries']) : TideChart.build_svg(spot['todayEvents'])
 
       ref_day = (site.data['tide_spots'] || []).first['tideDays'].find { |d| d['isToday'] }
       info = ref_day ? TideLabel.day_info(ref_day) : { 'full' => '오늘' }
+      info = { 'full' => spot['dataDateLabel'] } if spot['dataDateLabel'] && spot['dataDateLabel'] != ''
+
       self.data['todayLabel'] = info['full']
       self.data['todaySummary'] = "#{info['full']} #{spot['spotName']} 물때(추정): #{TideLabel.events_text(spot['todayEvents'])}. 조차는 약 #{self.data['todayRange']}cm입니다."
 
+      method_suffix = spot['copyFrom'] ? "가까운 관측소 #{spot['nearestOfficialName']}의 예보를 기준으로 한 #{spot['city']} 추정 물때표입니다." : "가까운 관측소 #{spot['nearestOfficialName']} 예보를 보정해 계산한 #{spot['city']} 물때표입니다."
+
       if spot['waterTemp'] && spot['waterTemp'] != ''
         self.data['title'] = "#{spot['spotName']} 물때표·수온 #{info['full']} 만조·간조 시간 | 우아물때"
-        self.data['description'] = "#{info['full']} #{spot['spotName']} #{TideLabel.events_text(spot['todayEvents'], false)}(추정). 인근 수온 #{spot['waterTemp']}℃. 가까운 관측소 #{spot['nearestOfficialName']} 예보를 보정해 계산한 #{spot['city']} 물때표입니다."
+        self.data['description'] = "#{info['full']} #{spot['spotName']} #{TideLabel.events_text(spot['todayEvents'], false)}(추정). 인근 수온 #{spot['waterTemp']}℃. #{method_suffix}"
       else
         self.data['title'] = "#{spot['spotName']} 물때표 #{info['full']} 만조·간조 시간 | 우아물때"
-        self.data['description'] = "#{info['full']} #{spot['spotName']} #{TideLabel.events_text(spot['todayEvents'], false)}(추정). 가까운 관측소 #{spot['nearestOfficialName']} 예보를 보정해 계산한 #{spot['city']} 물때표입니다."
+        self.data['description'] = "#{info['full']} #{spot['spotName']} #{TideLabel.events_text(spot['todayEvents'], false)}(추정). #{method_suffix}"
       end
     end
   end

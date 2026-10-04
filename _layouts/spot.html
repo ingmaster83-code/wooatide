@@ -90,7 +90,7 @@ layout: default
   <div class="card">
     <h2>ℹ️ 더 자세한 기록이 필요하신가요?</h2>
     <p style="color:var(--text-muted);font-size:.9rem;line-height:1.8;">
-      {{ page.spotName }}은(는) 가장 가까운 공식 관측 기준항인 <strong>{{ page.baseName }}</strong>의 데이터를 보간(위치·시간 보정)하여 계산한 추정치입니다.
+      {% if page.copyFrom %}{{ page.spotName }}은(는) 가장 가까운 공식 관측소인 <strong>{{ page.nearestOfficialName }}</strong>의 조석예보를 그대로 적용한 추정치입니다. 동해안은 조수 간만의 차가 작고 관측소 간 시각 차이도 크지 않아 참고용으로 활용할 수 있어요.{% else %}{{ page.spotName }}은(는) 가장 가까운 공식 관측 기준항인 <strong>{{ page.baseName }}</strong>의 데이터를 보간(위치·시간 보정)하여 계산한 추정치입니다.{% endif %}
       {% if page.baseSlug %}8일치 상세 물때표와 역대 최고·최저 기록은 기준항 페이지에서 공식 데이터로 확인할 수 있어요.{% endif %}
     </p>
     {% if page.baseSlug %}
@@ -154,6 +154,19 @@ layout: default
   </div>
   {% endif %}
 
+  {% if page.kind %}
+  <!-- 장소 안내 -->
+  <div class="card">
+    <h2>📌 {{ page.spotName }} 안내</h2>
+    <ul class="place-info">
+      <li><b>구분</b> {{ page.kind }}</li>
+      {% if page.address and page.address != "" %}<li><b>주소</b> {{ page.address }}</li>{% endif %}
+      {% if page.blurb and page.blurb != "" %}<li><b>소개</b> {{ page.blurb }}</li>{% endif %}
+    </ul>
+    <a href="{{ page.sourceUrl }}" target="_blank" rel="noopener" class="map-link-btn" style="margin-top:12px;">{{ page.spotName }} 상세 정보 · {{ page.sourceLabel }}에서 보기 →</a>
+  </div>
+  {% endif %}
+
   <!-- 위치 -->
   <div class="card">
     <h2>📍 위치 정보</h2>
@@ -170,7 +183,7 @@ layout: default
   <!-- 같은 지역 다른 지점 -->
   {% if page.same_region and page.same_region.size > 0 %}
   <div class="card">
-    <h2>🗺️ {{ page.region }} 다른 지점 물때표</h2>
+    <h2>📍 {{ page.spotName }} 주변 지점 물때표</h2>
     <div class="related-grid">
       {% for s in page.same_region %}
       <a href="/spot/{{ s.slug }}/" class="related-card">
