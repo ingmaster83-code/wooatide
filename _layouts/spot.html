@@ -180,6 +180,8 @@ layout: default
     <a href="https://wooafish.wooahouse.com/region/{{ page.regionSlug }}/" target="_blank" rel="noopener">우아낚시에서 보기 →</a>
   </div>
 
+{% include nearby.html %}
+
   <!-- 같은 지역 다른 지점 -->
   {% if page.same_region and page.same_region.size > 0 %}
   <div class="card">

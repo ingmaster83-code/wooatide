@@ -1,0 +1,27 @@
+{% assign nb = site.data.nearby[page.path] %}
+{% if nb and nb.size > 0 %}
+<style>
+.nearby-block{margin:28px 0;padding:18px;border:1px solid var(--border,#E5E7EB);border-radius:var(--radius,10px);background:var(--white,#fff)}
+.nearby-block h2{margin:0 0 4px;font-size:1.1rem}
+.nearby-sub{margin:0 0 14px;font-size:.84rem;color:var(--text-muted,#6B7280)}
+.nearby-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(210px,1fr));gap:10px}
+.nearby-card{display:flex;align-items:center;gap:10px;padding:11px 13px;border:1px solid var(--border,#E5E7EB);border-radius:10px;color:var(--text,#1F2937);text-decoration:none;background:var(--bg,#F9FAFB)}
+.nearby-card:hover{border-color:var(--primary,#0891B2);text-decoration:none}
+.nearby-icon{font-size:1.4rem;flex-shrink:0}
+.nearby-info{display:flex;flex-direction:column;min-width:0}
+.nearby-name{font-weight:700;font-size:.92rem;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.nearby-meta{font-size:.78rem;color:var(--text-muted,#6B7280)}
+</style>
+<section class="nearby-block">
+  <h2>📍 근처 가볼만한 곳</h2>
+  <p class="nearby-sub">이 장소에서 가까운 다른 명소·시설 (우아하우스 패밀리 사이트)</p>
+  <div class="nearby-grid">
+    {% for n in nb %}
+    <a href="{{ n.u }}" class="nearby-card" target="_blank" rel="noopener">
+      <span class="nearby-icon">{{ n.i }}</span>
+      <span class="nearby-info"><span class="nearby-name">{{ n.n }}</span><span class="nearby-meta">{{ n.k }} · {{ n.d }}km</span></span>
+    </a>
+    {% endfor %}
+  </div>
+</section>
+{% endif %}
