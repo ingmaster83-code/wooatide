@@ -4,7 +4,12 @@ from collections import Counter
 sys.path.insert(0, r'C:\개인\wooahouse\wootide\scripts')
 from stations import STATIONS
 
-KEY = '9490b1d34e92aa9e25b32a4cff1438fc7b9c71e5d332413916a391e867f61e86'
+def _need_key():
+    import os, sys
+    return os.environ.get("DATA_GO_KR_API_KEY") or sys.exit("환경변수 DATA_GO_KR_API_KEY 가 필요합니다(키를 코드에 넣지 마세요).")
+
+
+KEY = _need_key()
 BASE = 'https://apis.data.go.kr/1192136'
 TODAY = '20260811'
 
